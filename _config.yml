@@ -1,0 +1,112 @@
+# Site settings
+title: FICAM Architecture
+name: FICAM Architecture
+email: lachelle.levan@gsa.gov
+author:
+    name: FICAM
+description: Information on the US FICAM Architecture
+baseurl: '/ficam-arch'
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  lachellel
+highlighter: pygments
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl:
+logoalt:
+
+# Repo list
+# List repos that you would like to appear on the homepage here
+repos:
+- name: ficam-arch
+  description: FICAM Architecture Working Products
+  url: https://github.com/lachellel/ficam-arch
+
+# Build settings
+markdown: kramdown
+
+exclude:
+- bin
+- config.rb
+- Gemfile
+- Gemfile.lock
+- gems
+- Procfile
+- Rakefile
+- README.md
+- script
+- vendor
+
+navigation:
+- text: Introduction
+  url: index.html
+  internal: true
+  coll: false
+- text: Overview
+  url: overview
+  internal: true
+  coll: false
+- text: Goals and Objectives
+  url: goals
+  internal: true
+  coll: false
+- text: Conceptual
+  url: conceptual
+  internal: true
+  coll: false
+- text: Service Areas
+  url: services
+  internal: true
+  coll: true
+  collname: services
+- text: Use Cases
+  url: usecases/index/
+  internal: true
+  coll: true
+  collname: usecases
+- text: Demos
+  url: demos/index/
+  internal: true
+  coll: true
+  collname: usecases
+#https://github.com/jekyll/jekyll/issues/2346
+- text: FAQ
+  url: faq
+  internal: true
+  coll: false
+- text: Contribute
+  url: contribute
+  internal: true
+  coll: false
+
+#https://github.com/jekyll/jekyll/issues/2346
+collections:
+  usecases:
+    label: "Use Cases"
+    permalink: usecases/:path/
+    output: true
+  services:
+    label: "Services"
+    permalink: services/:path/
+    output: true
+  demos:
+    label: "Demos"
+    permalink: demos/:path/
+    output: true
+
+#- text: Update the config file
+#  url: update-the-config-file/
+#  internal: true
+#  children:
+#  - text: Understanding the `baseurl:` property
+#    url: understanding-baseurl/
+#    internal: true
+
+include:
+- _stylesheets
+- _javascript
+
+
+
+# Custom site configuration
+lang: en
