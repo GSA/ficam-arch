@@ -55,7 +55,7 @@ navigation:
   internal: true
   coll: false
 - text: Service Areas
-  url: services
+  url: services/index/
   internal: true
   coll: true
   collname: services
@@ -64,11 +64,11 @@ navigation:
   internal: true
   coll: true
   collname: usecases
-- text: Demos
-  url: demos/index/
-  internal: true
-  coll: true
-  collname: usecases
+#- text: Demos
+#  url: demos/index/
+#  internal: true
+#  coll: true
+#  collname: usecases
 #https://github.com/jekyll/jekyll/issues/2346
 - text: FAQ
   url: faq

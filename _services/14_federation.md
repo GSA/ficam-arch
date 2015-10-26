@@ -2,10 +2,9 @@
 layout: page
 title: Federation
 collection: services
+permalink: /federation/
 ---
 
-## Introduction
+## Federation
 
 Sed ut perspiciatis unde omnis iste natus error sit v
-
-## 

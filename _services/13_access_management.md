@@ -2,6 +2,7 @@
 layout: page
 title: Access Management
 collection: services
+permalink: /accessmgmt/
 ---
 
 ## My Sample 3

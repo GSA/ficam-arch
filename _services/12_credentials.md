@@ -2,6 +2,7 @@
 layout: page
 title: Credentials
 collection: services
+permalink: /credentials/
 ---
 
 ## Lorem Ipsum

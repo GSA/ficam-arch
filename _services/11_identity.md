@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Sample 1
-collection: demos
+title: Identity
+collection: services
+permalink: /identity/
 ---
 
 ## Lorem Ipsum

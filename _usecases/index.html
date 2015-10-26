@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Introduction
+title: Use Cases Introduction
 collection: usecases
 ---
-{% capture index %}{% include index.md %}{% endcapture %}
+
+{% capture index %}{% include index_usecases.md %}{% endcapture %}
 {{ index | markdownify }}
 
 <div id="home">
-  <h2>Guides</h2>
+  <h2>All Use Cases</h2>
   <ul class="pages">
     {% for page in site.usecases %}
       <li>

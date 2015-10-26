@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <title>
+      
+        Create and Issue Derived PIV - FICAM Architecture
+      
+    </title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="/ficam-arch/assets/css/normalize.css">
+    <link rel="stylesheet" href="/ficam-arch/assets/css/main.css">
+    <link rel="stylesheet" href="/ficam-arch/assets/css/syntax.css">
+
+	<script src="/ficam-arch/assets/js/jquery-1.11.2.min.js"></script>
+	<script src="/ficam-arch/assets/js/jquery-migrate-1.2.1.min.js"></script>
+	<script src="/ficam-arch/assets/js/accordion.js"></script>
+
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="/ficam-arch/assets/js/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+  <body>
+    <div class="container">
+      <header role="banner">
+        <div class="wrap">
+          
+          <h1 class="site-title"><a class="title-link" href="/ficam-arch/">FICAM Architecture</a></h1>
+        </div>
+      </header>
+
+      <div class="wrap content">
+
+        <aside>
+  <p class="intro"></p>
+  <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
+  <nav class="sidebar-nav" role="navigation">
+    <ul>
+      
+        <li class="group ">
+          <a href="/ficam-arch/index.html"  
+            title="Introduction">Introduction</a>
+			
+      
+        <li class="group ">
+          <a href="/ficam-arch/overview"  
+            title="Overview">Overview</a>
+			
+      
+        <li class="group ">
+          <a href="/ficam-arch/goals"  
+            title="Goals and Objectives">Goals and Objectives</a>
+			
+      
+        <li class="group ">
+          <a href="/ficam-arch/conceptual"  
+            title="Conceptual">Conceptual</a>
+			
+      
+        <li class="group ">
+          <a href="/ficam-arch/services/index/"  
+            title="Service Areas">Service Areas</a>
+			
+            <button class="expand-subnav"
+                    aria-expanded="false"
+                    aria-controls="nav-collapsible-5">+</button>
+          
+            <ul class="nav-children" id="nav-collapsible-5" 
+                aria-hidden="true">
+              
+				<li class="">
+                  <a href="/ficam-arch/identity/"
+                    title="Identity">Identity</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/credentials/"
+                    title="Credentials">Credentials</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/accessmgmt/"
+                    title="Access Management">Access Management</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/federation/"
+                    title="Federation">Federation</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/services/index/"
+                    title="Services">Services</a>
+                </li>
+              
+            </ul>
+        
+      
+        <li class="group ">
+          <a href="/ficam-arch/usecases/index/"  
+            title="Use Cases">Use Cases</a>
+			
+            <button class="expand-subnav"
+                    aria-expanded="false"
+                    aria-controls="nav-collapsible-6">+</button>
+          
+            <ul class="nav-children" id="nav-collapsible-6" 
+                aria-hidden="true">
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/11_createidentity/"
+                    title="Create Identity">Create Identity</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/12_proofidentityloa2/"
+                    title="Proof an Identity at Level of Assurance 2">Proof an Identity at Level of Assurance 2</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/13_proofidentityloa3/"
+                    title="Proof an Identity at Level of Assurance 3">Proof an Identity at Level of Assurance 3</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/14_proofidentityloa4/"
+                    title="Proof an Identity at Level of Assurance 4">Proof an Identity at Level of Assurance 4</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/15_resolveidentity/"
+                    title="Resolve an Identity Internal to an Agency">Resolve an Identity Internal to an Agency</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/21_createcredentialloa2/"
+                    title="Create and Issue Level of Assurance 2 Credential">Create and Issue Level of Assurance 2 Credential</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/22_createcredentialloa3/"
+                    title="Create and Issue Level of Assurance 3 Credential">Create and Issue Level of Assurance 3 Credential</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/23_createcredentialloa4/"
+                    title="Create and Issue Level of Assurance 4 Credential">Create and Issue Level of Assurance 4 Credential</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/24_createderivedpiv/"
+                    title="Create and Issue Derived PIV">Create and Issue Derived PIV</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/25_maintaincredrenew/"
+                    title="Maintain Credential - Renew">Maintain Credential - Renew</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/26_maintaincredreset/"
+                    title="Maintain Credential - Reset">Maintain Credential - Reset</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/27_maintaincredrevoke/"
+                    title="Maintain Credential - Revoke">Maintain Credential - Revoke</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/31_accesspolicies/"
+                    title="Administer Digital Access Policies">Administer Digital Access Policies</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/32_accessentitlements/"
+                    title="Manage Entitlements">Manage Entitlements</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/33_access_grant/"
+                    title="Grant Access to a protected resource">Grant Access to a protected resource</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/34_access_authenticate/"
+                    title="Authenticate a User">Authenticate a User</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/35_access_authorize_static/"
+                    title="Authorize Access - Static">Authorize Access - Static</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/36_access_authorize_dynamic/"
+                    title="Authorize Access - Dynamic">Authorize Access - Dynamic</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/41_federate_exchange_attributes/"
+                    title="Exchange Attributes in a Federation">Exchange Attributes in a Federation</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/42_federate_accept%20/"
+                    title="Accept Credentials in a Federation">Accept Credentials in a Federation</a>
+                </li>
+              
+				<li class="">
+                  <a href="/ficam-arch/usecases/index/"
+                    title="Use Cases Introduction">Use Cases Introduction</a>
+                </li>
+              
+            </ul>
+        
+      
+        <li class="group ">
+          <a href="/ficam-arch/faq"  
+            title="FAQ">FAQ</a>
+			
+      
+        <li class="group ">
+          <a href="/ficam-arch/contribute"  
+            title="Contribute">Contribute</a>
+			
+      
+    </ul>
+  </nav>
+</aside>
+
+
+        <section id="main" class="main-content" role="main">
+          <h2 class="page-title">Create and Issue Derived PIV</h2>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Sed ut perspiciatis unde omnis iste natus error sit v</p>
+
+<h2 id="description">Description</h2>
+
+<h2 id="considerations">Considerations</h2>
+
+<h2 id="examples">Examples</h2>
+
+
+        </section>
+
+      </div><!-- /.wrap content -->
+
+      <footer role="contentinfo">
+        <div class="wrap">
+          <p>This project is maintained by <a href="">FICAM</a>.</p>
+
+          <p>Hosted on <a href="http://pages.github.com/">GitHub Pages</a>.</p>
+        </div><!--/.wrap -->
+      </footer>
+    </div> <!-- /.container -->
+    </body>
+</html>

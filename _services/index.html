@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Introduction
+title: Services
 collection: services
 ---
 {% capture index %}{% include index_services.md %}{% endcapture %}
 {{ index | markdownify }}
 
 <div id="home">
-  <h2>Posts</h2>
+  <h2>Services</h2>
   <ul class="pages">
     {% for page in site.services %}
       <li>
