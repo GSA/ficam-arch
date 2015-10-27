@@ -12,8 +12,8 @@ github_username:  lachellel
 highlighter: pygments
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl:
-logoalt:
+logourl: 
+logoalt: Federal Identity Credential and Access Management
 
 # Repo list
 # List repos that you would like to appear on the homepage here
@@ -46,34 +46,42 @@ navigation:
   url: overview
   internal: true
   coll: false
+- text: Conceptual Diagram
+  url: conceptual
+  internal: true
+  coll: false
 - text: Goals and Objectives
   url: goals
   internal: true
   coll: false
-- text: Conceptual
-  url: conceptual
-  internal: true
-  coll: false
-- text: Service Areas
+- text: Services Framework
   url: services/index/
   internal: true
   coll: true
   collname: services
+- text: Business Process Diagram
+  url: businessprocess
+  internal: true
+  coll: false
 - text: Use Cases
   url: usecases/index/
   internal: true
   coll: true
   collname: usecases
+- text: Applications Diagrams
+  url: applications
+  internal: true
+  coll: false
 #- text: Demos
 #  url: demos/index/
 #  internal: true
 #  coll: true
 #  collname: usecases
 #https://github.com/jekyll/jekyll/issues/2346
-- text: FAQ
-  url: faq
-  internal: true
-  coll: false
+#- text: FAQ
+#  url: faq
+#  internal: true
+#  coll: false
 - text: Contribute
   url: contribute
   internal: true

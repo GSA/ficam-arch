@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Sample 3
-collection: userconfig
+title: Access Management
+collection: services
+permalink: /accessmgmt/
 ---
 
 ## My Sample 3
