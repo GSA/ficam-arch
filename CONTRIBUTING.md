@@ -1,10 +1,10 @@
 ## Welcome
 
-Thank you for considering contributing to an open source project! If you're unsure or afraid of anything, just ask or submit the issue or pull request. The worst that can happen is that you'll be politely asked to change something. We appreciate any sort of contribution and are committed to transparency and collaboration.
+Thank you for considering contributing to our development of open and transparent architecture.  If you're unsure or afraid of anything, just ask or submit the issue or pull request. We appreciate any sort of contribution and are committed to transparency and collaboration.
 
-Before contributing, we encourage you to read our CONTRIBUTING policy (you are here), our LICENSE, and our README, all of which should be in this repository.
+Before contributing, we encourage you to read our CONTRIBUTING policy (you are here), our LICENSE, and our README, all of which are in this repository.
 
-The idea for open sourcing this content, the contributing framework, and the licensing framework are based on repositories from 18F https://github.com/18f
+The idea for open sourcing this content, the contributing framework, and the licensing framework are based on repositories from [18F](https://github.com/18f)
 
 ## Public domain
 
@@ -19,7 +19,7 @@ with this waiver of copyright interest.
 ## How to Contribute
 We welcome contributions in the form of requests, issues and pages.  
 
-* _Requests:_ You've identified a useful addition to the site
+* _Requests:_ You've identified a useful addition to the architecture which benefits USG Agencies
   * Open an Issue on this repository
   * State the recommendation
   * Include any links or other information
@@ -34,10 +34,10 @@ We welcome contributions in the form of requests, issues and pages.
   * Open an Issue on this repository, identifying the content you would like to contribute
   * Limit each Issue to one content topic
   * Fork the repository
-  * Add a new Page and your suggested content
+  * Add a new Page or modify an existing Page with your suggested content
   * Submit a Pull Request, referencing the Issue Number
 
 ## General Practices
-This site is intended to be Vendor neutral.  Marketing materials for Commercial Products should not be submitted.  If you would like to contribute a page which includes Commercial Products and references for development and engineering, please review the Commercial Product trademark or copyright guides from the Product Vendor and reference these guides in your Pull Request.  
+This content is Vendor neutral.  Marketing materials for Commercial Products should not be submitted.  If you would like to contribute a page or content which includes Commercial Products and a specific references for development and engineering, please review the Commercial Product trademark or copyright guides from the Product Vendor and reference those guides in your Pull Request.
 
-Contributors should consider the audience when submitting content.  Plain language benefits a broad audience.  Review your proposed content for use of acronyms and consider the audience.   
+Contributors should consider the audience when submitting content.  Plain language benefits a broad audience.  Review your proposed content for use of acronyms and specialized jargon before submitting.  
