@@ -1,6 +1,6 @@
 # Site settings
-title: FICAM Architecture
-name: FICAM Architecture
+title: FICAM Architecture (In Draft)
+name: FICAM Architecture (In Draft)
 email: lachelle.levan@gsa.gov
 author:
     name: FICAM
@@ -8,7 +8,7 @@ description: Information on the US FICAM Architecture
 baseurl: '/ficam-arch'
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  lachellel
+github_username:  GSA
 highlighter: pygments
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
@@ -20,7 +20,7 @@ logoalt: Federal Identity Credential and Access Management
 repos:
 - name: ficam-arch
   description: FICAM Architecture Working Products
-  url: https://github.com/lachellel/ficam-arch
+  url: https://github.com/GSA/ficam-arch
 
 # Build settings
 markdown: kramdown
@@ -96,10 +96,6 @@ collections:
   services:
     label: "Services"
     permalink: services/:path/
-    output: true
-  demos:
-    label: "Demos"
-    permalink: demos/:path/
     output: true
 
 #- text: Update the config file
