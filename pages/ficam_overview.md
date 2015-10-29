@@ -10,3 +10,5 @@ The FICAM Architecture outlines a common framework for ICAM within the Federal g
 
 To support a collaborative environment for the Federal ICAM Community and its partners, and to enable a more agile design of these artifacts and tools, the working versions of each artifact have been released on this site for continuous refinement and improvement.   
 Stakeholders and partners are urged to continuously review these tools and provide recommendations on how they can be improved to support agency knowledge and ICAM implementation. Source files, final records, and future revisions will be managed by the FICAM Program, with guidance and support from the CIO Council’s ICAMSC.
+
+!!!
