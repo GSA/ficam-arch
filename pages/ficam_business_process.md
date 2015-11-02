@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ICAM Business Process Diagram
+title: Business Process Diagram
 permalink: /businessprocess/
 ---
 Presents the structure of organizational processes and activities performed by users interacting with systems to produce process outcomes. It also serves as a holistic summary of the use cases and how they fit together through a linear and functional view.

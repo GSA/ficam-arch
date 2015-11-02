@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ICAM Goals & Objectives
+title: Goals and Objectives
 permalink: /goals/
 ---
 Provides the strategic goals and objectives of government-wide implementation of ICAM. Terms are defined as follows:
