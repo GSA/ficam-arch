@@ -41,6 +41,7 @@ body {
     line-height: 1.466666667;
 }
 
+
 h1,
 h3,
 h4,
@@ -51,10 +52,10 @@ strong {
 }
 
 .site-title {
-    font-size: 1.625em;
+    font-size: 2em;
     font-family: "Avenir Next", Arial, sans-serif;
     font-weight: normal;
-    color: #919395;
+    color: #ffffff;
     margin: 0;
     line-height: 1.2941176470588236;
     display: inline-block;
@@ -137,7 +138,7 @@ a:focus {
 }
 
 a.title-link {
-    color: #75787B;
+    color: #ffffff;
     border-bottom: none;
 }
 
@@ -317,8 +318,8 @@ section:before {
 
 header {
     width: 100%;
-    border-bottom: 4px solid {{ site.brand_color }};
-    background-color: #fff;
+    /*border-bottom: 4px solid {{ site.brand_color }};*/
+    background-color: #0B0B3B;
     padding: 2em 0;
 }
 
