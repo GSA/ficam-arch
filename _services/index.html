@@ -10,9 +10,11 @@ collection: services
   <h2>Services</h2>
   <ul class="pages">
     {% for page in site.services %}
+	{% if page.url != '/services/index/' %}
       <li>
         <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
       </li>
+	{% endif %}
     {% endfor %}
   </ul>
 </div>
