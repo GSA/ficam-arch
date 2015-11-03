@@ -279,7 +279,7 @@ Navigation
 
 .nav-children {
     display: block;
-    max-height: 400px;
+    max-height: 1000px;
     opacity: 1;
     -webkit-transition: max-height .2s, opacity .2s;
     -moz-transition: max-height .2s, opacity .2s;
@@ -310,7 +310,7 @@ section:before {
 }
 
 .wrap {
-    max-width: 1200px;
+    max-width: 1500px;
     margin: 0 auto;
     padding-left: 20px;
     padding-right: 20px;
