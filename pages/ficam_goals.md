@@ -20,7 +20,9 @@ To establish and bound the strategy driving ICAM implementation. Used as a tool 
 
 ![Image of Goals and Objectives](../img/GoalsObjectives.png)
 
-##Key Revisions
+##Considerations
+
+##Background & Key Revisions
 
 - Relevance to ICAM: Ensured all language clearly conveys not just a general cybersecurity goal but how ICAM contributes to that goal’s success.
 
@@ -28,4 +30,7 @@ To establish and bound the strategy driving ICAM implementation. Used as a tool 
 
 - Removed ‘compliance’-focused goal which stated that FICAM will comply with relevant regulations, in favor of showing throughout the document how ICAM inherently contributes to Federal compliance.  
 
+##External References
 
+* <a href="https://www.whitehouse.gov/the-press-office/2011/10/07/executive-order-13587-structural-reforms-improve-security-classified-net">Executive Order 13587: Structural Reforms to Improve the Security of Classified Networks and the Responsible Sharing and Safeguarding of Classified Information</a>
+* <a href="https://www.whitehouse.gov/the-press-office/2012/12/19/national-strategy-information-sharing-and-safeguarding">National Strategy for Information Sharing and Safeguarding</a> 
