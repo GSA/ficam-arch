@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Application Interface Diagram
+title: Applications Diagrams
 permalink: /applications/
 ---
-#New Title
 Depicts the general applications and systems that support the delivery of ICAM business services within an enterprise and how they interface with each other. Consists of two elements:
 
 •	Diagram – A graphic showing generic applications and software components and their connections in relation to each other.

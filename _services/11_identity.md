@@ -2,7 +2,6 @@
 layout: page
 title: Identity
 collection: services
-permalink: /identity/
 ---
 
 

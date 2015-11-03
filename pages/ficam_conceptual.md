@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ICAM Conceptual Diagram
+title: Conceptual Diagram
 permalink: /conceptual/
 ---
 Provides a high-level overview of ICAM using visuals to explain basic concepts, terms & relationships. 
