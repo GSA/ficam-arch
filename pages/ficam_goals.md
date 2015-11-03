@@ -3,6 +3,8 @@ layout: page
 title: Goals and Objectives
 permalink: /goals/
 ---
+##Introduction
+
 Provides the strategic goals and objectives of government-wide implementation of ICAM. Terms are defined as follows:
 
 - Goals – Broad statements of what FICAM intends to accomplish to meet government-wide aspirations.
@@ -16,6 +18,8 @@ Senior government leaders, agency executives, ICAM program leadership responsibl
 
 To establish and bound the strategy driving ICAM implementation. Used as a tool to ensure that agency programs and initiatives map back to government-wide aspirations.
 
+![Image of Goals and Objectives](../img/GoalsObjectives.png)
+
 ##Key Revisions
 
 - Relevance to ICAM: Ensured all language clearly conveys not just a general cybersecurity goal but how ICAM contributes to that goal’s success.
@@ -24,4 +28,4 @@ To establish and bound the strategy driving ICAM implementation. Used as a tool 
 
 - Removed ‘compliance’-focused goal which stated that FICAM will comply with relevant regulations, in favor of showing throughout the document how ICAM inherently contributes to Federal compliance.  
 
-![Image of Goals and Objectives](../img/GoalsObjectives.png)
+
