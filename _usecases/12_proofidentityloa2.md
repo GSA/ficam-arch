@@ -6,7 +6,7 @@ collection: usecases
 
 ## Introduction
 
-This use case describes the process for completing identity proofing at Level of Assurance 2 (LOA2), which allows them to receive an LOA2 credential. LOA2 requires an individual submit basic documents to prove their claimed identity and may be completed in person or remotely.
+This use case describes the process for completing identity proofing at Level of Assurance 2 (LOA2), which allows an individual to receive an LOA2 credential. LOA2 requires an individual submit basic documents to prove their claimed identity and may be completed in person or remotely.
 
 ![Proof an identity at LOA2](../../img/ProofLOA2.png)
 
@@ -22,8 +22,6 @@ This use case describes the process for completing identity proofing at Level of
 * The “approval authority” has not been further defined because that role likely will vary from agency to agency.
 * The Precondition has been intentionally left vague because the circumstances under which a person would seek identity proofing at LOA2 may vary.
 
-
-
-## Examples
+## External References
 
 * <a href="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-2.pdf">NIST SP 800-63-2</a>

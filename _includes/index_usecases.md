@@ -1,14 +1,12 @@
 ## Use Cases
 
-##Introduction
-
-Uses narrative text and a ‘storyboard’ concept to depict and describe a set of possible sequences of interactions between systems and users in ICAM environment. Core components include:
+Uses narrative text and a ‘storyboard’ concept to depict and describe a set of possible sequences of interactions between systems and users in an ICAM environment. Core components include:
 
 * Narrative paragraph – Describes the use case at a high level and provides other relevant context.
 * Storyboards – A set of panels that depict the steps required to achieve the end goal of the use case. Some use cases, such as Create and Maintain an Identity, have branching steps.
-* Precondition and Postcondition – The conditions that should be in place before the use case begins, and the result of use case completion, respectively.
+* Precondition and Postcondition – The conditions that should be met before the use case begins, and the result of use case completion, respectively.
 * Actors & Systems Key – Shows the individuals and systems involved in the use case. Actors common to multiple use cases are depicted using the same symbol.
-* Area and Service Mapping – A symbol (located in the bottom right) that shows the high-level area (Identity, Credential, Access, or Federation) and the Service that the use case most generally applies to.
+* Area & Service Mapping – A symbol (located in the bottom right) that shows the high-level area (Identity, Credential, or Access) and the Service that the use case most closely aligns with.
 
 ##Audience
 ICAM Enterprise Architecture; Business line and/or unit managers
