@@ -14,7 +14,7 @@
 				{% assign collectionName = link.collname %}
 				<ul class="nav-children" id="nav-collapsible-{{ forloop.index }}" aria-hidden="{% if link.text == page.parent or link.text == page.title %}false{% else %}true{% endif %}">
 				{% for child in site.[collectionName] %}
-					<li class="{% if page.title == child.title %}sidebar-nav-active{% endif %}">
+					<li class="group {% if page.title == child.title %}sidebar-nav-active{% endif %}">
 						<a href="{{ site.baseurl }}{{ child.url }}" title="{% if page.title == child.title %}Current Page {% else %}{{ child.title }}{% endif %}">{{ child.title }}</a>
 					</li>
 				{% endfor %}
