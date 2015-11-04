@@ -9,10 +9,10 @@
 			<a href="{% if link.internal == true %}{{ site.baseurl }}/{% endif %}{{ link.url }}" title="{{ link.text }}">{{ link.text }}</a>
 			{% if link.coll == true %}
 				<button class="expand-subnav"
-                    aria-expanded="{% if link.text == page.parent or link.text == page.title %}true{% else %}false{% endif %}"
+                    aria-expanded="{% if page.collection == link.collname %}true{% else %}false{% endif %}"
                     aria-controls="nav-collapsible-{{ forloop.index }}">+</button>
 				{% assign collectionName = link.collname %}
-				<ul class="nav-children" id="nav-collapsible-{{ forloop.index }}" aria-hidden="{% if link.text == page.parent or link.text == page.title %}false{% else %}true{% endif %}">
+				<ul class="nav-children" id="nav-collapsible-{{ forloop.index }}" aria-hidden="{% if page.collection == link.collname %}false{% else %}true{% endif %}">
 				{% for child in site.[collectionName] %}
 					<li class="group {% if page.title == child.title %}sidebar-nav-active{% endif %}">
 						<a href="{{ site.baseurl }}{{ child.url }}" title="{% if page.title == child.title %}Current Page {% else %}{{ child.title }}{% endif %}">{{ child.title }}</a>
