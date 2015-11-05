@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Use Cases Introduction
+title: Use Cases
 collection: usecases
 ---
 
@@ -11,9 +11,11 @@ collection: usecases
   <h2>All Use Cases</h2>
   <ul class="pages">
     {% for page in site.usecases %}
+	{% if page.title != 'Use Cases' %}
       <li>
         <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
       </li>
+	{% endif %}
     {% endfor %}
   </ul>
 </div>

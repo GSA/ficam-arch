@@ -41,6 +41,7 @@ body {
     line-height: 1.466666667;
 }
 
+
 h1,
 h3,
 h4,
@@ -51,10 +52,10 @@ strong {
 }
 
 .site-title {
-    font-size: 1.625em;
+    font-size: 2em;
     font-family: "Avenir Next", Arial, sans-serif;
     font-weight: normal;
-    color: #919395;
+    color: #ffffff;
     margin: 0;
     line-height: 1.2941176470588236;
     display: inline-block;
@@ -137,7 +138,7 @@ a:focus {
 }
 
 a.title-link {
-    color: #75787B;
+    color: #ffffff;
     border-bottom: none;
 }
 
@@ -173,6 +174,8 @@ Navigation
   padding: 10px;
   -webkit-transition: .4s;
   transition: .4s;
+  width: 80%;
+  float: left;
 }
 .sidebar-nav a,
 .sidebar-nav a:link,
@@ -187,7 +190,7 @@ Navigation
   color: #75787b;
   border-left: 4px solid {{ site.brand_color }};
   background-color: transparent;
-  border-bottom: 1px solid #babbbd;
+  /*border-bottom: 1px solid #babbbd;*/
   padding-left: 0;
 }
 .sidebar-nav ul {
@@ -278,7 +281,7 @@ Navigation
 
 .nav-children {
     display: block;
-    max-height: 400px;
+    max-height: 1000px;
     opacity: 1;
     -webkit-transition: max-height .2s, opacity .2s;
     -moz-transition: max-height .2s, opacity .2s;
@@ -309,7 +312,7 @@ section:before {
 }
 
 .wrap {
-    max-width: 1200px;
+    max-width: 1500px;
     margin: 0 auto;
     padding-left: 20px;
     padding-right: 20px;
@@ -317,8 +320,8 @@ section:before {
 
 header {
     width: 100%;
-    border-bottom: 4px solid {{ site.brand_color }};
-    background-color: #fff;
+    /*border-bottom: 4px solid {{ site.brand_color }};*/
+    background-color: #0B0B3B;
     padding: 2em 0;
 }
 
