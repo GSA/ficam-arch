@@ -3,13 +3,15 @@ layout: page
 title: Maintain Credential - Renew
 collection: usecases
 ---
+When an employee or contractor’s credential expires, they usually have the option to renew it, rather than go through the issuance process again. This use case describes the processes for renewing a credential.
+For PIV cards, you can only renew if the card has not already expired.
 
-## Introduction
-
-Sed ut perspiciatis unde omnis iste natus error sit v
-
-## Description
+![Renew a credential](../../img/Renew.png)
 
 ## Considerations
+
+## Background & Key Revisions
+
+## External References
 
 ## Examples
