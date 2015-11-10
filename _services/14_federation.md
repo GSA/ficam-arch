@@ -3,6 +3,8 @@ layout: page
 title: Federation
 collection: services
 ---
+<img src ="../../img/Federation.png" align = "left">
+
 ###Attribute Exchange
 Discovering and sharing identity attributes between different systems to promote interoperability and simplify the process for establishing an identity. 
 
