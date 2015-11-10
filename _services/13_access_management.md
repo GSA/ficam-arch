@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Access Management
+title: Access 
 collection: services
 ---
+<img src ="../../img/Access.png" align = "left">
+
 ###Policy Administration
 Creating and maintaining the rule sets that govern access to protected resources. 
 
