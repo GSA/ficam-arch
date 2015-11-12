@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Credentials
+title: Credential
 collection: services
 ---
+<img src ="../../img/Credential.png" align = "left">
+
 ###Sponsorship
 Formally establishing that a person or entity requires a credential.  
 
