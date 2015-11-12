@@ -11,9 +11,3 @@ In 2015, members of the Federal ICAM Community participated in a Tiger Team unde
 </ul>
 
 The FICAM Architecture artifacts outlined on the following pages are the result of the Tiger Team’s efforts to provide the ICAM Community with a set of tools to review and comment on in order to develop a more complete FICAM Architecture.
-
-
-### Contributing
-We encourage you to read our CONTRIBUTING policy, our LICENSE, and our README, all of which exist within this repository.  
-
-The idea for providing this content as open source, the contributing framework, and the licensing framework are based on work from 18F. 
