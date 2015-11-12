@@ -4,7 +4,9 @@ title: Identity
 collection: services
 ---
 <img src ="../../img/Identity.png" align = "left">
+## Identity Management
 
+Identity management is the combination of technical systems, policies, and processes that create, define, govern, and synchronize the ownership, utilization, and safeguarding of identity information. The primary goal of identity management is to establish a trustworthy process for assigning attributes to a digital identity and to connect that identity to an individual. Identity management includes the processes for maintaining and protecting the identity data of an individual over its life cycle.
 
 ## Identity Proofing
 
