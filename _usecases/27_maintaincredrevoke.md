@@ -3,13 +3,14 @@ layout: page
 title: Maintain Credential - Revoke
 collection: usecases
 ---
+When an employee or contractor separates from an agency or no is eligible for their credential, their credential should be revoked. This use case describes the process for revoking a credential.
 
-## Introduction
-
-Sed ut perspiciatis unde omnis iste natus error sit v
-
-## Description
+![Revoke a credential](../../img/Revoke.png)
 
 ## Considerations
+
+## Background & Key Revisions
+
+## External References
 
 ## Examples
