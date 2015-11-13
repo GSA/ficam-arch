@@ -12,7 +12,7 @@ The source repository exists [here](https://github.com/GSA/ficam-arch/)
 
 We encourage you to read our [CONTRIBUTING](../CONTRIBUTING.md) policy, our [LICENSE](../LICENSE.md), and our [README](../README.md), all of which exist within this repository.  
 
-We welcome contributions in the form of requests, issues and pages.  
+We welcome contributions in the form of requests, issues and pages:  
 
 * _Requests:_ You've identified a useful addition to the architecture which benefits USG Agencies
   * Open an Issue on this repository
