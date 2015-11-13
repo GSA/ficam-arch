@@ -2,7 +2,7 @@
 
 Thank you for considering contributing to our development of open and transparent architecture.  If you're unsure or afraid of anything, just ask or submit the issue or pull request. We appreciate any sort of contribution and are committed to transparency and collaboration.
 
-Before contributing, we encourage you to read our CONTRIBUTING policy (you are here), our [LICENSE](../LICENSE.md), and our [README](../README.md), all of which are in this repository.
+Before contributing, we encourage you to read our CONTRIBUTING policy (you are here), our [LICENSE](LICENSE.md), and our [README](README.md), all of which are in this repository.
 
 The idea for open sourcing this content, the contributing framework, and the licensing framework are based on repositories from [18F](https://github.com/18f)
 
