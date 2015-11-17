@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Overview
-permalink: /overview/
+title: Background
+permalink: /background/
 ---
 The FICAM Architecture, as described in the FICAM Roadmap and Implementation Guidance, was created in 2009 to provide a common segment architecture for identity, credential, and access management for use by federal agencies. While the FICAM Roadmap is a comprehensive source of information that has played a guiding role for ICAM programs and implementation efforts across the Federal Government, it is a lengthy document that does not translate well to today’s digital society. 
 
