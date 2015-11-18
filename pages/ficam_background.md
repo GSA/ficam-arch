@@ -3,15 +3,28 @@ layout: page
 title: Background
 permalink: /background/
 ---
-The FICAM Architecture, as described in the FICAM Roadmap and Implementation Guidance, was created in 2009 to provide a common segment architecture for identity, credential, and access management for use by federal agencies. While the FICAM Roadmap is a comprehensive source of information that has played a guiding role for ICAM programs and implementation efforts across the Federal Government, it is a lengthy document that does not translate well to today’s digital society. 
+#### The FICAM Roadmap
+The FICAM Architecture, as described in the <a target="_blank" href="http://www.idmanagement.gov/sites/default/files/documents/FICAM_Roadmap_and_Implementation_Guidance_v2 0_20111202_0.pdf">FICAM Roadmap and Implementation Guidance v2.0</a>, was created in 2009 to provide a common segment-architecture for identity, credential, and access management for use by Federal agencies. While the FICAM Roadmap remains as a comprehensive source of information that has played a guiding role for ICAM programs and implementation efforts across the Federal Government, it is a lengthy document that does not translate well to today’s digital society.
+With that in mind, ICAM experts from across the Federal Government came together to create an updated FICAM Architecture that is concise, easy to understand, and visually appealing, while reflecting the latest updates in cybersecurity, enterprise architecture, and the ICAM policy and technology landscape.
 
-With that in mind, ICAM specialists from across the Federal Government have come together to create an updated FICAM Architecture that is concise, easy to understand, and visually appealing, while reflecting the latest advances in cybersecurity, enterprise architecture, and the ICAM policy landscape. The updated FICAM Architecture will use the internet as its platform to convey information in navigable, user-friendly way.
+#### The Architecture & Playbook Tiger Team
 
-The updated FICAM Architecture will use the internet as its platform to convey information in navigable, user-friendly way. The FICAM Architecture outlines a common framework for ICAM within the Federal government and is meant as a robust, scalable tool, equally useful to enterprise architects developing their agency’s program and to those new to ICAM. It describes concepts and standard models that can be applied to most agencies and are meant as a guide to help agencies improve their programs – not as a requirement or a mandate. While the core ICAM elements and principles described in this document should be a part of all Federal ICAM programs, they also leave room for individual agency implementations to vary.  
+In 2015, members of the Federal ICAM Community participated in a Tiger Team under the direction and guidance of the Federal CIO Council’s ICAMSC to review, validate, and revise elements of the FICAM Architecture as described in the FICAM Roadmap and Implementation Guidance v2.0. Members of this effort worked under the following guiding principles:
 
-Each element of the updated Architecture aligns with one of the six sub-architecture domains described in the Common Approach to Federal Enterprise Architecture (FEA). Below is an outline of the FICAM Architecture elements and their alignment to the FEA layers:
+<ul>
+<li style="margin-bottom: 0px"> The initial architecture was still largely correct and relevant, and revision activities should focus on updates and enhancements rather than a complete overhaul</li>
+<li style="margin-bottom: 0px">Existing architecture elements should be considered for update and inclusion to maintain “backwards compatibility” with existing agency architecture design</li>
+<li style="margin-bottom: 0px">Architecture artifacts should focus on common ICAM goals, processes, requirements, and technologies rather than outliers or “one-off” agency use cases</li>
+<li style="margin-bottom: 0px">Any new elements should address gaps or improve clarity without adding to the document’s length</li> 
+<li style="margin-bottom: 0px">Updates should address the need for greater efficiencies, cost savings, and shared infrastructure</li>
+<li style="margin-bottom: 0px">Elements should align with the Common Approach to Federal Enterprise Architecture for government-wide consistency</li>
+</ul>
+
+#### The move to online collaboration
+
+To support a collaborative, iterative environment for the Federal ICAM Community, the FICAM Architecture has been released to this site for continuous refinement and improvement. 
+
+Stakeholders and partners are encouraged to regularly review these artifacts and provide comments and recommended edits on how they can be improved, clarified, or updated to support agency knowledge and ICAM implementation. Source files, final records, and future revisions will be managed by the FICAM Program, with guidance and support from the CIO Council’s ICAMSC.
 
 
-<div style="text-align:center"><img src="../img/ArchSummary.png"/></div>
 
-To support a collaborative, iterative environment for the Federal ICAM Community, the working versions of each artifact have been released to this site for continuous refinement and improvement. Stakeholders and partners are encouraged to regularly review these artifacts and provide comments and recommended edits on how they can be improved, clarified or updated, to support agency knowledge and ICAM implementation. Source files, final records, and future revisions will be managed by the FICAM Program, with guidance and support from the CIO Council’s ICAMSC.
