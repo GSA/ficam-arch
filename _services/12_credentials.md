@@ -5,27 +5,27 @@ collection: services
 ---
 <img src ="../../img/Credential.png" align = "left">
 
-###Sponsorship
-Formally establishing that a person or entity requires a credential.  
+<p style="line-height:.3; font-size:15px"><b>Sponsorship</b></p>
+<p style="line-height:1.5; font-size:12px">Formally establishing that a person or entity requires a credential. 
+<br>
+<em>Keywords</em>: Sponsor, Authorizing Official, Affiliation, Request  </p>
 
-*Keywords*: Sponsor, Authorizing Official, Affiliation, Request
+<p style="line-height:.3; font-size:15px"><b>Registration</b></p>
+<p style="line-height:1.5; font-size:12px">Collecting the information needed from a person or entity to issue them a credential. 
+<br>
+<em>Keywords</em>: Enrollment </p>
 
-###Registration
-Collecting the information needed from a person or entity to issue them a credential. 
+<p style="line-height:.3; font-size:15px"><b>Issuance</b></p>
+<p style="line-height:1.5; font-size:12px">Transferring a credential to a person or entity.
+<br>
+<em>Keywords</em>: Activation, Token </p>
 
-*Keywords*: Enrollment
+<p style="line-height:.3; font-size:15px"><b>Maintenance</b></p>
+<p style="line-height:1.5; font-size:12px">Maintaining a credential over its life cycle.
+<br>
+<em>Keywords</em>: Renewal, Reset, Suspension, Blocking, Reissuance </p>
 
-###Issuance
-Transferring a credential to a person or entity. 
-
-*Keywords*: Activation, Token
-
-###Maintenance
-Maintaining a credential over its life cycle.
-
-*Keywords*: Renewal, Reset, Suspension, Blocking, Reissuing
-
-###Revocation
-Withdrawing a credential from a person or entity.
-
-*Keywords*: Termination
+<p style="line-height:.3; font-size:15px"><b>Revocation</b></p>
+<p style="line-height:1.5; font-size:12px">Withdrawing a credential from a person or entity.
+<br>
+<em>Keywords</em>: Termination </p>
