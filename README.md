@@ -18,15 +18,6 @@ This content is Vendor neutral. Marketing materials for Commercial Products shou
 ## Plain Language
 Contributors should consider the audience when submitting content. Plain language benefits a broad audience. Review your proposed content for use of acronyms and specialized jargon before submitting.
 
-## How to Use
-
-*  _pages_ contains markdown pages (samples) for the architecture Overview, Conceptual Diagram, Goals & Objectives, Business Process Diagram, and Applications Diagrams
-* _usecases_ contains markdown pages (samples) for each of the use cases identified to date by the Architecture & Playbook Tiger Team
-* _services_ contains markdown pages (samples) for each of the service areas (Identity, Credential, Access, & Federation)
-* All diagrams and images should be placed in _img_
-
-Direct changes and line edits to the content may be submitted through a "pull request" by clicking "Edit this page". You do not need to install any software to submit content. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged.
-
 
 ## How to Contribute
 We welcome contributions in the form of requests, issues and pages.  
@@ -48,6 +39,16 @@ We welcome contributions in the form of requests, issues and pages.
   * Fork the repository
   * Add a new Page or modify an existing Page with your suggested content
   * Submit a Pull Request, referencing the Issue Number
+
+## How to Use the Repository to Contribute
+The source repository exists [here](https://github.com/GSA/ficam-arch/)
+
+*  _pages_ contains markdown pages (samples) for the architecture Overview, Conceptual Diagram, Goals & Objectives, Business Process Diagram, and Applications Diagrams
+* _usecases_ contains markdown pages (samples) for each of the use cases identified to date by the Architecture & Playbook Tiger Team
+* _services_ contains markdown pages (samples) for each of the service areas (Identity, Credential, Access, & Federation)
+* All diagrams and images should be placed in _img_
+
+Direct changes and line edits to the content may be submitted through a "pull request" by clicking "Edit this page". You do not need to install any software to submit content. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged.
 
 ### Public domain
 

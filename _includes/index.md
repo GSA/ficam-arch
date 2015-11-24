@@ -1,5 +1,5 @@
 ## Introduction
-Welcome to official website for the FICAM Architecture!  This page is your first stop for learning about FICAM, understanding the FICAM Architecture, and contributing to its development.
+Welcome to the _in-progress_ site for the Federal ICAM Architecture!  This page is your first stop for learning about FICAM, understanding the FICAM Architecture, and contributing to its development.
 
 #### What is ICAM?
 
@@ -33,7 +33,7 @@ In general, Federal agencies and departments should look to the FICAM Architectu
 
 #### What is this site, and where do I go from here?
 
-This site has two purposes: 
+This site has two purposes:
 
 <ol>
 <li style="margin-bottom:0px"> To provide an authoritative location where anyone can access the most up-to-date version of the FICAM Architecture, and </li>
