@@ -1,6 +1,6 @@
 # Site settings
-title: FICAM Architecture
-name: FICAM Architecture
+title: Federal Identity, Credential, and Access Management Architecture
+name: Federal Identity, Credential, and Access Management Architecture
 email: icam@gsa.gov
 author:
     name: FICAM
@@ -12,7 +12,7 @@ github_username:  gsa
 highlighter: pygments
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: 
+logourl:
 logoalt: Federal Identity Credential and Access Management
 
 # Repo list
@@ -42,8 +42,8 @@ navigation:
   url: index.html
   internal: true
   coll: false
-- text: Overview
-  url: overview
+- text: Background
+  url: background
   internal: true
   coll: false
 - text: Conceptual Diagram
@@ -82,6 +82,10 @@ navigation:
 #  url: faq
 #  internal: true
 #  coll: false
+- text: Standards and Policies
+  url: standards
+  internal: true
+  coll: false
 - text: Contribute
   url: contribute
   internal: true
