@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Administration
+title: Governance
 collection: services
 ---
-<img src ="../../img/Administration.png" align = "left">
+<img src ="../../img/Governance.png" align = "left">
 
 
 <p style="line-height:.3; font-size:15px"><b>Enterprise Governance</b></p>
