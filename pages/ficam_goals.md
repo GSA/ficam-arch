@@ -17,7 +17,7 @@ Senior government leaders, agency executives, ICAM program leadership responsibl
 
 To establish and bound the strategy driving ICAM implementation. Used as a tool to ensure that agency programs and initiatives map back to government-wide aspirations.
 
-![Image of Goals and Objectives](../img/GoalsObjectives.png)
+<div style="text-align:center"><img src="../img/GoalsObjectives.png"/></div>
 
 ##Considerations
 

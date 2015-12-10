@@ -5,7 +5,6 @@ permalink: /conceptual/
 ---
 Provides a high-level overview of ICAM using visuals to explain basic concepts, terms & relationships. 
 
-
 It is broken into the functional areas of Identity, Credential, and Access Management with two main components in each box:
 
 •	Category Description & Storyboard – A narrative and visual explanation of the concept, designed to work together to help the non-technical reader understand basic terms and functionality.
@@ -31,4 +30,5 @@ To provide an entry point to understanding what ICAM is and how it operationally
 
 •	Design: Established a color scheme, symbology, and visual style that subsequent products use to build knowledge.
 
-![Image of Conceptual Diagram](../img/ConceptualDiagram.png)
+<div style="text-align:center"><img src="../img/ConceptualDiagram.png"/></div>
+

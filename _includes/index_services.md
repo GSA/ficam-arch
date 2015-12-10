@@ -12,5 +12,7 @@ ICAM Program Managers, Enterprise Architects
 ##Purpose
 
 To present the set of services that provide functionality within the scope of ICAM. Used as a tool to translate between the business and technical elements of the architecture.
-![Image of Services Diagram](../../img/ServicesFramework.png)
-![Image of Services Diagram](../../img/ServicesDescriptions.png)
+
+<div style="text-align:center"><img src="../../img/ServicesFramework.png"/></div>
+<div style="text-align:center"><img src="../../img/ServicesDescriptions.png"/></div>
+
