@@ -8,10 +8,3 @@ Managing entitlements happens during design time, before an individual attempts 
 
 ![Manage Entitlements](../../img/Entitlements.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

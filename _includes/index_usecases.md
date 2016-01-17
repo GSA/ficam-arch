@@ -1,25 +1,20 @@
-## Use Cases
+## Business Process Diagram and Use Cases
 
-Uses narrative text and a ‘storyboard’ concept to depict and describe a set of possible sequences of interactions between systems and users in an ICAM environment. Core components include:
+<table>
+<tr><td><b>Description</b></td><td>User stories that provide a high level view of ICAM business processes.</td></tr>
+<tr><td><b>Audience</b></td><td>ICAM Enterprise Architects; Business line and/or unit managers</td></tr>
+</table>
 
-* Narrative paragraph – Describes the use case at a high level and provides other relevant context.
-* Storyboards – A set of panels that depict the steps required to achieve the end goal of the use case. Some use cases, such as Create and Maintain an Identity, have branching steps.
-* Precondition and Postcondition – The conditions that should be met before the use case begins, and the result of use case completion, respectively.
-* Actors & Systems Key – Shows the individuals and systems involved in the use case. Actors common to multiple use cases are depicted using the same symbol.
-* Area & Service Mapping – A symbol (located in the bottom right) that shows the high-level area (Identity, Credential, or Access) and the Service that the use case most closely aligns with.
+The diagram below is intended to provide an overview of ICAM business processes and help you navigate the use cases found on subsequent pages. The diagram splits into two main processes - those for users whose information is stored by the agency, such as for its employees and contractors, and those whose information is managed externally and is leveraged through a federated process. At the bottom of the page is a list of common business processes, or use cases, encountered in the ICAM environment. Although the diagram shows the processes in a left-to-right, linear way, the important aspect is that the processes performed in one area are leveraged and built upon in the others. Each node of the diagram ties to one of the use cases listed below. 
 
-##Audience
-ICAM Enterprise Architecture; Business line and/or unit managers
+<div style="text-align:center"><img src="../../img/BusinessProcessDiagram.png"/></div>
 
-##Purpose
-To depict the most common sequence of steps used to deliver a business outcome, using government-wide best practices and applicable standards.
+Each use case includes a high level summary of the scenario, illustrations that depict the required steps to achieve the end goal, conditions that should be met before and as a result of the use case, individuals and systems involved in the use case, and an indication of the high-level area (Identity, Credential, or Access Management) and specific service with which the use case most closely aligns.
 
-##Background & Key Revisions
-* Emphasis on graphics: Replaced long narrative descriptions with abstract graphical depictions to make use cases easier to read and understand.
-* Focus on target state: Removed descriptions of current state processes, instead focusing on the target-state environment.
-* Revised scope: Removed use cases that were out of scope, combined ones with similar concepts, and added or expanded to cover gaps, including federation, common access models, and process differences related to LOA.
+While each use case describes a particular ICAM business process, the use cases are highly interrelated. The activities and technologies represented in the use cases have been generalized to maximize applicability across agencies. Many lower level functions and process details that may be more agency-specific are not addressed in this architecture, as agencies are expected to perform a separate analysis on their systems and processes to achieve the appropriate alignment with the broader use cases. The ICAM use cases can be interwoven or built upon to support specific agency use case scenarios.
 
-##External References
-* PM-ISE Tables and documents
+#### Background & Key Revisions
+In order to simplify the existing use cases, an emphasis has been placed on graphics, rather than long, descriptive text. Focus has also been shifted from current state processes to the target-state environment. The scope of the use cases has been limited by removing those that were out of scope, combining similar concepts, and adding or expanding cases to cover gaps, such as federation, common access models, and process differences related to LOA.
 
-##Examples
+
+

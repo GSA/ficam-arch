@@ -9,10 +9,3 @@ LOA3 credentials can be either hardware or software tokens and are recognized as
 
 ![Create and issue LOA3](../../img/LOA3Cred.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

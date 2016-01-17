@@ -8,10 +8,3 @@ For PIV cards, you can only renew if the card has not already expired.
 
 ![Renew a credential](../../img/Renew.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

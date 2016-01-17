@@ -9,10 +9,3 @@ This model is typical of ABAC (attribute-based access control) systems.
 
 ![Authorize Dynamic Access](../../img/AuthorizeDynamic.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

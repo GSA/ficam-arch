@@ -9,10 +9,3 @@ There are three types of authentication factors: something you know (such as a p
 
 ![Authenticate a user](../../img/Authenticate.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

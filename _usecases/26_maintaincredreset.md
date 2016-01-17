@@ -7,10 +7,3 @@ When an employee or contractor forgets the shared secret associated with their c
 
 ![Reset a credential](../../img/Reset.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

@@ -12,10 +12,3 @@ For more information about:
 
 ![Grant access](../../img/GrantAccess.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples
