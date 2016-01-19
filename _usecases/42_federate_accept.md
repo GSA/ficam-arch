@@ -8,10 +8,3 @@ This use case shows the primary process for providing access to an outside indiv
 
 ![Accept federated credentials](../../img/FederatedCred.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

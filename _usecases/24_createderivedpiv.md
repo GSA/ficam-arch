@@ -9,10 +9,3 @@ A derived PIV can be either LOA3 or LOA4. An LOA3 derived PIV uses either softwa
 
 ![Create issue derived PIV](../../img/Derived.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

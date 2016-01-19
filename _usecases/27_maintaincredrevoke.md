@@ -7,10 +7,3 @@ When an employee or contractor separates from an agency or no is eligible for th
 
 ![Revoke a credential](../../img/Revoke.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

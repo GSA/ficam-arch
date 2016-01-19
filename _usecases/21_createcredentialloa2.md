@@ -9,10 +9,3 @@ LOA2 credentials are usually software tokens and are recognized as LOA2 strength
 
 ![Create and Issue LOA2](../../img/LOA2Cred.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

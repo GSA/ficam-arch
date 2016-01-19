@@ -8,11 +8,3 @@ A credential token meets LOA4 when it uses multiple factors for authentication (
 LOA4 tokens are exclusively hardware-based and are recognized as LOA4 strength only when paired with identity proofing at LOA4.  
 
 ![Create and issue LOA4](../../img/LOA4Cred.png)
-
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

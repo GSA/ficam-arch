@@ -9,10 +9,3 @@ Policymaking bodies often draw on federal regulations, executive orders, legisla
 
 ![Administer Policies](../../img/Policies.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

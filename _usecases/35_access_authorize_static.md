@@ -9,10 +9,3 @@ This model is typical of Access Control Lists (ACL) and RBAC (role-based access 
 
 ![Authorize static access](../../img/AuthorizeStatic.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

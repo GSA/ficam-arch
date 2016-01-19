@@ -7,10 +7,3 @@ Organizations often have multiple source systems that contain data relevant to a
 
 ![Resolve an identity](../../img/ResolveID.png)
 
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples
