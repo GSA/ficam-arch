@@ -4,7 +4,7 @@ title: Create and Maintain an Identity
 collection: usecases
 ---
 
-When an employee or contractor onboards at an agency, their identity information is collected and stored to act as their digital proxy in IT systems. This information is stored within an identity record, which may be modified or deleted as needed.
+When an employee or contractor on-boards at an agency, their identity information is collected and stored to act as their digital proxy in IT systems. This information is stored within an identity record, which may be modified or deleted as needed.
 Once this digital identity record is established, it may be pushed to other systems from an authoritative source and provisioned access permissions (see Manage Entitlements).
 
 ---
@@ -25,7 +25,3 @@ Once this digital identity record is established, it may be pushed to other syst
 **Postcondition:** The identity record of an individual is created, updated, or deleted, as appropriate.  
 
 [Click here](../../img/CreateID.png) for a consolidated image of this use case.
-
-## Background & Key Revisions
-
-## Examples

@@ -1,4 +1,4 @@
-Welcome to the _in-progress_ site for the Federal ICAM Architecture!  This page is your first stop for learning about FICAM, understanding the FICAM Architecture, and contributing to its development.
+Welcome to the _in-progress_ site for the Federal ICAM Architecture! This page is your first stop for learning about FICAM, understanding the FICAM Architecture, and contributing to its development.
 
 #### What is ICAM?
 
