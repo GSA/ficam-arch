@@ -29,5 +29,3 @@ Once this digital identity record is established, it may be pushed to other syst
 ## Background & Key Revisions
 
 ## Examples
-
-{:style="display: block; margin-left: auto; margin-right: auto;"}
