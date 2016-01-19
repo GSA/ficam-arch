@@ -3,22 +3,20 @@ layout: page
 title: Goals and Objectives
 permalink: /goals/
 ---
-<table>
-<tr><td><b>Description</b></td><td>Establishes and bounds the strategy driving ICAM implementation.</td></tr>
-<tr><td><b>Audience</b></td><td>Senior government leaders, agency executives, ICAM program leadership responsible for setting program strategy.</td></tr>
-</table>
+| **Description** | Establishes and bounds the strategy driving ICAM implementation. |
+| **Audience** | Senior government leaders, agency executives, ICAM program leadership responsible for setting program strategy. |
 
 This is the page for the FICAM Goals & Objectives, a list of the aims and outcomes that all Federal agencies’ ICAM programs should contribute toward.  
 
 The visual below is broken into four Goals, each with its own Objectives. The Goals are broad, aspirational statements, whereas the Objectives are the more concrete actions that should be taken to meet those Goals.  
 
-<div style="text-align:center"><img src="../img/GoalsObjectives.png"/></div>
+<div style="text-align:center"><img src="{{site.baseurl}}/img/GoalsObjectives.png"/></div>
 
 #### Goal 1: Strengthen the Federal Government’s information and physical security.
 * 1.1 - Ensure that only authorized users can access protected resources
 * 1.2 - Enable agencies to establish and manage proven, trusted identities for all system users
 * 1.3 - Support the adoption and use of credentials that provide an efficient, secure means of accessing resources
-* 1.4 - Monitor user behavior and system security though diagnostics, analytics, and reporting 
+* 1.4 - Monitor user behavior and system security though diagnostics, analytics, and reporting
 
 #### Goal 2: Enable information sharing and safeguarding within the Federal government and with external partners.
 * 2.1 - Automate information discovery and access across the Federal Government in all security domains
@@ -41,5 +39,4 @@ The updated Goals & Objectives clearly convey not just general cybersecurity goa
 ##External References
 
 * <a href="https://www.whitehouse.gov/the-press-office/2011/10/07/executive-order-13587-structural-reforms-improve-security-classified-net">Executive Order 13587: Structural Reforms to Improve the Security of Classified Networks and the Responsible Sharing and Safeguarding of Classified Information</a>
-* <a href="https://www.whitehouse.gov/the-press-office/2012/12/19/national-strategy-information-sharing-and-safeguarding">National Strategy for Information Sharing and Safeguarding</a> 
-
+* <a href="https://www.whitehouse.gov/the-press-office/2012/12/19/national-strategy-information-sharing-and-safeguarding">National Strategy for Information Sharing and Safeguarding</a>

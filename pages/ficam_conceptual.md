@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Conceptual Diagram
+title: Conceptual View
 permalink: /conceptual/
 ---
 
-|*Description*|Visual guide that explains the core concepts of ICAM.|
-|*Audience*|Senior government leaders, agency executives, non-technical readers.|
+| **Description** |Visual guide that explains the core concepts of ICAM.|
+| **Audience** |Senior government leaders, agency executives, non-technical readers.|
 
 <div style="text-align:center"><img src="{{site.baseurl}}/img/ConceptualDiagram.png"/></div>
 
