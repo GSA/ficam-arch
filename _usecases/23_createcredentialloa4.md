@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Create and Issue Level of Assurance 4 Credential
 collection: usecases
 ---

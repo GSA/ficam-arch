@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Create and Maintain an Identity
 collection: usecases
 ---
@@ -12,7 +12,7 @@ Once this digital identity record is established, it may be pushed to other syst
 ![Actors and Systems Key for Images](../../img/usecases/ilabel.png){:align="right"}
 ![Actors and Systems Key for Images](../../img/usecases/createidkey.png)
 
-**Precondition:** Identity information on the individual has been collected.
+**Pre-condition:** Identity information on the individual has been collected.
 
 | ![1. Information Populated](../../img/usecases/createid1.png)  | Personnel information is populated into the authoritative source.<br/>*Sources for this information could include onboarding documents or HR systems.*  |
 | ![2. New Identity Record Created](../../img/usecases/createid2.png)  | The authoritative source sends the information to the system’s data repository.  |
@@ -22,6 +22,6 @@ Once this digital identity record is established, it may be pushed to other syst
 | ![3C. Delete Record](../../img/usecases/createid3c.png)  | The administrator deletes the identity record within the authoritative source when notified that deletion is required.  |
 | ![4. Data Repository Updated](../../img/usecases/createid4.png)  | The authoritative source updates the available identity information to the repository.  |
 
-**Postcondition:** The identity record of an individual is created, updated, or deleted, as appropriate.  
+**Post-condition:** The identity record of an individual is created, updated, or deleted, as appropriate.  
 
 [Click here](../../img/CreateID.png) for a consolidated image of this use case.

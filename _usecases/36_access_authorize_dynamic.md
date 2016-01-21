@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Authorize Access - Dynamic
 collection: usecases
 ---
@@ -8,4 +8,3 @@ Under the dynamic model, an organization establishes a set of access policies.  
 This model is typical of ABAC (attribute-based access control) systems.
 
 ![Authorize Dynamic Access](../../img/AuthorizeDynamic.png)
-

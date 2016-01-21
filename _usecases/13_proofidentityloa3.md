@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Proof an Identity at Level of Assurance 3
 collection: usecases
 ---

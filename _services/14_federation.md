@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Federation
 collection: services
 permalink: services/federation/

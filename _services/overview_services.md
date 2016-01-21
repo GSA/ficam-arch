@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Services Framework
 collection: services
 permalink: services/overview/

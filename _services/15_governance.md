@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Governance
 collection: services
 permalink: services/governance/
