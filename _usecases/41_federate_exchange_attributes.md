@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Exchange Attributes in a Federation
 collection: usecases
 ---
@@ -7,11 +7,3 @@ When an individual requests access to a resource at an outside organization, tha
 This use case demonstrates both a brokered (a) and non-brokered (b) approach for obtaining attributes. It also applies to applies to situations where attributes are being sought from another division within the same organization.
 
 ![Exchange Federated Attribute](../../img/ExchangeAttributes.png)
-
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

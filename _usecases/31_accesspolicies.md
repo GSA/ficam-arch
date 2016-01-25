@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Administer Digital Access Policies
 collection: usecases
 ---
@@ -8,11 +8,3 @@ Creating and implementing policy is a process that happens during design time, b
 Policymaking bodies often draw on federal regulations, executive orders, legislation, organization-specific rules, and past precedent when crafting or updating digital access policy.
 
 ![Administer Policies](../../img/Policies.png)
-
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

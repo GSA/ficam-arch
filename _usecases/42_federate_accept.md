@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Accept Credentials in a Federation
 collection: usecases
 ---
@@ -7,11 +7,3 @@ The term ‘federation’ describes an environment where an agency has establish
 This use case shows the primary process for providing access to an outside individual in a federated environment.
 
 ![Accept federated credentials](../../img/FederatedCred.png)
-
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

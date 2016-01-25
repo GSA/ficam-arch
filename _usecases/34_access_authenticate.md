@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Authenticate a User
 collection: usecases
 ---
@@ -8,11 +8,3 @@ Authentication is the process by which a system verifies the user’s claimed id
 There are three types of authentication factors: something you know (such as a password or PIN), something you have (such as a smartcard), and something you are (such as your fingerprint). At LOA3 and LOA4, at least two types of factors are required.
 
 ![Authenticate a user](../../img/Authenticate.png)
-
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

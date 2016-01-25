@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Create and Issue Level of Assurance 3 Credential
 collection: usecases
 ---
@@ -8,11 +8,3 @@ A credential token meets LOA3 when it uses multiple factors for authentication (
 LOA3 credentials can be either hardware or software tokens and are recognized as LOA3 strength when paired with identity proofing at LOA3 or LOA4.
 
 ![Create and issue LOA3](../../img/LOA3Cred.png)
-
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples

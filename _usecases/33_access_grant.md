@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Grant Access to a protected resource
 collection: usecases
 ---
@@ -11,11 +11,3 @@ For more information about:
 * Access policy administration and entitlements management - please see Administer Digital Access Policies and Manage Entitlements.
 
 ![Grant access](../../img/GrantAccess.png)
-
-## Considerations
-
-## Background & Key Revisions
-
-## External References
-
-## Examples
