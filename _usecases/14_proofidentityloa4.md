@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Proof an Identity at Level of Assurance 4
 collection: usecases
 ---
@@ -9,4 +9,3 @@ This use case describes the process for completing identity proofing at Level of
 
 ## External References
 * <a href="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-2.pdf">NIST SP 800-63-2</a>
-

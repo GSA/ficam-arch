@@ -10,9 +10,10 @@ baseurl: '/ficam-arch'
 #twitter_username: jekyllrb
 github_username:  gsa
 highlighter: pygments
+branch: staging
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl:
+logourl: /ficam-arch/img/logo.png
 logoalt: Federal Identity Credential and Access Management
 
 # Repo list
@@ -55,7 +56,7 @@ navigation:
   internal: true
   coll: false
 - text: Services Framework
-  url: services/index/
+  url: services/overview/
   internal: true
   coll: true
   collname: services

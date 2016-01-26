@@ -1,34 +1,82 @@
 ---
-layout: page
-title: Identity
+layout: page_collection
+title: Identity Management
 collection: services
+permalink: services/identity/
 ---
-<img src ="../../img/Identity.png" align = "left">
+![Identity Service Diagram - Overview of diagram follows in text below.]({{site.baseurl}}/img/Identity.png){:align="right"}
 
+Identity Management is the set of practices that allow an
+organization to establish, maintain, and terminate identities.
 
-<p style="line-height:.3; font-size:15px"><b>Identity Proofing</b></p>
-<p style="line-height:1.5; font-size:12px">Verifying information to establish the identity of a person or entity.
-<br>
-<em>Keywords</em>: Source Document Validation, Remote Proofing, In-Person Proofing </p>
+An **IDENTITY** is the set of characteristics (also called
+“attributes”) that describe an individual within a given
+context:
 
-<p style="line-height:.3; font-size:15px"><b>Creation</b></p>
-<p style="line-height:1.5; font-size:12px">Establishing a digital identity composed of attributes that define a person or entity.
-<br>
-<em>Keywords</em>: Identity Lifecycle Management, Identity Record, Authoritative Source </p>
+* Your identity within the context of the Department of
+Motor Vehicles (DMV) is different from your identity
+within the context of your bank.
 
-<p style="line-height:.3; font-size:15px"><b>Maintenance</b></p>
-<p style="line-height:1.5; font-size:12px">Maintaining accurate and current attributes within an identity record over its life cycle.
-<br>
-<em>Keywords</em>: Identity Lifecycle Management, Updating, Attribute Management </p>
+* Similarly, a person who is both a government
+contractor and an Army Reservist will have two
+identities, one in each context. These identities are
+often called “personas”.
 
-<p style="line-height:.3; font-size:15px"><b>Identity Resolution</b></p>
-<p style="line-height:1.5; font-size:12px">Finding and connecting disparate identity records for the same person or entity.
-<br>
-<em>Keywords</em>: Identity Reconciliation, Account Linking  </p>
+Identities change and evolve over time (you may get a
+promotion, change your hair color, or receive additional
+training) and may be terminated (you may turn in your
+driver’s license when you move to another state), but
+identities do not expire.
 
-<p style="line-height:.3; font-size:15px"><b>Deactivation</b></p>
-<p style="line-height:1.5; font-size:12px">Deactivating or removing an identity record.
-<br>
-<em>Keywords</em>: Identity Lifecycle Management, Suspension, Archiving, Deletion </p>
+**IDENTITY PROOFING** is the process by which an identity is
+first established. This process can be simple or complicated,
+depending on the Level of Assurance (strength) that is
+required of the identity:
 
+* The process for a frequent shopper program at the
+local grocery store is weak.
 
+* The processes required by the DMV is stronger,
+typically requiring multiple forms of evidence, such as
+leases, mortgages, and utility bills.
+
+* The process required by the Federal Government is
+stronger still.
+
+An **IDENTIFIER** is a unique attribute that can be used to
+locate a specific identity within its context:
+
+* While the DMV may issue many driver’s licenses bearing
+the same name (there is more than one John Smith in
+the state), each will have a different driver’s license
+number.
+
+## Identity Management Services
+The Identity Management services in the Federal ICAM architecture include Proofing, Creation, Maintenance, Resolution and Deactivation.
+
+![Identity Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/identity_services_detailed.png){:align="center"}
+
+**Identity Proofing**  
+
+> Verifying information to establish the identity of a person or entity.  
+_Keywords_: Source Document Validation, Remote Proofing, In-Person Proofing
+
+**Creation**  
+
+> Establishing a digital identity composed of attributes that define a person or entity.  
+_Keywords_: Identity Lifecycle Management, Identity Record, Authoritative Source  
+
+**Maintenance**  
+
+> Maintaining accurate and current attributes within an identity record over its life cycle.  
+_Keywords_: Identity Lifecycle Management, Updating, Attribute Management  
+
+**Identity Resolution**  
+
+> Finding and connecting disparate identity records for the same person or entity.  
+_Keywords_: Identity Reconciliation, Account Linking  
+
+**Deactivation**  
+
+> Deactivating or removing an identity record.  
+_Keywords_: Identity Lifecycle Management, Suspension, Archiving, Deletion

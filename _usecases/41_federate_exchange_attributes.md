@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Exchange Attributes in a Federation
 collection: usecases
 ---

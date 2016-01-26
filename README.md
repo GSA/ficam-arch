@@ -1,8 +1,3 @@
----
-layout: default
-permalink: /
----
-
 This work is in early Alpha stage - under active development - and is being led by the ICAM Steering Committee's Architecture & Playbook Tiger Team; chartered under the US Government CIO Council.
 
 # FICAM Architecture

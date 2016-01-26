@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_collection
 title: Maintain Credential - Renew
 collection: usecases
 ---
@@ -7,4 +7,3 @@ When an employee or contractor’s credential expires, they usually have the opt
 For PIV cards, you can only renew if the card has not already expired.
 
 ![Renew a credential](../../img/Renew.png)
-
