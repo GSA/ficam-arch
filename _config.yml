@@ -9,7 +9,7 @@ baseurl: '/ficam-arch'
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  gsa
-highlighter: pygments
+highlighter: rouge
 branch: staging
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
@@ -21,7 +21,7 @@ logoalt: Federal Identity Credential and Access Management
 repos:
 - name: ficam-arch
   description: FICAM Architecture
-  url: https://github.com/GSA/ficam-arch
+  url: https://github.com/GSA/ficam-arch/
 
 # Build settings
 markdown: kramdown
