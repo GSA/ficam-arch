@@ -4,6 +4,8 @@ title: Standards and Policies
 permalink: /standards/
 ---
 
+#### Policies
+
 |  Document Title  |  Description  |
 |  [Federal Investigative Standards: Investigative Standards for Background Investigations for Access to Classified Information](http://www.fas.org/sgp/spb/bginvest.html)  |  This document provides standards to align suitability and national security investigations under consistent criteria. Applies to investigations performed in support of determinations of eligibility for access to classified information, eligibility to hold a sensitive position, suitability for government employment, and eligibility for physical and logical access.  |
 |  [M-00-10: OMB Procedures and Guidance on Implementing the Government Paperwork Elimination Act](https://www.whitehouse.gov/omb/memoranda_m00-10/)  |  This document provides Executive agencies with the guidance required under Sections 1703 and 1705 of the GPEA, P. L. 105-277, Title XVII. GPEA requires agencies, by October 21, 2003, to provide for the (1) option of electronic maintenance, submission, or disclosure of information, when practicable as a substitute for paper; and (2) use and acceptance of electronic signatures, when practicable. GPEA specifically states that electronic records and their related electronic signatures are not to be denied legal effect, validity, or enforceability merely because they are in electronic form.  |
@@ -39,6 +41,10 @@ permalink: /standards/
 |  [Executive Order (E.O.) 12958: Classified National Security Information](http://www.fas.org/sgp/clinton/eo12958.html)  |  Established to have a uniform system for classifying, safeguarding, and declassifying national security information. Changes to the national security threats provide greater opportunity to emphasize the commitment to open Government.  |
 |  [E.O.12977: Access to Classified Information](http://wbdg.org/ccb/FED/FMEO/eo12977.pdf)  |  Established the ISC to develop standards, policies and best practices for enhancing the quality and effectiveness of physical security in, and the protection of, nonmilitary federal facilities in the United States.  |
 |  [E.O.13467: Reforming Processes Related to Suitability for Government Employment, Fitness for Contractor Employees, and Eligibility for Access to Classified National Security Information](http://www.fas.org/irp/offdocs/eo/eo-13467.pdf)  |  Established to ensure an efficient, practical, reciprocal, and aligned system for investigating and determining suitability for Government employment, contractor employee fitness, and eligibility for access to classified information.  |
+
+#### Standards and Guidance
+
+|  Document Title  |  Description  |
 |  [HSPD-12 Shared Component Infrastructure Interface Specification Common Elements](https://www.idmanagement.gov/IDM/servlet/fileField?entityId=ka0t00000008OekAAE&field=File__Body__s)  |  This document provides Extensible Markup Language (XML) elements common to [Agency-SIP] and [ESP-SIP].  |
 |  [HSPD-12 Shared Component Infrastructure Metadata Management](https://www.idmanagement.gov/IDM/servlet/fileField?entityId=ka0t00000008OelAAE&field=File__Body__s)  |  This document describes SCI metadata management. It captures assumptions the AWG has made about the full life cycle of SCI metadata (definition, distribution, configuration, use, and maintenance).  |
 |  [Finalization Service Provider to System Infrastructure Provider Interface](https://www.idmanagement.gov/IDM/servlet/fileField?entityId=ka0t00000008OchAAE&field=File__Body__s)  |  This document describes the interface for Finalization Service Provider (FSP) and Systems Infrastructure Provider (SIP) data exchange. It is a standard, re-usable shared service for Federal Government-wide use, per [SCI Architecture]. Therefore, one should read [SCI Architecture] before reading this document.  |

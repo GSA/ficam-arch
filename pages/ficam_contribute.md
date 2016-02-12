@@ -6,11 +6,11 @@ permalink: /contribute/
 This site is for the collaborative development of the Federal Identity, Credential and Access Management segment architecture. The content is supporting the creation of Version 3.0 (and future revisions) of the [FICAM Roadmap and Implementation Guidance v2.0](https://www.idmanagement.gov/IDM/servlet/fileField?entityId=ka0t0000000TNNBAA4&field=File__Body__s), Sections 1, 2, 3 and 4.
 
 #### How to Contribute
-Thank you for considering contributing to our development of open and transparent architecture. If you're unsure or afraid of anything, just ask or submit the issue or pull request. We appreciate any sort of contribution and are committed to transparency and collaboration.
+Thank you for considering contributing to our development of open and transparent architecture. If you're unsure of anything, just ask or submit edits through an issue or pull request. We appreciate any sort of contribution and are committed to transparency and collaboration.
 
 The source repository exists [here]({{site.github.repository_url}}/{{site.branch}}/).
 
-We encourage you to read our [CONTRIBUTING]({{site.baseurl}}/contributing) policy, our [LICENSE]({{site.baseurl}}/license), and our [README]({{site.github.repository_url}}/{{site.branch}}/README.md), all of which exist within this repository.  
+We encourage you to read our [LICENSE]({{site.baseurl}}/license) and our [README]({{site.github.repository_url}}/{{site.branch}}/README.md), which exist within this repository.  
 
 We welcome contributions in the form of requests, issues and pages:  
 
@@ -35,8 +35,6 @@ We welcome contributions in the form of requests, issues and pages:
 Additional repositories will be established soon for contributors to share implementation guides, code, reference implementations, and solutions encompassing Part B, Sections 6 through 13, of the FICAM Roadmap and Implementation Guidance.
 
 #### How to Use the Repository to Contribute
-
-The source repository exists [here]({{site.github.repository_url}}/{{site.branch}}/)
 
 *  _pages_ contains markdown pages (samples) for the architecture Overview, Conceptual Diagram, Goals & Objectives, Business Process Diagram, and Applications Diagrams
 * _usecases_ contains markdown pages (samples) for each of the use cases identified to date by the Architecture & Playbook Tiger Team
