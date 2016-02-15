@@ -1,10 +1,19 @@
-## Introduction
-
-Welcome to the _in-progress_ site for the Federal ICAM Architecture!  This page is your first stop for learning about FICAM, understanding the FICAM Architecture, and contributing to its development.
+Welcome to the _in-progress_ site for the Federal ICAM Architecture! This page is your first stop for learning about FICAM, understanding the FICAM Architecture, and contributing to its development.
 
 #### What is ICAM?
 
-ICAM (also known as IAM or IdAM) stands for Identity, Credential, and Access Management. It is a term for the tools, policies, and systems that allow an organization to manage, monitor, and secure access to protected resources. These resources may be electronic files, computer systems, or physical resources such as server rooms and buildings. The image below depicts a conceptual view of ICAM:
+ICAM - **Identity**, **Credential**, and **Access Management** - is the set of security disciplines that allows an
+organization to:
+
+> **_enable the right individual to access the right resource at the right time for the right reason_**
+
+We perform ICAM-related functions dozens of times per day, often without realizing it: when we unlock our cars, swipe into and
+out of the subway/metrorail, check our email, and withdraw cash at an ATM. Can you imagine if anyone could withdraw cash from your account? Or if anyone could start your car?
+
+
+
+It is the tools, policies, and systems that allow an organization to manage, monitor, and secure access to protected resources.
+These resources may be electronic files, computer systems, or physical resources such as server rooms and buildings. The image below depicts a conceptual view of ICAM:
 
 <div style="text-align:center"><img src="img/ConceptualDiagram.png"/></div>
 
@@ -16,7 +25,7 @@ See <a href="http://gsa.github.io/ficam-arch/goals/">Goals & Objectives</a> for 
 
 #### What is the FICAM Architecture?
 
-An enterprise architecture is a conceptual blueprint that defines what an organization is and does. This “blueprint” uses principles and practices to lay out an approach for an organization to design, plan, and execute their strategy against.
+An enterprise architecture is a conceptual blueprint that defines what an organization is and does. This “blueprint” uses principles and practices to define an approach for an organization to design, plan, and execute a strategy.
 
 The FICAM Architecture is the Federal Government’s approach for designing, planning for, and implementing ICAM. It depicts principles and practices in the form of diagrams and stories to describe what ICAM is, what it should do, and what is used to provide capabilities to an agency. While the FICAM Architecture provides a common, government-wide view of ICAM, flexibility in the design exists to allow agencies to use it no matter how unique their implementation environment is.
 

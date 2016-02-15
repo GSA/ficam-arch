@@ -1,29 +1,40 @@
 ---
-layout: page
+layout: page_collection
 title: Governance
 collection: services
+permalink: services/governance/
 ---
-<img src ="../../img/Governance.png" align = "left">
+![Governance Service Diagram - Overview of diagram follows in text below.]({{site.baseurl}}/img/Governance.png){:align="right"}
+
+Governance is the set of practices that allow organizations to administer and support the successful execution of the core ICAM services and functions. Governance functions enable organizations to make programmatic decisions, manage enterprise policies, and promote the efficiency of their ICAM program.
+
+Enterprise governance helps ensure the smooth operation of an ICAM program through developing and implementing policies, rules, and procedures that should be adhered to to manage the program.
+
+Collecting data to monitor, analyze, and report on  how well an ICAM program conforms with the rules and policies that they have established is another key component of governance.
 
 
-<p style="line-height:.3; font-size:15px"><b>Enterprise Governance</b></p>
-<p style="line-height:1.5; font-size:12px">Developing and implementing the policies, rules, and procedures to manage and improve an ICAM program.
+If through this monitoring a problem or vulnerability within the program is identified, it is important to remediate these issues. There is a possibility that these vulnerabilities could lead to a security or privacy breach, which requires preparedness and execution of a recovery plan to ensure continuity of service.
+ 
+## Governance Services 
+ The Governance services in the Federal ICAM architecture include Enterprise Governance, Auditing and Reporting, Redress, and Recovery.   
+![Governance Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/governance_services_detailed.png){:align="center"}
 
-<br>
+**Enterprise Governance**  
 
-<p style="line-height:.3; font-size:15px"><b>Auditing & Reporting</b></p>
-<p style="line-height:1.5; font-size:12px">Monitoring, reviewing, and reporting on an ICAM program’s conformance with rules, policies, and requirements. 
-<br>
-<em>Keywords</em>: Data collection, Monitoring, Analysis, Data Certification
-</p>
+> Developing and implementing the policies, rules, and procedures to manage and improve an ICAM program.
 
-<p style="line-height:.3; font-size:15px"><b>Redress</b></p>
-<p style="line-height:1.5; font-size:12px">Fixing problems and vulnerabilities that occur during standard operation of an ICAM program.
-<br>
-<em>Keywords</em>: Remediation </p>
+**Auditing & Reporting**
 
-<p style="line-height:.3; font-size:15px"><b>Recovery</b></p>
-<p style="line-height:1.5; font-size:12px">Preparing the procedures and assets that would be needed to recover from a security or privacy breach and ensure  continuity of service. 
-<br>
-<em>Keywords</em>: Mitigation  </p>
+> Monitoring, reviewing, and reporting on an ICAM program’s conformance with rules, policies, and requirements.  
+_Keywords_: Data collection, Monitoring, Analysis, Data Certification
 
+
+**Redress**
+
+> Fixing problems and vulnerabilities that occur during standard operation of an ICAM program.  
+_Keywords_: Remediation  
+
+**Recovery**
+
+> Preparing the procedures and assets that would be needed to recover from a security or privacy breach and ensure continuity of service.  
+_Keywords_: Mitigation
