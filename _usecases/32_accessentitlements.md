@@ -15,12 +15,12 @@ Managing entitlements happens during design time, before an individual attempts 
 
 **Pre-condition:** Individual has an active credential.
 
-| ![1. Separation Notification](../../img/usecases/revoke1.png)  | An actor sends separation notification to the credential manager. <br/><em> Actor could range from the individual to their supervisor, HR, or security team member.</em> |
-| ![2. Credential Disabled](../../img/usecases/revoke2.png)  | The credential manager invalidates the credential and disables its access provisions. <br/><em>The credential manager could be a person or a system.</em> |
-| ![3. Credential Collected](../../img/usecases/revoke3.png)  | An actor collects the credential if it is a hardware token. <br/><em>Actor could be supervisor, HR, or a security team member. </em> |
-| ![3. Credential Collected](../../img/usecases/revoke3.png)  | An actor collects the credential if it is a hardware token. <br/><em>Actor could be supervisor, HR, or a security team member. </em> |
+| ![1. Request to Create Entitlements](../../img/usecases/entitlements1.png)  | An actor requests to create entitlements for an individual. <br/><em>This actor could be the individual, an administrator, or an automated system, depending on the organization. </em>  |
+| ![2. Request Reviewed](../../img/usecases/entitlements2.png)  | The request change is reviewed. <br/><em>Reviewer could be a person or a system that evaluates the request against existing policy. They may be multiple layers of review.</em> |
+| ![3. Request Approved](../../img/usecases/entitlements3.png)  | If the requested change is in accordance with policy and the individual has a mission need for access, the request is approved. |
+| ![3. Maintain Entitlements](../../img/usecases/entitlements4.png)  | The individual is provisioned with updated access entitlements. Those entitlements are updated and maintained whenever their roles changes.  |
 
-**Post-condition:** Individual no longer has access via that credential.
+**Post-condition:** The individual has been provisioned entitlements that allow them access to the appropriate resources for their role.  
 
 [Click here](../../img/Entitlements.png) for a consolidated image of this use case.
 
