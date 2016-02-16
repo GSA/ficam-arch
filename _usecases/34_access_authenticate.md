@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Authenticate a User
+title: 16. Authenticate a User
 collection: usecases
 ---
 

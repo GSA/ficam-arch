@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Administer Digital Access Policies
+title: 13. Administer Digital Access Policies
 collection: usecases
 ---
 

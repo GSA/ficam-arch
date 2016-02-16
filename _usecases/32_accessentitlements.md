@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Manage Entitlements
+title: 14. Manage Entitlements
 collection: usecases
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Authorize Access - Dynamic
+title: 18. Authorize Access - Dynamic
 collection: usecases
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Proof an Identity at Level of Assurance 4
+title: 4. Proof an Identity at Level of Assurance 4
 collection: usecases
 ---
 

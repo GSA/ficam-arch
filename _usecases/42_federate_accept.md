@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Accept Credentials in a Federation
+title: 20. Accept Credentials in a Federation
 collection: usecases
 ---
 
