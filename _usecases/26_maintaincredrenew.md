@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Maintain Credential - Renew
+title: 11. Maintain Credential - Renew
 collection: usecases
 ---
 

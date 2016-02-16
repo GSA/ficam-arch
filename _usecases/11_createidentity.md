@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Create and Maintain an Identity
+title: 1. Create and Maintain an Identity
 collection: usecases
 ---
 

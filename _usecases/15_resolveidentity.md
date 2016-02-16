@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Resolve an Identity Internal to an Agency
+title: 5. Resolve an Identity Internal to an Agency
 collection: usecases
 ---
 

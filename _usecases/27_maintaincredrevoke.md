@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Maintain Credential - Revoke
+title: 12. Maintain Credential - Revoke
 collection: usecases
 ---
 

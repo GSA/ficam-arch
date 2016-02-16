@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Create and Issue Level of Assurance 2 Credential
+title: 6. Create and Issue Level of Assurance 2 Credential
 collection: usecases
 ---
 

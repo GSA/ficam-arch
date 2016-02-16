@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Authorize Access - Static
+title: 17. Authorize Access - Static
 collection: usecases
 ---
 

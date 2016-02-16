@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Exchange Attributes in a Federation
+title: 19. Exchange Attributes in a Federation
 collection: usecases
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Maintain Credential - Reset
+title: 10. Maintain Credential - Reset
 collection: usecases
 ---
 
