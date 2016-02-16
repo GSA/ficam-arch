@@ -4,6 +4,8 @@ title: Standards and Policies
 permalink: /standards/
 ---
 
+This page identifies the regulations, standards, and policies that have impacted and shaped the development of today's ICAM programs.
+
 #### Policies
 
 |  Document Title  |  Description  |

@@ -6,7 +6,7 @@ permalink: services/governance/
 ---
 ![Governance Service Diagram - Overview of diagram follows in text below.]({{site.baseurl}}/img/Governance.png){:align="right"}
 
-Governance is the set of practices that allow organizations to administer and support the successful execution of the core ICAM services and functions. Governance functions enable organizations to make programmatic decisions, manage enterprise policies, and promote the efficiency of their ICAM program.
+Governance is the set of practices that allow organizations to administer and support the successful execution of the core ICAM services and functions. Governance, for the purpose of this services framework, does not refer to the governance or management of an entire enterprise but of those capabilities necessary to ensure successful ICAM operations. Governance functions enable organizations to make programmatic decisions, manage enterprise policies, and promote the efficiency of their ICAM program. 
 
 Enterprise governance helps ensure the smooth operation of an ICAM program through developing and implementing policies, rules, and procedures that should be adhered to to manage the program.
 
