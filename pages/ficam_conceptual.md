@@ -14,7 +14,7 @@ Front and center in each box is a graphical depiction of one of the core ICAM co
 
 For example, the Identity box shows the unique characteristics that make up a person, such as their birth date and fingerprints, being used to create a digital identity for that individual. The Credential box shows that digital identity being bound to a credential. The Access box shows the person using their digital identity and their credential to securely access protected resources, such as a door or a computer.
 
-Each box is split into several components to help explain these core concepts. Above the graphic, there’s a brief explanation of each ICAM concept, and below the graphic there’s a list of the ICAM Services that fall under each (see [Services Framework]({{site.baseurl}}/services/) for more).
+Each box is split into several components to help explain these core concepts. Above the graphic, there’s a brief explanation of each ICAM concept, and below the graphic there’s a list of the ICAM Services that fall under each (see [Services Framework]({{site.baseurl}}/services/overview/) for more).
 
 Throughout the FICAM Architecture, the colors and symbols you see here are used to map new concepts back to these core areas. For example, whenever you see purple and the person icon, that concept relates to Identity Management. Green and the document icon relate to Credential Management. Blue and the lock icon relate to Access Management.  Any element that shows all three colors relates to ICAM as a whole.
 
@@ -23,7 +23,7 @@ At the bottom of the diagram, there are boxes for two overarching concepts: Gove
 For more, see [Governance]({{site.baseurl}}/services/governance) and [Federation]({{site.baseurl}}/services/federation).
 
 #### How should I use this page?
-This guide is meant to be a basic reference for core ICAM concepts. It’s your starting point to understanding the next layer of ICAM, the [Services Framework]({{site.baseurl}}/services/overview), and beyond.
+This guide is meant to be a basic reference for core ICAM concepts. It’s your starting point to understanding the next layer of ICAM, the [Services Framework]({{site.baseurl}}/services/overview/), and beyond.
 
 Please feel free to copy the graphics and text from this page to use at your own agency to drive ICAM awareness and understanding!
 
