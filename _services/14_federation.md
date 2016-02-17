@@ -39,7 +39,7 @@ organization:
   * A driver’s license authorizing you to drive in one state is accepted by
 another.
 
-## Federation Services
+### Federation Services
 The Federation services in the Federal ICAM architecture include Policy Administration, Entitlement Management, Provisioning, Authentication, and Authorization.
 ![Federation Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/federation_services_detailed.png){:align="center"}
 

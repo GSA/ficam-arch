@@ -32,11 +32,11 @@ The visual includes four Goals, each with its own Objectives. The Goals are broa
 * 4.2 - Standardize and automate ICAM business processes across the Federal Government
 * 4.3 - Establish shared service platforms and reuse or repurpose existing hardware and infrastructure when possible
 
-## Background & Key Revisions
+#### Background & Key Revisions
 
 The updated Goals & Objectives clearly convey not just general cybersecurity goals but how ICAM contributes to that goal’s success. The language has also been revised to reflect that ICAM Goals accomplish high level aspirations of the Federal Government, whereas Objectives discuss actionable ways to achieve those goals. Lastly, the ‘compliance’-focused goal has been removed in favor of showing throughout the document how ICAM inherently contributes to Federal compliance.  
 
-## External References
+#### External References
 
 *  [Executive Order 13587: Structural Reforms to Improve the Security of Classified Networks and the Responsible Sharing and Safeguarding of Classified Information](https://www.whitehouse.gov/the-press-office/2011/10/07/executive-order-13587-structural-reforms-improve-security-classified-net")
 *  [National Strategy for Information Sharing and Safeguarding](https://www.whitehouse.gov/the-press-office/2012/12/19/national-strategy-information-sharing-and-safeguarding")

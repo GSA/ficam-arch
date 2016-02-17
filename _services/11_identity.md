@@ -51,7 +51,7 @@ the same name (there is more than one John Smith in
 the state), each will have a different driver’s license
 number.
 
-## Identity Management Services
+### Identity Management Services
 The Identity Management services in the Federal ICAM architecture include Proofing, Creation, Maintenance, Resolution and Deactivation.
 
 ![Identity Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/identity_services_detailed.png){:align="center"}

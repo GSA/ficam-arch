@@ -91,7 +91,7 @@ does not know the difference.
 
 Authorization is how your request for a resource is decided.  
 
-## Access Management Services
+### Access Management Services
 The Access Management services in the Federal ICAM architecture include Policy Administration, Entitlement Management, Provisioning, Authentication, and Authorization.  
 
 ![Access Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/access_services_detailed.png){:align="center"}

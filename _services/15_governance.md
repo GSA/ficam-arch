@@ -15,7 +15,7 @@ Collecting data to monitor, analyze, and report on  how well an ICAM program con
 
 If through this monitoring a problem or vulnerability within the program is identified, it is important to remediate these issues. There is a possibility that these vulnerabilities could lead to a security or privacy breach, which requires preparedness and execution of a recovery plan to ensure continuity of service.
  
-## Governance Services 
+### Governance Services 
  The Governance services in the Federal ICAM architecture include Enterprise Governance, Auditing and Reporting, Redress, and Recovery.   
 ![Governance Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/governance_services_detailed.png){:align="center"}
 

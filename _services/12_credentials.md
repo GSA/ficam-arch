@@ -52,7 +52,8 @@ Assurance depending on the strength required. The
 credential for accessing your bank account is likely stronger
 than the credential for accessing your health club.
 
-## Credential Management Services
+  
+### Credential Management Services
 The Credential Management services in the Federal ICAM architecture include Sponsorship, Registration, Issuance, Maintenance, and Revocation.
 
 ![Credential Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/credential_services_detailed.png){:align="center"}
