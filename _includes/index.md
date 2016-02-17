@@ -1,4 +1,4 @@
-Welcome to the _in-progress_ site for the Federal ICAM Architecture! This page is your first stop for learning about FICAM, understanding the FICAM Architecture, and contributing to its development.
+Welcome to the _in-progress_ site for the Federal ICAM Enterprise Architecture! This page is your first stop for learning about FICAM, understanding the FICAM Enterprise Architecture, and contributing to its development.
 
 #### What is ICAM?
 
@@ -6,11 +6,6 @@ ICAM - **Identity**, **Credential**, and **Access Management** - is the set of s
 organization to:
 
 > **_enable the right individual to access the right resource at the right time for the right reason_**
-
-We perform ICAM-related functions dozens of times per day, often without realizing it: when we unlock our cars, swipe into and
-out of the subway/metrorail, check our email, and withdraw cash at an ATM. Can you imagine if anyone could withdraw cash from your account? Or if anyone could start your car?
-
-
 
 It is the tools, policies, and systems that allow an organization to manage, monitor, and secure access to protected resources.
 These resources may be electronic files, computer systems, or physical resources such as server rooms and buildings. The image below depicts a conceptual view of ICAM:
