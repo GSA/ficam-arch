@@ -21,7 +21,7 @@ logoalt: Federal Identity Credential and Access Management
 repos:
 - name: ficam-arch
   description: FICAM Architecture
-  url: https://github.com/GSA/ficam-arch
+  url: https://github.com/GSA/ficam-arch/
 
 # Build settings
 markdown: kramdown
