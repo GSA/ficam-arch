@@ -14,7 +14,7 @@ This use case describes the process for completing identity proofing at Level of
 **Pre-condition:** A need has been established for an individual to receive an LOA2 credential.
 
 | ![1A. Identity Info Presented In-Person](../../img/usecases/proofloa21a.png)  | If in person, the individual presents a valid government ID.  |
-| ![1B. Identity Info Presented Remotely](../../img/usecases/proofloa21b.png)  | If remote, the individual presents a utility company or bank account number and a government issued ID number.  |
+| ![1B. Identity Info Presented Remotely](../../img/usecases/proofloa21b.png)  | If remote, the individual presents a utility company or financial account number and a government issued ID number.  |
 | ![2. Information Verified](../../img/usecases/proofloa22.png)  | If in person, the approval authority matches the photo on the ID with the individual.<br/> If remote, the approval authority verifies either the government ID number or the account number.  |
 | ![3. Confirmation](../../img/usecases/proofloa23.png)  | The approval authority confirms the individual’s contact information.  |
 
