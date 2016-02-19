@@ -18,7 +18,7 @@ LOA3 credentials can be either hardware or software tokens and are recognized as
 | ![1. Request Issued](../../img/usecases/createloa3s1.png)  | A sponsor requests a credential for the individual. <br/><em> Sponsor should be an official who can verify the individual's need for a credential.</em> |
 | ![2. Request Approved](../../img/usecases/createloa3s2.png)  | The approval authority reviews the sponsor’s request. If the request is valid, it is approved.  |
 | ![3. Token Generated](../../img/usecases/createloa3s3.png)  | The CSP generates the credential token and assigns it to the individual. <br/><em> Issuer could be a person or a system.</em>  |
-| ![4. Token Delivered](../../img/usecases/createloa3s4.png)  | The CSP securely issues token to the individual. <br/><em> Delivery could occur through encrypted email, secure mail, or an authorized in-person issuer.</em> |
+| ![4. Token Delivered](../../img/usecases/createloa3s4.png)  | The CSP securely issues token to the individual. <br/><em> Delivery could occur through encrypted email, secure mail, or an authorized in person issuer.</em> |
 | ![5. Token Activated](../../img/usecases/createloa3s5.png)  | The individual is prompted to activate the token and establish a memorized secret. <br/><em> This will later be used to authenticate the individual. It is commonly a PIN or password.</em>  |
 | ![6. Functionality Verified](../../img/usecases/createloa3s6.png)  | The individual verifies token functionality through a test system.  |
 
