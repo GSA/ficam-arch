@@ -1,7 +1,7 @@
 This site is for the collaborative development of the Federal Identity, Credential and Access Management segment architecture. The content is supporting the creation of Version 3.0 (and future revisions) of the [FICAM Roadmap and Implementation Guidance v2.0](https://www.idmanagement.gov/IDM/servlet/fileField?entityId=ka0t0000000TNNBAA4&field=File__Body__s), Sections 1, 2, 3 and 4.
 
 #### How to Contribute
-Thank you for considering contributing to our development of open and transparent architecture. To contribute to this site, please leverage the information provided below, and visit the GitHub repository which houses the source files for the site and exists [here]({{site.github.repository_url}}/{{site.branch}}/). If you have any questions, feel free to open an issue under the 'Issues' tab of the repository. Please note that opening issues or adding content to the repository will require the creation of a GitHub account.
+Thank you for considering contributing to our development of open and transparent architecture. To contribute to this site, please leverage the information provided below, and visit the GitHub repository which houses the source files for the site and exists [here]({{site.github.repository_url}}). If you have any questions, feel free to open an issue under the 'Issues' tab of the repository. Please note that opening issues or adding content to the repository will require the creation of a GitHub account.
 
 GitHub issues are the primary way of sharing information and discussing this site with the broader community. For example, they should be used for:
 
