@@ -9,11 +9,11 @@ baseurl: '/ficam-arch'
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  gsa
-highlighter: pygments
+highlighter: rouge
 branch: staging
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /img/logo.png
+logourl: /ficam-arch/img/logo.png
 logoalt: Federal Identity Credential and Access Management
 
 # Repo list
@@ -21,7 +21,7 @@ logoalt: Federal Identity Credential and Access Management
 repos:
 - name: ficam-arch
   description: FICAM Architecture
-  url: https://github.com/GSA/ficam-arch
+  url: https://github.com/GSA/ficam-arch/
 
 # Build settings
 markdown: kramdown
@@ -47,29 +47,25 @@ navigation:
   url: background
   internal: true
   coll: false
-- text: Conceptual Diagram
+- text: Conceptual View
   url: conceptual
   internal: true
   coll: false
-- text: Goals and Objectives
+- text: Goals & Objectives
   url: goals
   internal: true
   coll: false
 - text: Services Framework
-  url: services/overview
+  url: services/overview/
   internal: true
   coll: true
   collname: services
-- text: Business Process Diagram
-  url: businessprocess
-  internal: true
-  coll: false
 - text: Use Cases
   url: usecases/index/
   internal: true
   coll: true
   collname: usecases
-- text: Applications Diagrams
+- text: Applications View
   url: applications
   internal: true
   coll: false
@@ -83,7 +79,7 @@ navigation:
 #  url: faq
 #  internal: true
 #  coll: false
-- text: Standards and Policies
+- text: Standards & Policies
   url: standards
   internal: true
   coll: false

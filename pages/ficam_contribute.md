@@ -3,54 +3,43 @@ layout: page
 title: Contribute
 permalink: /contribute/
 ---
-This site is for the collaborative development of the Federal Identity, Credential and Access Management segment architecture. The content is supporting the creation of Version 3.0 (and future revisions) of the FICAM Roadmap and Implementation Guidance v2.0, Sections 1, 2, 3 and 4:  http://www.idmanagement.gov/sites/default/files/documents/FICAM_Roadmap_and_Implementation_Guidance_v2%200_20111202_0.pdf
+This site is for the collaborative development of the Federal Identity, Credential and Access Management segment architecture. The content is supporting the creation of Version 3.0 (and future revisions) of the [FICAM Roadmap and Implementation Guidance v2.0](https://www.idmanagement.gov/IDM/servlet/fileField?entityId=ka0t0000000TNNBAA4&field=File__Body__s), Sections 1, 2, 3 and 4.
 
 #### How to Contribute
-Thank you for considering contributing to our development of open and transparent architecture. If you're unsure or afraid of anything, just ask or submit the issue or pull request. We appreciate any sort of contribution and are committed to transparency and collaboration.
+Thank you for considering contributing to our development of open and transparent architecture. To contribute to this site, please leverage the information provided below, and visit the GitHub repository which houses the source files for the site and exists [here]({{site.github.repository_url}}). If you have any questions, feel free to open an issue under the 'Issues' tab of the repository. Please note that opening issues or adding content to the repository will require the creation of a GitHub account.
 
-The source repository exists [here](https://github.com/GSA/ficam-arch/)
+GitHub issues are the primary way of sharing information and discussing this site with the broader community. For example, they should be used for:
 
-We encourage you to read our [CONTRIBUTING](../CONTRIBUTING.md) policy, our [LICENSE](../LICENSE.md), and our [README](../README.md), all of which exist within this repository.  
+* _Suggestions:_ You would like to suggest an edit or addition to any existing pages or information on this site
+* _Corrections:_ You have identified a problem with existing information on the site and would like to discuss a correction
 
-We welcome contributions in the form of requests, issues and pages:  
+Each issue that you open should be named to clearly align with its primary topic, and tracked so that you can discuss the issue with other contributors and follow any updates. All suggestions and corrections should be stated clearly, with any links or other relevant information included in the issue.
 
-* _Requests:_ You've identified a useful addition to the architecture which benefits USG Agencies
-  * Open an Issue on this repository
-  * State the recommendation
-  * Include any links or other information
-  * Discuss the request with other contributors  
+Direct changes and line edits to the content may be submitted by clicking 'Edit this page'. You do not need to install any software to submit content. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged.
 
-* _Issues:_ You've identified an issue with the information
-  * Open an Issue on this repository
-  * Discuss the Issue with other contributors
-  * Follow the progress of the updates
+If at any point you have a question during the contribution process, do not hesitate to open an issue requesting clarification.
 
-* _Pages:_ You'd like to contribute a Page and content
-  * Open an Issue on this repository, identifying the content you would like to contribute
-  * Limit each Issue to one content topic
-  * Fork the repository
-  * Add a new Page or modify an existing Page with your suggested content
-  * Submit a Pull Request, referencing the Issue Number
+Additional repositories are under development for contributors to share ICAM implementation guidance, code, reference implementations, and solutions. 
 
-Additional repositories will be established soon for contributors to share implementation guides, code, reference implementations, and solutions encompassing Part B, Sections 6 through 13, of the FICAM Roadmap and Implementation Guidance.
+#### Notes on Using This Repository
 
-#### How to Use the Repository to Contribute
-
-The source repository exists [here](https://github.com/GSA/ficam-arch/)
-
-*  _pages_ contains markdown pages (samples) for the architecture Overview, Conceptual Diagram, Goals & Objectives, Business Process Diagram, and Applications Diagrams
-* _usecases_ contains markdown pages (samples) for each of the use cases identified to date by the Architecture & Playbook Tiger Team
-* _services_ contains markdown pages (samples) for each of the service areas (Identity, Credential, Access, & Federation)
+*  _pages_ contains markdown pages for the architecture Overview, Conceptual Diagram, Goals & Objectives, Business Process Diagram, and Applications Diagrams
+* _usecases_ contains markdown pages for each of the use cases identified to date by the Architecture & Playbook Tiger Team
+* _services_ contains markdown pages for each of the service areas (Identity, Credential, Access, & Federation)
 * All diagrams and images should be placed in _img_
 
-Direct changes and line edits to the content may be submitted through a "pull request" by clicking "Edit this page". You do not need to install any software to submit content. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged.
+We encourage you to read our [LICENSE]({{site.baseurl}}/license) and our [README]({{site.github.repository_url}}/tree/{{site.branch}}/README.md), which exist within this repository.  
 
 ####  General Practices
-This content is Vendor neutral. Marketing materials for Commercial Products should not be submitted. If you would like to contribute a page or content which includes Commercial Products and a specific references for development and engineering, please review the Commercial Product trademark or copyright guides from the Product Vendor and reference those guides in your Pull Request.  
+
+This content is Vendor neutral. Marketing materials for Commercial Products should not be submitted. If you would like to contribute a page or content which includes Commercial Products and specific references for development and engineering, please review the Commercial Product trademark or copyright guides from the Product Vendor and reference those guides in your Pull Request.  
 
 #### Plain Language
+
 Contributors should consider the audience when submitting content. Plain language benefits a broad audience. Review your proposed content for use of acronyms and specialized jargon before submitting.
 
 ####  Thanks
 
 The idea for providing this content as open source, the contributing framework, and the licensing framework are based on work from [18F](https://18f.gsa.gov).
+
+

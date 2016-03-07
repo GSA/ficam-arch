@@ -87,7 +87,7 @@ Lists
 }
 
 .main-content li {
-    margin-bottom: 1em;
+    margin-bottom: .5em;
 }
 
 li h3,
@@ -597,3 +597,50 @@ Mobile Styles
     }
 
 }
+
+/*
+Table Style
+==========================
+*/
+
+table
+{
+  font-size: 14px;
+	border-collapse:collapse;
+	margin:20px 0 0;
+	padding:0;
+}
+
+table tr
+{
+	border-top:1px solid #ccc;
+	background-color:#fff;
+	margin:0;
+	padding:0;
+}
+
+table tr th
+{
+	border-top:1px solid #ccc;
+	background-color:#666666;
+  color: #fff;
+	margin:0;
+	padding:0;
+}
+
+/*table tr:nth-child(2n)
+{
+	background-color:#f8f8f8;
+}
+*/
+table tr th[align="center"], table tr td[align="center"] {
+	text-align:center;
+}
+table tr th, table tr td
+{
+	border:1px solid #ccc;
+	text-align:left;
+	margin:0;
+	padding:6px 13px;
+}
+
