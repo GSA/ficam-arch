@@ -23,6 +23,9 @@ repos:
   description: FICAM Architecture
   url: https://github.com/GSA/ficam-arch/
 
+# Put the information about your site's GitHub repository if it is public
+repo_url: https://github.com/GSA/ficam-arch/
+  
 # Build settings
 markdown: kramdown
 
@@ -40,7 +43,7 @@ exclude:
 
 navigation:
 - text: Introduction
-  url: index.html
+  url: ''
   internal: true
   coll: false
 - text: Background
@@ -51,17 +54,17 @@ navigation:
   url: conceptual
   internal: true
   coll: false
-- text: Goals & Objectives
+- text: Goals and Objectives
   url: goals
   internal: true
   coll: false
 - text: Services Framework
-  url: services/overview/
+  url: services/
   internal: true
   coll: true
   collname: services
 - text: Use Cases
-  url: usecases/index/
+  url: usecases/
   internal: true
   coll: true
   collname: usecases
@@ -97,10 +100,6 @@ collections:
   services:
     label: "Services"
     permalink: services/:path/
-    output: true
-  demos:
-    label: "Demos"
-    permalink: demos/:path/
     output: true
 
 #- text: Update the config file

@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 5. Resolve an Identity Internal to an Agency
 collection: usecases
 ---

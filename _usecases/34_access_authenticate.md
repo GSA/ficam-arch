@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 16. Authenticate a User
 collection: usecases
 ---

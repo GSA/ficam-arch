@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 19. Exchange Attributes in a Federation
 collection: usecases
 ---

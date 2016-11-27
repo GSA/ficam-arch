@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: Access Management
 collection: services
 permalink: services/access/

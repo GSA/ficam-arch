@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introduction
+permalink: /
+---
+
 Welcome to the _in-progress_ site for the Federal ICAM Enterprise Architecture! This page is your first stop for learning about FICAM, understanding the FICAM Enterprise Architecture, and contributing to its development.
 
 #### What is ICAM?
@@ -50,3 +56,4 @@ This site has two purposes:
 If you are new to the FICAM Architecture, it is a good idea to start at the top of the menu on the left with the Conceptual Diagram and work downwards through the various elements of the Architecture.
 
 If you’re looking to contribute a new idea or suggest a revision to the existing Architecture documents, click the “Contribute” tab at the bottom left to learn how.  	
+

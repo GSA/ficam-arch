@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 12. Maintain Credential - Revoke
 collection: usecases
 ---

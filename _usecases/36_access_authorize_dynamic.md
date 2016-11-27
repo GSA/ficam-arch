@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 18. Authorize Access - Dynamic
 collection: usecases
 ---

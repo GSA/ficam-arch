@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Standards and Policies
 permalink: /standards/
 ---

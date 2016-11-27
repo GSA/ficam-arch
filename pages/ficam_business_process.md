@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Business Process Diagram
 permalink: /businessprocess/
 ---

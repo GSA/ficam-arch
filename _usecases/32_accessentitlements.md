@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 14. Manage Entitlements
 collection: usecases
 ---

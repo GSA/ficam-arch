@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 20. Accept Credentials in a Federation
 collection: usecases
 ---

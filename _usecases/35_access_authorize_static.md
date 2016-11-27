@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 17. Authorize Access - Static
 collection: usecases
 ---
