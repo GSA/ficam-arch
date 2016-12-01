@@ -357,48 +357,9 @@ table {
 
 td,
 th {
-  padding: 0; }
+  padding: 0;
+}
 
-@font-face {
-  font-family: "Source Sans Pro";
-  font-style: normal;
-  font-weight: 300;
-  src: url("../uswds-0.9.1/fonts/sourcesanspro-light-webfont.eot?#iefix") format("embedded-opentype"), url("../uswds-0.9.1/fonts/sourcesanspro-light-webfont.woff2") format("woff2"), url("../uswds-0.9.1/fonts/sourcesanspro-light-webfont.woff") format("woff"), url("../uswds-0.9.1/fonts/sourcesanspro-light-webfont.ttf") format("truetype"); }
-@font-face {
-  font-family: "Source Sans Pro";
-  font-style: normal;
-  font-weight: 400;
-  src: url("../uswds-0.9.1/fonts/sourcesanspro-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../uswds-0.9.1/fonts/sourcesanspro-regular-webfont.woff2") format("woff2"), url("../uswds-0.9.1/fonts/sourcesanspro-regular-webfont.woff") format("woff"), url("../uswds-0.9.1/fonts/sourcesanspro-regular-webfont.ttf") format("truetype"); }
-@font-face {
-  font-family: "Source Sans Pro";
-  font-style: italic;
-  font-weight: 400;
-  src: url("../uswds-0.9.1/fonts/sourcesanspro-italic-webfont.eot?#iefix") format("embedded-opentype"), url("../uswds-0.9.1/fonts/sourcesanspro-italic-webfont.woff2") format("woff2"), url("../uswds-0.9.1/fonts/sourcesanspro-italic-webfont.woff") format("woff"), url("../uswds-0.9.1/fonts/sourcesanspro-italic-webfont.ttf") format("truetype"); }
-@font-face {
-  font-family: "Source Sans Pro";
-  font-style: normal;
-  font-weight: 700;
-  src: url("../uswds-0.9.1/fonts/sourcesanspro-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../uswds-0.9.1/fonts/sourcesanspro-bold-webfont.woff2") format("woff2"), url("../uswds-0.9.1/fonts/sourcesanspro-bold-webfont.woff") format("woff"), url("../uswds-0.9.1/fonts/sourcesanspro-bold-webfont.ttf") format("truetype"); }
-@font-face {
-  font-family: "Merriweather";
-  font-style: normal;
-  font-weight: 300;
-  src: url("../uswds-0.9.1/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../uswds-0.9.1/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../uswds-0.9.1/fonts/merriweather-light-webfont.woff") format("woff"), url("../uswds-0.9.1/fonts/merriweather-light-webfont.ttf") format("truetype"); }
-@font-face {
-  font-family: "Merriweather";
-  font-style: normal;
-  font-weight: 400;
-  src: url("../uswds-0.9.1/fonts/merriweather-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../uswds-0.9.1/fonts/merriweather-regular-webfont.woff2") format("woff2"), url("../uswds-0.9.1/fonts/merriweather-regular-webfont.woff") format("woff"), url("../uswds-0.9.1/fonts/merriweather-regular-webfont.ttf") format("truetype"); }
-@font-face {
-  font-family: "Merriweather";
-  font-style: italic;
-  font-weight: 400;
-  src: url("../uswds-0.9.1/fonts/merriweather-italic-webfont.eot?#iefix") format("embedded-opentype"), url("../uswds-0.9.1/fonts/merriweather-italic-webfont.woff2") format("woff2"), url("../uswds-0.9.1/fonts/merriweather-italic-webfont.woff") format("woff"), url("../uswds-0.9.1/fonts/merriweather-italic-webfont.ttf") format("truetype"); }
-@font-face {
-  font-family: "Merriweather";
-  font-style: normal;
-  font-weight: 700;
-  src: url("../uswds-0.9.1/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../uswds-0.9.1/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../uswds-0.9.1/fonts/merriweather-bold-webfont.woff") format("woff"), url("../uswds-0.9.1/fonts/merriweather-bold-webfont.ttf") format("truetype"); }
 /* Apply a natural box layout model to all elements, but allowing components to 
 change */
 html {
@@ -666,7 +627,7 @@ button,
   color: #ffffff;
   cursor: pointer;
   display: inline-block;
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   font-size: 1.7rem;
   font-weight: 700;
   line-height: 1;
@@ -1323,7 +1284,7 @@ legend {
 
 .usa-form-hint {
   color: #757575;
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   margin-bottom: 0; }
 
 /**
@@ -1592,7 +1553,7 @@ table {
   border-right: 0; }
 
 html {
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   font-size: 10px; }
 
 body {
@@ -1617,7 +1578,7 @@ a {
 
 h1, h2, h3, h4, h5, h6 {
   clear: both;
-  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif;
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
   /*line-height: 1.3;*/
   margin-bottom: .5em;
   /*margin-top: 1em;*/
@@ -1644,7 +1605,7 @@ h5 {
   font-weight: 700; }
 
 h6 {
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   font-size: 1.3rem;
   font-weight: 400;
   text-transform: uppercase; }
@@ -1667,10 +1628,10 @@ p a,
   text-decoration: underline; }
 
 .usa-sans p, .usa-sans a, .usa-sans li, .usa-sans span {
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
+  font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
 
 .usa-serif p, .usa-serif a, .usa-serif li, .usa-serif span {
-  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif; 
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif; 
   font-weight:300;
 }
 
@@ -1692,7 +1653,7 @@ p a,
       font-weight: 700; } }
 
 .usa-font-lead {
-  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif;
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
   font-size: 2rem;
   line-height: 1.7; }
 
@@ -1739,7 +1700,7 @@ p a,
   .usa-accordion > ul > li,
   .usa-accordion-bordered > ul > li {
     background-color: #f1f1f1;
-    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     list-style: none;
     margin-bottom: 6px;
     width: 100%; }
@@ -1760,7 +1721,7 @@ p a,
   color: #212121;
   cursor: pointer;
   display: inline-block;
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   margin: 0;
   padding: 1.5rem 5.5rem 1.5rem 3rem;
   width: 100%; }
@@ -1829,7 +1790,7 @@ p a,
       margin-top: .3rem; } }
 
 .usa-alert-text {
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   margin-bottom: 0;
   margin-top: 0; }
 
@@ -2083,7 +2044,7 @@ form input[name="password"], form input[name="confirmPassword"] {
 
 .usa-form-note {
   float: right;
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   font-size: 1.5rem;
   margin: 0 0 1.5rem; }
   .usa-form-note + * {
@@ -2287,7 +2248,7 @@ fieldset {
    border: none;
    color: #212121;
    float: left;
-   font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+   font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
    line-height: 1;
    padding: 1rem 1rem 1rem 1.8rem;
    width: 100%;
@@ -2613,7 +2574,7 @@ fieldset {
 
 	.usa-site-header .usa-site-navbar .usa-button-list li {
 		display: inline;
-		font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+		font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 	}
 
 	.usa-site-header .usa-site-navbar .usa-button-list li:last-child .usa-button {
@@ -2798,20 +2759,22 @@ fieldset {
 }
 
 .overlay {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  -webkit-transition: all 0.15s ease-out 0s;
+   position: fixed;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+ -webkit-transition: all 0.15s ease-out 0s;
   -moz-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s;
-  background: #000;
-  opacity: 0;
-  visibility: hidden;
-  z-index: 9999; }
-  .overlay.is-visible {
-    visibility: visible; }
+   background: #000;
+   opacity: 0;
+   visibility: hidden;
+   z-index: 9999; 
+}
+.overlay.is-visible {
+   visibility: visible; 
+}
 
 .sidenav {
   position: fixed; 
@@ -3365,7 +3328,7 @@ code[class*="language-"], pre[class*="language-"] {
   font-size: 1.7rem;
   font-weight: 400; }
 .serif-robust.serif-body .usa-font-example p {
-  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif;
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
   font-size: 1.5rem;
   line-height: 1.7; }
 .serif-robust.serif-body .usa-font-example .usa-font-lead {
@@ -3375,7 +3338,7 @@ code[class*="language-"], pre[class*="language-"] {
   font-weight: 400; }
 
 .sans-style h1, .sans-style h2, .sans-style h3, .sans-style h4, .sans-style h5, .sans-style h6 {
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
+  font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
 .sans-style h1 {
   font-size: 4.4rem; }
 .sans-style h2 {
@@ -3394,22 +3357,22 @@ code[class*="language-"], pre[class*="language-"] {
   font-size: 4.4rem;
   font-weight: 300; }
 .sans-style .usa-font-lead {
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   font-size: 2.2rem;
   font-weight: 300;
   line-height: 1.5; }
 .sans-style.serif-body .usa-font-example p {
-  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif;
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
   font-size: 1.5rem;
   line-height: 1.7; }
 .sans-style.serif-body .usa-font-example .usa-font-lead {
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   font-size: 2.2rem;
   font-weight: 300;
   line-height: 1.5; }
 
 .serif-sans-minor h6 {
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
+  font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
 
 .usa-accordion-docs {
   margin-bottom: 6rem; }
