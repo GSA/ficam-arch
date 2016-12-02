@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 4. Proof an Identity at Level of Assurance 4
 collection: usecases
 ---

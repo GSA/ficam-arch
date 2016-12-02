@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: Identity Management
 collection: services
 permalink: services/identity/

@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 11. Maintain Credential - Renew
 collection: usecases
 ---

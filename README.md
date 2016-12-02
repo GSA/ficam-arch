@@ -12,14 +12,14 @@ This content is Vendor neutral. Marketing materials for Commercial Products shou
 Contributors should consider the audience when submitting content. Plain language benefits a broad audience. Review your proposed content for use of acronyms and specialized jargon before submitting.
 
 ## How to Contribute
-For information on how to contribute to the site, visit the Contribute page [here]({{site.baseurl}}/contribute.md/). The source repository exists [here](https://github.com/GSA/ficam-arch/). 
+For information on how to contribute to the site, visit the Contribute page [here]({{site.baseurl}}/CONTRIBUTE.md/). The source repository exists [here](https://github.com/GSA/ficam-arch/). 
 
 *  _pages_ contains markdown pages for the architecture Overview, Conceptual Diagram, Goals & Objectives, Business Process Diagram, and Applications Diagrams, along with ICAM Policies and Standards
 * _usecases_ contains markdown pages for each of the use cases identified to date by the Architecture & Playbook Tiger Team
 * _services_ contains markdown pages for each of the ICAM service areas (Identity, Credential, Access, Governance, & Federation)
 * All diagrams and images should be placed in _img_
 
-Direct changes and line edits to the content may be submitted through a pull request by clicking 'Edit this page'. You do not need to install any software to submit content. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged.
+Direct changes and line edits to the content may be submitted by clicking 'Edit this page'. You do not need to install any software to submit content. You can use GitHub's in-browser editor to edit files and submit a request for your changes to be merged.
 
 ### Public domain
 
@@ -30,8 +30,6 @@ This project is in the worldwide [public domain](LICENSE.md).
 > All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
 
 ### Special Thanks
-This site is based on GitHub Pages and Jekyll templates. The templates are based on [DOCter](https://github.com/cfpb/docter/) from [CFPB](http://cfpb.github.io/).  
-
-The README and LICENSE are based on [18F Pages](https://pages.18f.gov/).  
+This site is based on GitHub Pages and Jekyll templates. 
 
 Special thanks to the teams at [18F](https://18f.gsa.gov/), [18F Pages](https://pages.18f.gov/), and [US Digital Services Playbooks](https://playbook.cio.gov/) for their open and transparent model which benefits citizens, government, and technology.

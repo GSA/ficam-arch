@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: Federation
 collection: services
 permalink: services/federation/

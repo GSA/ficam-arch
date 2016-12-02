@@ -1,8 +1,8 @@
 ---
-layout: page_collection
+layout: default
 title: Services Framework
 collection: services
-permalink: services/overview/
+permalink: /services/
 ---
 
 The Services Framework identifies the services that provide functionality within the scope of ICAM.

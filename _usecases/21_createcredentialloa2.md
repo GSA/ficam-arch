@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 6. Create and Issue Level of Assurance 2 Credential
 collection: usecases
 ---

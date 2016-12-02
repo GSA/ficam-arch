@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 13. Administer Digital Access Policies
 collection: usecases
 ---

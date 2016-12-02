@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 9. Create and Issue Derived PIV
 collection: usecases
 ---

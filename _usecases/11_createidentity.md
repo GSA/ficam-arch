@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 1. Create and Maintain an Identity
 collection: usecases
 ---

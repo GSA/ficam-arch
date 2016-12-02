@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: 7. Create and Issue Level of Assurance 3 Credential
 collection: usecases
 ---

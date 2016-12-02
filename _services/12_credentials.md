@@ -1,5 +1,5 @@
 ---
-layout: page_collection
+layout: default
 title: Credential Management
 collection: services
 permalink: services/credentials/
