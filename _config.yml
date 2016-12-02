@@ -16,18 +16,28 @@ branch: staging
 logourl: /ficam-arch/img/logo.png
 logoalt: Federal Identity Credential and Access Management
 
+# Repo list
+# List repos that you would like to appear on the homepage here
+repos:
+- name: ficam-arch
+  description: FICAM Architecture
+  url: https://github.com/GSA/ficam-arch/
+
 # Links
-# List links that you would like to appear on the top navigation here
-navigation:
-- name: idmanagement
+# List links that you would like to appear on the top navigation bar here
+navbar:
+- title: IDmanagement.gov
   description: Idmanagement.gov
   url: https://www.idmanagement.gov
-- name: Federal PKI Guides
-  description: Federal PKI Guides
-  url: https://github.com/gsa/fpki-guides
- - name: PIV Guides
+#- title: Federal ICAM Architecture
+#  description: Federal ICAM Architecture
+#  url: https://gsa.github.io/ficam-arch/
+- title: PIV Guides
   description: PIV Guides
-  url: https://github.com/gsa/piv-guides
+  url: https://gsa.github.io/piv-guides/
+#- title: Federal PKI Guides
+#  description: Federal PKI Guides
+#  url: https://github.com/gsa/fpki-guides
 
 # Put the information about your site's GitHub repository if it is public
 repo_url: https://github.com/GSA/ficam-arch/

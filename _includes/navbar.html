@@ -27,15 +27,13 @@
       </ul>
     </nav>
 	<-- TODO -->
-<!-- <nav class="usa-site-navbar-secondary">
-      <ul class="usa-unstyled-list">
-		  <li><a href="{{site.baseurl}}/">All Guides</a></li>
-          <li><a href="{{site.baseurl}}/drafts/">PIV Guides</a></li>
-          <li><a href="{{site.baseurl}}/finalized/">Access Management Guide</a></li>
-          <li><a href="{{site.baseurl}}/resources/">Federal PKI Guide</a></li>
-		  <li><a href="{{site.baseurl}}/resources/">Federal PKI Guide</a></li>
+	<nav class="usa-site-navbar-secondary">
+	  <ul class="usa-unstyled-list">
+	  	{% for nav in site.navbar %}
+		  <li><a href="{{ nav.url }}" title="{{ nav.title }}">{{ nav.title }}</a></li>
+		{% endfor %}
       </ul>
-    </nav>    -->
+    </nav> 
 </header>
 
 <div class="overlay"></div>
