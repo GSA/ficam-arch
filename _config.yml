@@ -5,23 +5,14 @@ email: icam@gsa.gov
 author:
     name: FICAM
 description: Information on the US FICAM Architecture
-baseurl: '/ficam-arch'
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-github_username:  gsa
 highlighter: rouge
+repo_url: https://github.com/GSA/ficam-arch/
+baseurl: '/ficam-arch'
 branch: staging
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /ficam-arch/img/logo.png
 logoalt: Federal Identity Credential and Access Management
-
-# Repo list
-# List repos that you would like to appear on the homepage here
-repos:
-- name: ficam-arch
-  description: FICAM Architecture
-  url: https://github.com/GSA/ficam-arch/
 
 # Links
 # List links that you would like to appear on the top navigation bar here
