@@ -1,0 +1,15 @@
+name: 'Federal Identity, Credential and Access Management Roadmap'
+description: 'Updated FICAM Roadmap and Implementation Guide Architecture (version 2.0).  Includes working group submissions and alignment with the federal enterprise architecture.'
+openSourceProject: 1
+governmentWideReuseProject: 1
+tags:
+    - pki
+    - fpki
+    - ficam
+    - identity
+    - federation
+    - credentials
+    - authentication
+    - authorization
+contact:
+    email: icam@gsa.gov
