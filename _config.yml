@@ -6,7 +6,7 @@ author:
     name: FICAM
 description: Information on the US FICAM Architecture
 highlighter: rouge
-repo_url: https://github.com/GSA/ficam-arch/
+repo_url: https://github.com/GSA/ficam-arch
 baseurl: '/ficam-arch'
 branch: staging
 
@@ -32,7 +32,7 @@ navbar:
 
 # Put the information about your site's GitHub repository if it is public
 repo_url: https://github.com/GSA/ficam-arch/
-  
+
 # Build settings
 markdown: kramdown
 
