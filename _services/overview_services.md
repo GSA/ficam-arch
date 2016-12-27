@@ -10,11 +10,11 @@ The Services Framework is a tool for you to help translate between the business 
 
 The ICAM Services are defined for the five conceptual practice areas, with descriptions and simple diagrams for you to use:
 
-* [Identity Management](../identity)
-* [Credential Management](../credentials)
-* [Access Management](../access)
-* [Federation](../federation)
-* [Governance](../governance)
+* [Identity Management]({{site.baseurl}}{{page.url}}identity)
+* [Credential Management]({{site.baseurl}}{{page.url}}credentials)
+* [Access Management]({{site.baseurl}}{{page.url}}access)
+* [Federation]({{site.baseurl}}{{page.url}}federation)
+* [Governance]({{site.baseurl}}{{page.url}}governance)
 
 <div style="text-align:center"><img src="{{site.baseurl}}/img/ServicesFramework.png"/></div>
 
