@@ -16,7 +16,6 @@ context:
 * Your identity within the context of the Department of
 Motor Vehicles (DMV) is different from your identity
 within the context of your bank.
-
 * Similarly, a person who is both a government
 contractor and an Army Reservist will have two
 identities, one in each context. These identities are

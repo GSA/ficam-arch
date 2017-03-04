@@ -16,11 +16,12 @@ The ICAM Services are defined for the five conceptual practice areas, with descr
 * [Federation]({{site.baseurl}}{{page.url}}federation)
 * [Governance]({{site.baseurl}}{{page.url}}governance)
 
-<div style="text-align:center"><img src="{{site.baseurl}}/img/ServicesFramework.png"/></div>
+
+![Services Framework]({{site.baseurl}}/img/ServicesFramework.png)
 
 Each service area has individual services and descriptions of the functionality with related keywords:  
 
-<div style="text-align:center"><img src="{{site.baseurl}}/img/ServicesDescriptions.png"/></div>
+![Services Descriptions]({{site.baseurl}}/img/ServicesDescriptions.png)
 
 
 #### Who is the Audience?
