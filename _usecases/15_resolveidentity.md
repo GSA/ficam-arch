@@ -8,15 +8,15 @@ Organizations often have multiple source systems that contain data relevant to a
 
 ---
 
-![Actors and Systems Key for Images](../../img/usecases/ilabelresolve.png){:align="right"}
-![Actors and Systems Key for Images](../../img/usecases/resolvekey.png)
+![Actors and Systems Key for Images]({{site.baseurl}}/img/usecases/ilabelresolve.png){:align="right"}
+![Actors and Systems Key for Images]({{site.baseurl}}/img/usecases/resolvekey.png)
 
 **Pre-condition:** The user’s identity data exists in disparate systems across the organization.
 
-| ![1. Identity Data Requested](../../img/usecases/resolve1.png)  | A request for identity data is initiated to the identity manager. <br/><em> This identity manager could be a person or system, depending on the organization.</em>  |
-| ![2. Query Data Sources](../../img/usecases/resolve2.png)  | The identity manager identifies relevant sources of data on the individual. <br/><em> Sources could include HR systems, security data, and personal databases.</em>  |
-| ![3. Aggregate Identity Data](../../img/usecases/resolve3.png)  | Aggregate identity data to create a complete identity profile.  |
+| ![1. Identity Data Requested]({{site.baseurl}}/img/usecases/resolve1.png)  | A request for identity data is initiated to the identity manager. <br/><em> This identity manager could be a person or system, depending on the organization.</em>  |
+| ![2. Query Data Sources]({{site.baseurl}}/img/usecases/resolve2.png)  | The identity manager identifies relevant sources of data on the individual. <br/><em> Sources could include HR systems, security data, and personal databases.</em>  |
+| ![3. Aggregate Identity Data]({{site.baseurl}}/img/usecases/resolve3.png)  | Aggregate identity data to create a complete identity profile.  |
 
 **Post-condition:** The individual’s identity data has been resolved.
 
-[Click here](../../img/ResolveID.png) for a consolidated image of this use case.
+[Click here]({{site.baseurl}}/img/ResolveID.png) for a consolidated image of this use case.

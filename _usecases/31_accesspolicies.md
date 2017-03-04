@@ -12,15 +12,15 @@ Policymaking bodies often draw on federal regulations, executive orders, legisla
 
 ---
 
-![Actors and Systems Key for Images](../../img/usecases/policylabel.png){:align="right"}
-![Actors and Systems Key for Images](../../img/usecases/policykey.png)
+![Actors and Systems Key for Images]({{site.baseurl}}/img/usecases/policylabel.png){:align="right"}
+![Actors and Systems Key for Images]({{site.baseurl}}/img/usecases/policykey.png)
 
 **Pre-condition:** An organization’s digital policy administration body has examined the relevant federal and organizational rules.  
 
-| ![1. Derive Policies from Rules](../../img/usecases/policy1.png)  | From the relevant set of rules, the administration body derives access policies that match regulatory compliance and their organization’s needs.  |
-| ![2. Review & Approve Policies](../../img/usecases/policy2.png)  | This body, often in concert with other stakeholders and agency leadership, drafts, reviews, and approves new policies or changes to existing policy.  |
-| ![3. Implement & Maintain](../../img/usecases/policy3.png)  | The administration body works with data administration to implement policy additions and adjustments. |
+| ![1. Derive Policies from Rules]({{site.baseurl}}/img/usecases/policy1.png)  | From the relevant set of rules, the administration body derives access policies that match regulatory compliance and their organization’s needs.  |
+| ![2. Review & Approve Policies]({{site.baseurl}}/img/usecases/policy2.png)  | This body, often in concert with other stakeholders and agency leadership, drafts, reviews, and approves new policies or changes to existing policy.  |
+| ![3. Implement & Maintain]({{site.baseurl}}/img/usecases/policy3.png)  | The administration body works with data administration to implement policy additions and adjustments. |
 
 **Post-condition:** Policies are updated and implemented.
 
-[Click here](../../img/Policies.png) for a consolidated image of this use case.
+[Click here]({{site.baseurl}}/img/Policies.png) for a consolidated image of this use case.

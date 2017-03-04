@@ -7,9 +7,15 @@ permalink: /conceptual/
 | **Description** |Visual guide that explains the core concepts of ICAM.|
 | **Audience** |Senior government leaders, agency executives, non-technical readers.|
 
-<div style="text-align:center"><img src="{{site.baseurl}}/img/ConceptualDiagram.png"/></div>
+![Conceptual Diagram]({{site.baseurl}}/img/ConceptualDiagram.png)
 
-The Conceptual Diagram has three main components, each of which corresponds to the three main areas of ICAM: [Identity]({{site.baseurl}}/services/identity), [Credential]({{site.baseurl}}/services/credentials), and [Access Management]({{site.baseurl}}/services/access). You can see these areas in the large rounded boxes above.
+The Conceptual Diagram has three main components, each of which corresponds to the three main areas of ICAM:  
+
+* [Identity Management]({{site.baseurl}}/services/identity), 
+* [Credential Management]({{site.baseurl}}/services/credentials), and 
+* [Access Management]({{site.baseurl}}/services/access). 
+
+You can see these areas in the large rounded boxes above.
 Front and center in each box is a graphical depiction of one of the core ICAM components.  
 
 For example, the Identity box shows the unique characteristics that make up a person, such as their birth date and fingerprints, being used to create a digital identity for that individual. The Credential box shows that digital identity being bound to a credential. The Access box shows the person using their digital identity and their credential to securely access protected resources, such as a door or a computer.
@@ -29,7 +35,7 @@ Please feel free to copy the graphics and text from this page to use at your own
 
 If you look at this page and think you see something that should be changed or added, please click the blue ‘Submit Issues Here’ button at the top right of the page. For more on how to Submit an Issue, see the [Contribute]({{site.baseurl}}/contribute) page.
 
-#### Background & Key Revisions
+### Background & Key Revisions
 
 The previous conceptual diagram showed many elements of ICAM all at once. This diagram is centered on the three core areas of ICAM and is meant to build foundational ICAM knowledge. The more complex business processes that the previous diagram depicted can now be found in the [Use Cases]({{site.baseurl}}/usecases/index).
 
