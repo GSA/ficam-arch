@@ -8,19 +8,19 @@ This use case describes the process for completing identity proofing at Level of
 
 ---
 
-![Actors and Systems Key for Images](../../img/usecases/ilabelproof.png){:align="right"}
-![Actors and Systems Key for Images](../../img/usecases/proofloa2key.png)
+![Actors and Systems Key for Images]({{site.baseurl}}/img/usecases/ilabelproof.png){:align="right"}
+![Actors and Systems Key for Images]({{site.baseurl}}/img/usecases/proofloa2key.png)
 
 **Pre-condition:** A need has been established for an individual to receive an LOA2 credential.
 
-| ![1A. Identity Info Presented In-Person](../../img/usecases/proofloa21a.png)  | If in person, the individual presents a valid government ID.  |
-| ![1B. Identity Info Presented Remotely](../../img/usecases/proofloa21b.png)  | If remote, the individual presents a utility company or financial account number and a government issued ID number.  |
-| ![2. Information Verified](../../img/usecases/proofloa22.png)  | If in person, the approval authority matches the photo on the ID with the individual.<br/> If remote, the approval authority verifies either the government ID number or the account number.  |
-| ![3. Confirmation](../../img/usecases/proofloa23.png)  | The approval authority confirms the individual’s contact information.  |
+| ![1A. Identity Info Presented In-Person]({{site.baseurl}}/img/usecases/proofloa21a.png)  | If in person, the individual presents a valid government ID.  |
+| ![1B. Identity Info Presented Remotely]({{site.baseurl}}/img/usecases/proofloa21b.png)  | If remote, the individual presents a utility company or financial account number and a government issued ID number.  |
+| ![2. Information Verified]({{site.baseurl}}/img/usecases/proofloa22.png)  | If in person, the approval authority matches the photo on the ID with the individual.<br/> If remote, the approval authority verifies either the government ID number or the account number.  |
+| ![3. Confirmation]({{site.baseurl}}/img/usecases/proofloa23.png)  | The approval authority confirms the individual’s contact information.  |
 
 **Post-condition:** The individual’s identity is proofed at LOA2.
 
-[Click here](../../img/ProofLOA2.png) for a consolidated image of this use case.
+[Click here]({{site.baseurl}}/img/ProofLOA2.png) for a consolidated image of this use case.
 
 ## Considerations
 * Federal employees and contractors should be proofed at LOA3 or LOA4. Identity proofing at LOA2 may apply to other populations, such as citizens. The systems that these individuals access generally do not require the extensive identity proofing of LOA3 or LOA4, but the minimal identity proofing of LOA1 may not meet the standards needed to access certain government systems.

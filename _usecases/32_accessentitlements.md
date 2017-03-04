@@ -10,17 +10,17 @@ Managing entitlements happens during design time, before an individual attempts 
 
 ---
 
-![Actors and Systems Key for Images](../../img/usecases/entitlementslabel.png){:align="right"}
-![Actors and Systems Key for Images](../../img/usecases/entitlementskey.png)
+![Actors and Systems Key for Images]({{site.baseurl}}/img/usecases/entitlementslabel.png){:align="right"}
+![Actors and Systems Key for Images]({{site.baseurl}}/img/usecases/entitlementskey.png)
 
 **Pre-condition:** Individual has an active credential.
 
-| ![1. Request to Create Entitlements](../../img/usecases/entitlements1.png)  | An actor requests to create entitlements for an individual. <br/><em>This actor could be the individual, an administrator, or an automated system, depending on the organization. </em>  |
-| ![2. Request Reviewed](../../img/usecases/entitlements2.png)  | The request change is reviewed. <br/><em>Reviewer could be a person or a system that evaluates the request against existing policy. They may be multiple layers of review.</em> |
-| ![3. Request Approved](../../img/usecases/entitlements3.png)  | If the requested change is in accordance with policy and the individual has a mission need for access, the request is approved. |
-| ![3. Maintain Entitlements](../../img/usecases/entitlements4.png)  | The individual is provisioned with updated access entitlements. Those entitlements are updated and maintained whenever their roles changes.  |
+| ![1. Request to Create Entitlements]({{site.baseurl}}/img/usecases/entitlements1.png)  | An actor requests to create entitlements for an individual. <br/><em>This actor could be the individual, an administrator, or an automated system, depending on the organization. </em>  |
+| ![2. Request Reviewed]({{site.baseurl}}/img/usecases/entitlements2.png)  | The request change is reviewed. <br/><em>Reviewer could be a person or a system that evaluates the request against existing policy. They may be multiple layers of review.</em> |
+| ![3. Request Approved]({{site.baseurl}}/img/usecases/entitlements3.png)  | If the requested change is in accordance with policy and the individual has a mission need for access, the request is approved. |
+| ![3. Maintain Entitlements]({{site.baseurl}}/img/usecases/entitlements4.png)  | The individual is provisioned with updated access entitlements. Those entitlements are updated and maintained whenever their roles changes.  |
 
 **Post-condition:** The individual has been provisioned entitlements that allow them access to the appropriate resources for their role.  
 
-[Click here](../../img/Entitlements.png) for a consolidated image of this use case.
+[Click here]({{site.baseurl}}/img/Entitlements.png) for a consolidated image of this use case.
 
