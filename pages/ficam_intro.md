@@ -16,13 +16,13 @@ organization to:
 It is the tools, policies, and systems that allow an organization to manage, monitor, and secure access to protected resources.
 These resources may be electronic files, computer systems, or physical resources such as server rooms and buildings. The image below depicts a conceptual view of ICAM:
 
-<div style="text-align:center"><img src="img/ConceptualDiagram.png"/></div>
+![Conceptual Diagram]({{site.baseurl}}/img/ConceptualDiagram.png){:style="float:center"}
 
 #### What is FICAM?
 
 FICAM is the Federal Government’s implementation of Identity, Credential, and Access Management. It is meant to provide a common set of ICAM standards, best practices, and implementation guidance for Federal agencies.  
 
-See <a href="http://gsa.github.io/ficam-arch/goals/">Goals & Objectives</a> for more information on the goals of FICAM.
+See [Goals & Objectives]({{site.baseurl}}/goals/)for more information on the goals of FICAM.
 
 #### What is the FICAM Architecture?
 
@@ -32,7 +32,7 @@ The FICAM Architecture is the Federal Government’s approach for designing, pla
 
 The FICAM Architecture provides several different views of ICAM, including high level concepts and goals, definition of the business environment, including services and processes, and a view of technology that enables the business. Each element of the FICAM Architecture aligns with one of the six sub-architecture domains described in the <a target="_blank" href="https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/fea_v2.pdf">Common Approach to Federal Enterprise Architecture</a> (FEA):
 
-<div style="text-align:center"><img src="img/ArchSummary.png"/></div>
+![Architecture Summary]({{site.baseurl}}/img/ArchSummary.png){:style="float:center"}
 
 #### Who is the FICAM Architecture for, and how should Federal agencies use it?
 
@@ -48,11 +48,9 @@ In general, Federal agencies and departments should look to the FICAM Architectu
 
 This site has two purposes:
 
-<ol>
-<li style="margin-bottom:0px"> To provide an authoritative location where anyone can access the most up-to-date version of the FICAM Architecture, and </li>
+*  To provide an authoritative location where anyone can access the most up-to-date version of the FICAM Architecture, and 
+*  To serve as a collaborative space where subject matter experts and members of the ICAM Community can work to revise and refine the Architecture over time. 
 
-<li style="mirgin-bottom:0px"> To serve as a collaborative space where subject matter experts and members of the ICAM Community can work to revise and refine the Architecture over time. </li>
-</ol>
 If you are new to the FICAM Architecture, it is a good idea to start at the top of the menu on the left with the Conceptual Diagram and work downwards through the various elements of the Architecture.
 
 If you’re looking to contribute a new idea or suggest a revision to the existing Architecture documents, click the “Contribute” tab at the bottom left to learn how.  	
