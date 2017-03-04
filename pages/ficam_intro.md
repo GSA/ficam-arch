@@ -16,13 +16,13 @@ organization to:
 It is the tools, policies, and systems that allow an organization to manage, monitor, and secure access to protected resources.
 These resources may be electronic files, computer systems, or physical resources such as server rooms and buildings. The image below depicts a conceptual view of ICAM:
 
-![Conceptual Diagram]({{site.baseurl}}/img/ConceptualDiagram.png){:style="float:center"}
+![Conceptual Diagram]({{site.baseurl}}/img/ConceptualDiagram.png)
 
 #### What is FICAM?
 
 FICAM is the Federal Government’s implementation of Identity, Credential, and Access Management. It is meant to provide a common set of ICAM standards, best practices, and implementation guidance for Federal agencies.  
 
-See [Goals & Objectives]({{site.baseurl}}/goals/)for more information on the goals of FICAM.
+See [Goals & Objectives]({{site.baseurl}}/goals/) for more information on the goals of FICAM.
 
 #### What is the FICAM Architecture?
 
@@ -32,7 +32,7 @@ The FICAM Architecture is the Federal Government’s approach for designing, pla
 
 The FICAM Architecture provides several different views of ICAM, including high level concepts and goals, definition of the business environment, including services and processes, and a view of technology that enables the business. Each element of the FICAM Architecture aligns with one of the six sub-architecture domains described in the <a target="_blank" href="https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/fea_v2.pdf">Common Approach to Federal Enterprise Architecture</a> (FEA):
 
-![Architecture Summary]({{site.baseurl}}/img/ArchSummary.png){:style="float:center"}
+![Architecture Summary]({{site.baseurl}}/img/ArchSummary.png)
 
 #### Who is the FICAM Architecture for, and how should Federal agencies use it?
 
