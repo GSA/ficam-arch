@@ -29,7 +29,7 @@ At the bottom of the diagram, there are boxes for two overarching concepts: Gove
 For more, see [Governance]({{site.baseurl}}/services/governance) and [Federation]({{site.baseurl}}/services/federation).
 
 #### How should I use this page?
-This guide is meant to be a basic reference for core ICAM concepts. It’s your starting point to understanding the next layer of ICAM, the [Services Framework]({{site.baseurl}}/services/overview/), and beyond.
+This guide is meant to be a basic reference for core ICAM concepts. It’s your starting point to understanding the next layer of ICAM, the [Services Framework]({{site.baseurl}}/services/), and beyond.
 
 Please feel free to copy the graphics and text from this page to use at your own agency to drive ICAM awareness and understanding!
 
