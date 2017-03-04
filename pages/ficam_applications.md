@@ -33,7 +33,7 @@ Governance software aids in the back end processes that support ICAM functionali
 #### Agency Endpoints
 Agency endpoints are any resource that an agency wants to protect, whether physical or a logical system.
 
-## Background & Key Revisions
+### Background & Key Revisions
 Several of the existing target state diagrams were combined to create a single, enterprise-wide view of ICAM systems. Descriptions have also been included for each system and the business service that they assist in delivering.
 
 The system names within this diagram have been simplified to remain product and vendor neutral. In practice, vendor solutions may offer applications that delivers solutions across several of these areas. For example, a vendor might offer an application that provides both policy management and access management functionality.
