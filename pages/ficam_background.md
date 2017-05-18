@@ -4,7 +4,7 @@ title: Background
 permalink: /background/
 ---
 ### The FICAM Roadmap
-The FICAM Enterprise Architecture, as described in the [FICAM Roadmap and Implementation Guidance v2.0](https://www.idmanagement.gov/IDM/servlet/fileField?entityId=ka0t0000000TNNBAA4&field=File__Body__s), was first created in 2009 to provide a common segment-architecture for identity, credential, and access management for use by Federal agencies. While the FICAM Roadmap remains as a comprehensive source of information that has played a guiding role for ICAM programs and implementation efforts across the Federal Government, it is a lengthy document that does not translate well to today’s digital society.
+The FICAM Enterprise Architecture, as described in the [FICAM Roadmap and Implementation Guidance v2.0](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/FICAM_Roadmap_and_Implem_Guid.pdf){:target="_blank"}, was first created in 2009 to provide a common segment-architecture for identity, credential, and access management for use by Federal agencies. While the FICAM Roadmap remains as a comprehensive source of information that has played a guiding role for ICAM programs and implementation efforts across the Federal Government, it is a lengthy document that does not translate well to today’s digital society.
 With that in mind, ICAM experts from across the Federal Government came together to create an updated FICAM Enterprise Architecture that is concise, easy to understand, and visually appealing, while reflecting the latest updates in cybersecurity, enterprise architecture, and the ICAM policy and technology landscape.
 
 ### The Architecture & Playbook Tiger Team
