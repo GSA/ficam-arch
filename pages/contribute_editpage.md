@@ -8,8 +8,7 @@ To Edit a Page:
 
 1. **Establish a GitHub account.**  
 
-You can create an account by browsing to: [Join GitHub](https://github.com/join).  
-
+* You can create an account by browsing to: [Join GitHub](https://github.com/join).  
 * GitHub allows you to remain almost anonymous if you prefer.  Make sure you select the options that suit you on the “Profile” and “Emails” pages of your “Personal Settings.”  
 * We also highly encourage you to turn on **two-factor authentication** in the “Security” page (also part of “Personal Settings”).  
   ![How to create account]({{site.baseurl}}/assets/img/create_github_account.png)
