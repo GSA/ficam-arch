@@ -30,7 +30,7 @@ For a quick guide on opening Issues, read [how to open issues.]({{site.baseurl}}
 
 Direct changes and line edits to the content may be submitted by clicking **Edit this page** in the top right hand corner of each page.  You do not need to install any software to submit content. You can use GitHub's in-browser editor to edit files and submit the changes for discussion. 
 
-For a quick guide on editing a page, read [how to edit a page.]({{site.baseurl}}/editpage/){:target="_blank"}
+For a quick guide on editing a page, read [how to edit a page.]({{site.baseurl}}/editpage/){:target="_blank"}.
 
 ## Add a new page
 
@@ -44,13 +44,13 @@ First, propose a topic by [opening an Issue]({{site.baseurl}}/contribute/#open-a
 
 Choose one of the Issues and start a conversation on the Issue. You help clarify the problem and identify the solution by discussing the Issue first, and you can propose a format for the new page. When you are ready, add a comment to the Issue for which you would like to write up the solution!  We will create a new **branch** for you if needed.  
 
-For a quick guide on adding a page, read [how to add a page.]({{site.baseurl}}/addpage/){:target="_blank"}
+For a quick guide on adding a page, read [how to add a page.]({{site.baseurl}}/addpage/){:target="_blank"}.
 
 We have a [sample template with markdown samples]({{ site.repo_url }}/blob/{{ site.branch }}/pages/template.md){:target="blank"}.
 
 ## Notes on using this repository
 
-In the GitHub repository [here]({{site.repo_url}}){:target="_blank"} under the 'Code' tab:
+In the GitHub repository [here]({{site.repo_url}}){:target="_blank"} under the "Code" tab:
 
 ![Code tab]({{site.baseurl}}/assets/img/code_tab.png)
 
