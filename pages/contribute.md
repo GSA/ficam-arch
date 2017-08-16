@@ -52,7 +52,7 @@ We have a [sample template with markdown samples]({{ site.repo_url }}/blob/{{ si
 
 In the GitHub repository [here]({{site.repo_url}}){:target="_blank"} under the 'Code' tab:
 
-![Code tabl]({{site.baseurl}}/assets/img/code_tab.png)
+![Code tab]({{site.baseurl}}/assets/img/code_tab.png)
 
 There are folders containing the content and diagrams: 
 
