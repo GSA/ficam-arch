@@ -4,11 +4,17 @@ title: Standards and Policies
 permalink: /standards/
 ---
 
-This page identifies the regulations, standards, and policies that have impacted and shaped the development of today's ICAM programs.
+Review the federal policies and standard that impact and shape the implementations of ICAM programs and systems.
 
-#### ICAM Policies
+- [Policies](#policies)
+- [Standards and Guidance](#standards-and-guidance)
+- [Other References](#other-references)
 
-|  Document Title  |  Description  |
+
+#### Policies
+
+|  Title  |  Description  |
+| -------------    |----|
 |  [M-04-04: E-Authentication Guidance for Federal Agencies](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m04-04.pdf){:target="_blank"}  |  This guidance requires agencies to review new and existing electronic transactions to ensure that authentication processes provide the appropriate level of assurance. It establishes and describes four levels of identity assurance for electronic transactions requiring authentication. Assurance levels also provide a basis for assessing CSPs on behalf of federal agencies. This document will assist agencies in determining their E-Government authentication needs.  |
 |  [M-05-24: Implementation of Homeland Security Presidential Directive (HSPD) 12&mdashPolicy for a Common Identification Standard for Federal Employees and Contractors](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-24.pdf){:target="_blank"}  |  This memorandum provides implementing instructions for HSPD-12 and FIPS 201.  |
 |  [M-06-18: Acquisition of Products and Services for Implementation of HSPD-12](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2006/m06-18.pdf){:target="_blank"}  |  This memorandum provides updated direction for the acquisition of products and services for the implementation of HSPD-12, “Policy for a Common Identification Standard for Federal Employees and Contractors,” and also provides status of implementation efforts.  |
@@ -20,9 +26,10 @@ This page identifies the regulations, standards, and policies that have impacted
 |  [M-16-04: Cybersecurity Strategy and Implementation Plan (CSIP) for the Federal Civilian Government](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m-16-04.pdf){:target="_blank"}  |  "The CSIP directs a series of actions to improve capabilities for identifying and detecting vulnerabilities and threats, enhance protections of government assets and information, and further develop robust response and recovery capabilities to ensure readiness and resilience when incidents inevitably occur."   |
 
 
-#### ICAM Standards and Guidance
+#### Standards and Guidance
 
-|  Document Title  |  Description  |
+|  Title  |  Description  |
+| -------------    |----|
 |  [SP 800-53-4: Security and Privacy Controls for Federal Information Systems and Organizations](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf){:target="_blank"}  |  This document provides a catalog of security and privacy controls for federal information systems and organizations and a process for selecting controls to protect organizational operations, assets, individuals, other organizations, and the Nation from a diverse set of threats. |
 |  [SP 800-63-3: Digital Identity Guidelines](https://pages.nist.gov/800-63-3/){:target="_blank"}  |  These technical guidelines supersede NIST Special Publication SP 800-63-2. Agencies use these guidelines as part of the risk assessment and implementation of their digital service(s). These guidelines provide mitigations of an authentication error’s negative impacts by separating the individual elements of identity assurance into discrete, component parts. For non-federated systems, agencies will select two components, referred to as Identity Assurance Level (IAL) and Authenticator Assurance Level (AAL). For federated systems, agencies will select a third component, Federation Assurance Level (FAL). |
 |  [SP 800-63-2: Electronic Authentication Guidance](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-2.pdf){:target="_blank"}  |  (Superceded by SP 800-63-3) This document provides technical guidelines for federal agencies implementing electronic authentication and covers remote authentication of users interacting with government IT systems over open networks. It defines technical requirements for the four levels of assurance for identity proofing, registration, tokens, management processes, authentication protocols, and related assertions.  |
@@ -37,9 +44,10 @@ This page identifies the regulations, standards, and policies that have impacted
 |  [Technical Implementation Guidance Smart Card Enabled Physical Access Control Systems](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/TIG_SCEPACS_v2.2_0.pdf){:target="_blank"}  |  The purpose of this guidance is to define specifications and standards required to enable agencies to procure and implement hardware and software for PACS, such that these systems will: Operate with the Federal Agency Smart Credential (FASC), such as NIST standards based Personal Identity Verification (PIV) cards; Facilitate cross-agency, federal enterprise interoperability; Allow existing legacy PACS to operate with FASC compatible card readers until the time comes for its upgrade.  |
 
 
-#### Other Useful Documentation
+#### Other References
 
-|  Document Title  |  Description  |
+|  Title  |  Description  |
+| -------------    |----|
 |  [Federal Investigative Standards: Investigative Standards for Background Investigations for Access to Classified Information](http://www.fas.org/sgp/spb/bginvest.html){:target="_blank"}  |  This document provides standards to align suitability and national security investigations under consistent criteria. Applies to investigations performed in support of determinations of eligibility for access to classified information, eligibility to hold a sensitive position, suitability for government employment, and eligibility for physical and logical access.  |
 |  [M-05-05: Electronic Signatures: How to Mitigate the Risk of Commercial Managed Services](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-05.pdf){:target="_blank"}  |  This memo requires the use of an SSP to mitigate the risk of commercial managed services for public key infrastructure (PKI) and electronic signatures.  |
 |  [Electronic Signatures In Global and National (ESIGN) Commerce Act of 2000](https://www.gpo.gov/fdsys/pkg/PLAW-106publ229/html/PLAW-106publ229.htm){:target="_blank"}  |  This act was intended to facilitate the use of electronic records and signatures in interstate and foreign commerce by ensuring the validity and legal effect of contracts entered into electronically.  |
