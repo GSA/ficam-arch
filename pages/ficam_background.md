@@ -16,7 +16,7 @@ In 2015, members of the Federal ICAM Community participated in a Tiger Team unde
 *  Architecture artifacts should focus on common ICAM goals, processes, and requirements rather than outliers or “one-off” agency use cases
 *  Any new elements should address gaps or improve clarity to decrease the original documents length
 *  Updates should address the need for greater efficiencies, cost savings, and shared infrastructure
-*  Elements should align with the [Common Approach to Federal Enterprise Architecture] for government-wide consistency(https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/common_approach_to_federal_ea.pdf)
+*  Elements should align with the [Common Approach to Federal Enterprise Architecture] for government-wide consistency(https://obamawhitehouse.archives.gov/omb/e-gov/FEA)
 
 
 ### The Move to Online Collaboration
