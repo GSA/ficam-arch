@@ -30,7 +30,7 @@ An enterprise architecture is a conceptual blueprint that defines what an organi
 
 The FICAM Architecture is the Federal Government’s approach for designing, planning for, and implementing ICAM. It depicts principles and practices in the form of diagrams and stories to describe what ICAM is, what it should do, and what is used to provide capabilities to an agency. While the FICAM Architecture provides a common, government-wide view of ICAM, flexibility in the design exists to allow agencies to use it no matter how unique their implementation environment is.
 
-The FICAM Architecture provides several different views of ICAM, including high level concepts and goals, definition of the business environment, including services and processes, and a view of technology that enables the business. Each element of the FICAM Architecture aligns with one of the six sub-architecture domains described in the <a target="_blank" href="https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/fea_v2.pdf">Common Approach to Federal Enterprise Architecture</a> (FEA):
+The FICAM Architecture provides several different views of ICAM, including high level concepts and goals, definition of the business environment, including services and processes, and a view of technology that enables the business. Each element of the FICAM Architecture aligns with one of the six sub-architecture domains described in the <a target="_blank" href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/fea_v2.pdf">Common Approach to Federal Enterprise Architecture</a> (FEA):
 
 ![Architecture Summary]({{site.baseurl}}/img/ArchSummary.png)
 
