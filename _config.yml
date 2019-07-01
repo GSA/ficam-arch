@@ -18,6 +18,9 @@ editbranch: staging
 logourl: /ficam-arch/img/logo.png
 logoalt: Federal Identity Credential and Access Management
 
+# Search references
+search_site_handle: idmprod
+
 # Links
 # List links that you would like to appear on the top navigation bar here
 navbar:
