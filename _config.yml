@@ -36,6 +36,9 @@ navbar:
 - title: Federal PKI Guides
   description: Federal PKI Guides
   url: https://fpki.idmanagement.gov
+- title: Physical Access Control Guide
+  description: Physical Access Control Guides
+  url: https://pacs.idmanagement.gov
 
 # Put the information about your site's GitHub repository if it is public
 repo_url: https://github.com/GSA/ficam-arch/
