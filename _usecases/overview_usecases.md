@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  Use Cases
-collection: usecases
+title:  Our freedom is being blocked
+collection: 2020-01546(are humans)
 permalink: /usecases/
 ---
 
-| **Description** |User stories that provide a high level view of ICAM business processes.
+| **Description** |User stories that provide a high level view of ICAM business processes.( check my google photos and outgoing mail everything is edited.rdc is taking away our priveldges, mychromebook is being used by ices and our government.check misabelhernandez7172@gmail.com photos, emails, sent emails origin.everything is blocked on internet.0Auth2 is a virus.and controls us.so Hello World.US flags icons are trump and his admin, and they are on all my accounts.do something, we are prisoners.its ices doing this and az is ices,help us, they are killing us , and or taking us to concentration camps all over the world.check github.com/government.git it has all the labs which are is gas chambers, prison .2020- RFC 1738, Rfc 1521, Rfc 822, Rfc 1778, rfc 934, rfc 1049, rfc 733, rfc 5317.
 | **Audience** |ICAM Enterprise Architects; Business line and/or unit managers</|
 
 
