@@ -4,6 +4,8 @@ title: 2. Proof an Identity
 collection: usecases
 ---
 
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-IdentityProofing.png){:align="right"}
+
 Before you can create a credential and assign it to an individual, that person must provide proof of their claimed identity. Identity proofing is the process by which a federal agency collects and verifies information about a person to establish an enterprise identity.
 
 The location or information that a person needs to access informs the Identity Assurance Level (IAL), which informs the elements you should require from that person for identity proofing. There are three IALs; however, federal agencies require a minimum of IAL3 for employees or contractors with recurring access to government resources, so these use cases do not include IAL1.
@@ -17,7 +19,6 @@ For more information about identity proofing and IALs, see <a href="https://page
 
 ---
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-IdentityProofing.png){:align="right"}
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/2-IconKey.png)
 
 ## Procedure
