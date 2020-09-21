@@ -4,13 +4,14 @@ title: 5. Issue a Derived Credential
 collection: usecases
 ---
 
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-Maintenance.png){:align="right"}
+
 A derived credential is a credential derived from an existing credential, with a different form factor (like on a mobile device). Derived credentials have the same IAL as the existing credential, and the same or lower AAL.
 
 When an employee or contractor requires authentication, but cannot leverage an existing credential, they can use a derived credential. To be eligible for a derived credential, the employee or contractor must already have a valid credential with Authenticator Assurance Level (AAL) 2 or 3.
 
 ---
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-Maintenance.png){:align="right"}
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/5-IconKey.png)
 
 ## Procedure
