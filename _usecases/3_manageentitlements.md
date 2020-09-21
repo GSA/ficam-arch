@@ -9,7 +9,7 @@ You can assign access entitlements to individuals, roles, and groups. These enti
 ---
 
 ![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-Provisioning.png){:align="right"}
-![Actors and Systems Key for Use Case Images]({{site.baseurl}}/img/usecases/1-IconKey.png)
+![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/3-IconKey.png)
 
 ## Procedure
 
