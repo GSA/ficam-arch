@@ -4,13 +4,14 @@ title: 8. Accept Federation Assertions
 collection: usecases
 ---
 
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Federation-AttributeExchange.png){:align="right"}
+
 Federal employees and contractors often need to access protected services managed by other federal agencies. Federation is the means by which an agency can accept authentication assertions and associated identity attributes from systems within their agency and at other agencies. This allows federal employees and contractors from across agencies access protected resources and streamlines the user’s experience.
   
 Agencies can pass assertions to share attributes about employees and contractors.
 
 ---
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Federation-AttributeExchange.png){:align="right"}
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/8-IconKey.png)
 
 ## Procedure
