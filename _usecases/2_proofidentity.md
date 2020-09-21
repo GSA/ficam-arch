@@ -17,7 +17,7 @@ For more information about identity proofing and IALs, see <a href="https://page
 
 ---
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/ICAM-Identity.png){:align="right"}
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-IdentityProofing.png){:align="right"}
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/2-IconKey.png)
 
 ## Procedure
@@ -33,4 +33,5 @@ In this use case, an administrator needs to collect or manage identity data for 
 - Prospective employee or contractor has filled out their information in an HR system and requires IAL3 proofing, and minimum background investigations. The prospective employee/contractor is then scheduled for in-person proofing. The prospective employee/contractor brings required identity documentation, where the information is verified using approved documentation and biometrics are captured.
 
 ## Next Steps
+
 Create and issue a credential and assign access entitlements.
