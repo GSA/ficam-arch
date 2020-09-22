@@ -38,11 +38,11 @@ In this use case, an administrator needs to collect or manage identity data for 
 
 <table class="tg">
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">1. Collect identity information</span><br><img src="img/usecases/2-1.png" alt="Diagram displaying an employee/contractor presenting identity information to an administrator or user-facing application." width="280"></td>
+    <td class="tg-0pky"><span style="font-weight:bold">1. Collect identity information</span><br><img src="../img/usecases/2-1.png" alt="Diagram displaying an employee/contractor presenting identity information to an administrator or user-facing application." width="280"></td>
     <td class="tg-0pky"><span style="font-weight:bold">IAL2</span> <span class="italic">(In-person or remote)</span> - The employee or contractor presents identity information, like first name, last name, and address of record.<br><span style="font-weight:bold">IAL3</span> <span class="italic">(In-person or supervised remote)</span> - The employee or contractor presents identity information, like first name, last name, and address of record, and biometric data like fingerprints.</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">2. Verify the identity information</span><br><img src="img/usecases/2-2.png" alt="Diagram displaying an administrator verifying identity information with the employee/contractor or issuing organization." width="280"></td>
+    <td class="tg-0pky"><span style="font-weight:bold">2. Verify the identity information</span><br><img src="../img/usecases/2-2.png" alt="Diagram displaying an administrator verifying identity information with the employee/contractor or issuing organization." width="280"></td>
     <td class="tg-0pky"><span style="font-weight:bold">IAL2</span> - The administrator confirms the information provided is valid and current by comparing photo identification to the individual, or confirming contact information, ensuring it matches the provided documentation.<br><span style="font-weight:bold">IAL3</span> - The administrator verifies all information with the issuing organization.<br><span class="italic">Result:</span> The individual’s identity has been successfully proofed at IAL2, or IAL3.</td>
   </tr>
 </table>
