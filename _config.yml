@@ -66,10 +66,6 @@ navigation:
   url: ''
   internal: true
   coll: false
-- text: Background
-  url: background
-  internal: true
-  coll: false
 - text: Conceptual View
   url: conceptual
   internal: true
