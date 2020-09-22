@@ -15,12 +15,10 @@ Each section of this page lists documents in reverse chronological order, with t
 
 ## Laws
 
-<a href="http://www.gpo.gov/fdsys/pkg/USCODE-2012-title5/pdf/USCODE-2012-title5-partI-chap5-subchapII-sec552a.pdf" target="_blank">**The Privacy Act of 1974**</a><br/>
-**(PDF, September 2015)**<br/>
+<a href="http://www.gpo.gov/fdsys/pkg/USCODE-2012-title5/pdf/USCODE-2012-title5-partI-chap5-subchapII-sec552a.pdf" target="_blank">**The Privacy Act of 1974**</a>**(PDF, September 2015)**<br/>
 > This Act protects certain Federal Government records pertaining to individuals. In particular, the Act covers systems of records that an agency maintains and retrieves by an individual’s name or other personal identifier, such as a Social Security Number.
 
-<a href="http://www.gpo.gov/fdsys/pkg/PLAW-113publ283" target="_blank">**Federal Information Security Modernization Act (FISMA) of 2014**</a><br/>
-**(December 2014)**<br/>
+<a href="http://www.gpo.gov/fdsys/pkg/PLAW-113publ283" target="_blank">**Federal Information Security Modernization Act (FISMA) of 2014**</a>**(December 2014)**<br/>
 > This Act provides a framework for measuring the effectiveness of federal information systems, and it calls for the development and implementation of continuous monitoring oversight mechanisms. It also acknowledges federal agencies should take advantage of commercially-available security products (including software, hardware, etc.) that often provide robust information security solutions.
 
 <a href="https://www.gpo.gov/fdsys/pkg/PLAW-107publ347/html/PLAW-107publ347.htm" target="_blank">**E-Government Act of 2002**</a><br/>
