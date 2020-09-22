@@ -28,4 +28,4 @@ I want to create a new enterprise identity, so that an individual may be establi
 
 ## Next Steps
 
-You can proof the identity or assign appropriate access entitlements as needed.
+You can [proof the identity](2_proofidentity) or [assign appropriate access entitlements](3_manageentitlements) as needed.
