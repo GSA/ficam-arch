@@ -4,61 +4,35 @@ title: Federation
 collection: services
 permalink: services/federation/
 ---
-![Federation Service Diagram - Overview of diagram follows in text below.]({{site.baseurl}}/img/Federation.png){:align="right"}
 
-Federation is the ability of one organization to accept another
-organization’s work. Federation is based on inter-organizational trust.
-The trusting organization has to be comfortable that the trusted
-organization has similar policies, and that those policies are being
-followed:
+![Federation Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/FederationServices.png){:align="right"}
 
-* A credential issued by your local library will not likely be trusted
-by the security staff at the White House.
+Federation is the policies, technology, standards, and processes that allow an agency to accept digital identities, attributes, and credentials managed by other agencies.
 
-* A credential issued by your bank may be trusted by your health
-club.
+Federation has many different applications, including:
 
-* A PIV credential issued by the Federal Government may be trusted by your State to access a website
+> Accepting specific characteristics (attributes such as unique identifiers) describing an individual from another organization:
+An individual can use their agency-issued credential containing an internal unique identifier to directly log in to a different agency’s online service. The online service registers the unique identifier in their system for future use.
 
-Federation can occur at different points within ICAM. Examples include:
+> Accepting an Authentication transaction from another organization:
+Agency A authenticates one of its users and passes identity attributes and transaction details to Agency B who can grant accesses to that identity for a given application.
 
-* An organization can accept credentials issued by another organization,
-but still authenticate and authorize the individual locally:
-  * A passport issued by the U.S. Department of State is accepted as a
-valid credential by a foreign country, but that country’s immigration
-office still authenticates the holder and requires a visa
-(authorization).
+## Federation Services
+The Federation services in the Federal ICAM architecture include Policy Alignment, Authentication Broker, and Attribute Exchange.
 
-* An organization can accept specific characteristics (attributes) describing
-an individual from another organization:
-  * Your bank will request your credit score from one of the credit
-bureaus, rather than maintaining that information itself.
+![Federation Services - Definitions follow in text below.]({{site.baseurl}}/img/services/FederationServiceDefinitions.png){:align="center"}
 
-* An organization can accept an authorization decision from another
-organization:
-  * A driver’s license authorizing you to drive in one state is accepted by
-another.
+### Policy Alignment
 
-### Federation Services
-The Federation services in the Federal ICAM architecture include Attribute Exchange, Credential Translation, Credential Bridging, and Policy Alignment.
-![Federation Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/federation_services_detailed.png){:align="center"}
+> Develop relationships and a common understanding between parties by establishing authorities, policies, standards, and principles.
+*Keywords*: Trust Relationship
 
-**Attribute Exchange**  
+### Authentication Broker
 
-> Discovering and sharing identity attributes between different systems to promote interoperability and simplify the process for establishing an identity.  
-_Keywords_: Attribute Definition, ARS  
+> Transform an authentication event into an alternative format, such as an assertion, containing claims about the entity and the authentication transaction, to grant access to a resource. 
+*Keywords*: Assertion Service, Federation Assertion, Security Token Service
 
-**Credential Translation**  
+### Attribute Exchange
 
-> Transforming a token or credential into an alternative format, potentially containing claims about the client, for acceptance at a relying party.
-_Keywords_: Secure Token Service, Assertion Service  
-
-**Credential Bridging**  
-
-> Establishing a cross-certified, affiliated relationship to trust credentials at a level of assurance asserted by those credentials.  
-_Keywords_: Federal PKI Bridge  
-
-**Policy Alignment**  
-
-> Establishing a mutual relationship between parties by deliberately establishing common standards and principles.  
-_Keywords_: Trust Relationship  
+> Discover and acquire identity or other attributes between different systems to promote access decisions and interoperability.
+*Keywords*: Attribute Definition, ARS
