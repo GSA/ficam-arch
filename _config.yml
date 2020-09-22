@@ -66,10 +66,6 @@ navigation:
   url: ''
   internal: true
   coll: false
-- text: Conceptual View
-  url: conceptual
-  internal: true
-  coll: false
 - text: Goals and Objectives
   url: goals
   internal: true
