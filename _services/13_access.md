@@ -27,6 +27,7 @@ Authentication is generally a two-step process:
 - Has the credential been revoked, voided, or tampered?
 
 > *Step 2.* Use an authenticator mentioned in Credential Management to validate the credential holder.
+
 Authentication is how you confirm who you are. Identity proofing is how you establish an identity. Authentication is how you use the identity.
 
 **Authorization**
