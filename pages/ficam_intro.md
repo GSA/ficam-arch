@@ -87,16 +87,16 @@ Understanding the building blocks of an ICAM program is key to understanding the
 
 ## Who is the FICAM Architecture for?
 The FICAM Architecture is for agency personnel looking for federal information technology resources:
-- Senior Federal IT and agency stakeholders can find a reference architecture that leverages Federal IT and industry standard definitions to integrate IT applications and services across multiple agencies and business areas.
+- **Senior Federal IT and agency stakeholders** can find a reference architecture that leverages Federal IT and industry standard definitions to integrate IT applications and services across multiple agencies and business areas.
      - [Services Framework](services)
-- Program Managers can find common definitions and frameworks for use in IT system design, planning, and operational use.
+- **Program Managers** can find common definitions and frameworks for use in IT system design, planning, and operational use.
      - [Services Framework](services)
      - [Use Cases](usecases)
-- Enterprise and Application Architects can find a common framework, including views and use cases, for use in IT systems, applications, and network implementations.
+- **Enterprise and Application Architects** can find a common framework, including views and use cases, for use in IT systems, applications, and network implementations.
      - [Applications View](applications)
      - [Services Framework](services)
      - [Use Cases](usecases)
-- Everyone in Federal IT can benefit from applying consistent, interoperable, and unified IT identity, credentials, and access management implementations to their business- and mission-level initiatives.
+- **Everyone in Federal IT** can benefit from applying consistent, interoperable, and unified IT identity, credentials, and access management implementations to their business- and mission-level initiatives.
      - [Services Framework](services)
 
 ## FICAM Architecture Background
