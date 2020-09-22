@@ -21,7 +21,7 @@ This Act protects certain Federal Government records pertaining to individuals. 
 <a href="http://www.gpo.gov/fdsys/pkg/PLAW-113publ283" target="_blank">**Federal Information Security Modernization Act (FISMA) of 2014</a>(December 2014)**
 This Act provides a framework for measuring the effectiveness of federal information systems, and it calls for the development and implementation of continuous monitoring oversight mechanisms. It also acknowledges federal agencies should take advantage of commercially-available security products (including software, hardware, etc.) that often provide robust information security solutions.
 
-<a href="https://www.gpo.gov/fdsys/pkg/PLAW-107publ347/html/PLAW-107publ347.htm" target="_blank">**E-Government Act of 2002</a>
+<a href="https://www.gpo.gov/fdsys/pkg/PLAW-107publ347/html/PLAW-107publ347.htm" target="_blank">**E-Government Act of 2002**</a>
 **(December 2002)**
 This Act enhances the management and promotion of electronic federal services and processes by establishing a Federal CIO within the Office of Management and Budget (OMB) and by establishing a broad framework of measures that require using Internet-based information technology (IT) to enhance citizen access to government information and services, and for other purposes.
 
