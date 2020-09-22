@@ -28,4 +28,4 @@ In this use case, an employee or contractor interacts with the agency services t
 
 ## Next Steps
 
-Assign access entitlements and maintain the credential as necessary.
+[Assign access entitlements](../3_manageentitlements) and [maintain the credential](../6_managecredentiallifecycle).
