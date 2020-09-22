@@ -31,4 +31,4 @@ For more information about granting access to protected resources, see Grant Acc
 
 ## Next Steps
 
-Authorize access to the protected resource.
+[Authorize access to the protected resource](../7_grantaccess).
