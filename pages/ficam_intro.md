@@ -64,7 +64,7 @@ Understanding the building blocks of an ICAM program is key to understanding the
     <td class="tg-0pky"><span style="font-weight:bold">Identity Management</span> is how an agency uses attributes to establish and maintain enterprise identities for employees and contractors.</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><img src="img/lCAM-Credential.png" alt="Credential Management Logo" width="125"><br></td>
+    <td class="tg-0pky"><img src="img/ICAM-Credential.png" alt="Credential Management Logo" width="125"><br></td>
     <td class="tg-0pky"><span style="font-weight:bold">Credential Management</span> is how an agency issues, manages, and revokes credentials bound to enterprise identities.</td>
   </tr>
   <tr>
