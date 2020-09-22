@@ -4,37 +4,32 @@ title: Governance
 collection: services
 permalink: services/governance/
 ---
-![Governance Service Diagram - Overview of diagram follows in text below.]({{site.baseurl}}/img/Governance.png){:align="right"}
 
-Governance is the set of practices that allow organizations to administer and support the successful execution of the core ICAM services and functions. Governance, for the purpose of this services framework, does not refer to the governance or management of an entire enterprise but of those capabilities necessary to ensure successful ICAM operations. Governance functions enable organizations to make programmatic decisions, manage enterprise policies, and promote the efficiency of their ICAM program. 
+![Governance Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/GovernanceServices.png){:align="right"}
 
-Enterprise governance helps ensure the smooth operation of an ICAM program through developing and implementing policies, rules, and procedures that should be adhered to to manage the program.
+Governance is the set of practices and systems that guides ICAM functions, activities, and outcomes.
 
-Collecting data to monitor, analyze, and report on  how well an ICAM program conforms with the rules and policies that they have established is another key component of governance.
+To perform effective governance, agencies must collect data about ICAM functions from many sources, such as policies and entitlements stores, and analyze this data. Proper data analytics help agencies monitor compliance with established information security policies. 
 
+If your agency identifies problems during data collection and analysis, you should remediate these issues as quickly as possible. Real-time monitoring and risk mitigation is crucial to ensure employees and contractors have only the appropriate access, following the principle of least privilege.
 
-If through this monitoring a problem or vulnerability within the program is identified, it is important to remediate these issues. There is a possibility that these vulnerabilities could lead to a security or privacy breach, which requires preparedness and execution of a recovery plan to ensure continuity of service.
- 
-### Governance Services 
- The Governance services in the Federal ICAM architecture include Enterprise Governance, Auditing and Reporting, Redress, and Recovery.   
-![Governance Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/governance_services_detailed.png){:align="center"}
+## Governance Services
 
-**Enterprise Governance**  
+The Governance services in the Federal ICAM architecture include Identity Governance, Analytics, and Mitigation.
 
-> Developing and implementing the policies, rules, and procedures to manage and improve an ICAM program.
+![Governance Services - Definitions follow in text below.]({{site.baseurl}}/img/services/GovernanceServiceDefinitions.png){:align="center"}
 
-**Auditing & Reporting**
+### Identity Governance
 
-> Monitoring, reviewing, and reporting on an ICAM program’s conformance with rules, policies, and requirements.  
-_Keywords_: Data collection, Monitoring, Analysis, Data Certification
+> The systems, solutions, and rules that link enterprise personnel, applications, and data to help agencies manage access, risk, and mitigation needs.
+*Keywords*: Management Framework, Rules and Procedures
 
+### Analytics
 
-**Redress**
+> Leverage continuous analytics data to identify if someone has entitlements that conflict with access requirements.
+*Keywords*: Data collection, Monitoring, Review, Data Certification, Auditing and Reporting
 
-> Fixing problems and vulnerabilities that occur during standard operation of an ICAM program.  
-_Keywords_: Remediation  
+### Mitigation
 
-**Recovery**
-
-> Preparing the procedures and assets that would be needed to recover from a security or privacy breach and ensure continuity of service.  
-_Keywords_: Mitigation
+> Correct the problems and address risks, discovered by analysis, that may occur during standard operations.  
+*Keywords*: Redress, Remediation
