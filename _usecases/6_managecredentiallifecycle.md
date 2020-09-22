@@ -29,17 +29,17 @@ In this use case, an employee or contractor interacts with the agency services t
 
 In this use case, an administrator needs to issue a new credential to replace one that will expire soon or has outdated identity information.
 
-| 1. Initiate the request ![Initiate the request]({{site.baseurl}}/img/usecases/6-Renew-1.png)  | An individual requests a renewal for an employee or contractor’s credential.<br/>This individual may be the employee or contractor, their supervisor, or an administrator with approval authority.<br/>This could also be an automated process triggered by schedules or specific events. |
-| 2. Review the request ![Issue a reset]({{site.baseurl}}/img/usecases/6-Renew-2.png)  | The identity management system reviews the request and verifies that the employee or contractor qualifies for a renewed credential. If so, approve the request. |
-| 3. Replace the credential ![Reset the credential]({{site.baseurl}}/img/usecases/6-Renew-3.png)  | The system issues a new credential to the employee or contractor. |
+| **1. Initiate the request** ![Initiate the request]({{site.baseurl}}/img/usecases/6-Renew-1.png)  | An individual requests a renewal for an employee or contractor’s credential.<br/>This individual may be the employee or contractor, their supervisor, or an administrator with approval authority.<br/>This could also be an automated process triggered by schedules or specific events. |
+| **2. Review the request** ![Issue a reset]({{site.baseurl}}/img/usecases/6-Renew-2.png)  | The identity management system reviews the request and verifies that the employee or contractor qualifies for a renewed credential. If so, approve the request. |
+| **3. Replace the credential** ![Reset the credential]({{site.baseurl}}/img/usecases/6-Renew-3.png)  | The system issues a new credential to the employee or contractor. |
 
 ## Revoke a Credential
 
 In this use case, you are an administrator who needs to revoke an active credential.
 
-| 1. Initiate the request ![Initiate the request]({{site.baseurl}}/img/usecases/6-Revoke-1.png)  | An individual sends a separation notification or a notice of a lost or compromised credential, requesting revocation.<br/>This individual may be the employee or contractor, their supervisor, HR, or a security team member. |
-| 2. Disable the credential ![Disable the credential]({{site.baseurl}}/img/usecases/6-Revoke-2.png)  | The administrator invalidates the credential.<br/>Depending on your agency, an individual or a system may perform this task. |
-| 3. Return the credential ![Return the credential]({{site.baseurl}}/img/usecases/6-Revoke-3.png)  | If the revoked credential is physical or hardware-based, the administrator returns the credential to the appropriate individual.<br/>This individual may be a supervisor, HR, or security team member. |
+| **1. Initiate the request** ![Initiate the request]({{site.baseurl}}/img/usecases/6-Revoke-1.png)  | An individual sends a separation notification or a notice of a lost or compromised credential, requesting revocation.<br/>This individual may be the employee or contractor, their supervisor, HR, or a security team member. |
+| **2. Disable the credential** ![Disable the credential]({{site.baseurl}}/img/usecases/6-Revoke-2.png)  | The administrator invalidates the credential.<br/>Depending on your agency, an individual or a system may perform this task. |
+| **3. Return the credential** ![Return the credential]({{site.baseurl}}/img/usecases/6-Revoke-3.png)  | If the revoked credential is physical or hardware-based, the administrator returns the credential to the appropriate individual.<br/>This individual may be a supervisor, HR, or security team member. |
 
 ## Examples
 
