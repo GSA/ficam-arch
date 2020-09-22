@@ -18,9 +18,9 @@ In this use case, an administrator needs to issue a credential to an employee or
 
 **Note:** The preferred credential for employees and contractors is a PIV card. For cases where you cannot issue a PIV card, you must use a combination of factors to reach at least an AAL2 credential.
 
-| 1. Initiate the request ![Initiate the request]({{site.baseurl}}/img/usecases/4-1.png)  | An individual presents a valid government issued ID.  |
-| 2. Review the request ![Review the request]({{site.baseurl}}/img/usecases/4-2.png)  | The government ID is verified with the organization that issued it.  |
-| 3. Generate and assign the authenticator(s) ![Generate and assign the authenticator(s)]({{site.baseurl}}/img/usecases/4-3.png)  | The individual presents a second form of government ID or an account number.  |
+| **1. Initiate the request**<br/>![Initiate the request]({{site.baseurl}}/img/usecases/4-1.png)  | An individual presents a valid government issued ID.  |
+| **2. Review the request**<br/>![Review the request]({{site.baseurl}}/img/usecases/4-2.png)  | The government ID is verified with the organization that issued it.  |
+| **3. Generate and assign the authenticator(s)**<br/>![Generate and assign the authenticator(s)]({{site.baseurl}}/img/usecases/4-3.png)  | The individual presents a second form of government ID or an account number.  |
 
 ## Example
 
