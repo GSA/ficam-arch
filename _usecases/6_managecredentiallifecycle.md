@@ -22,9 +22,9 @@ You should periodically review your employee or contractors’ eligibility for c
 
 In this use case, an employee or contractor interacts with the agency services to register or request a derived credential.
 
-| 1. Initiate the request ![Initiate the request]({{site.baseurl}}/img/usecases/6-Reset-1.png)  | An employee or contractor forgets their password or PIN, and requests a reset.<br/>If the request is valid, the identity management system approves the request. |
-| 2. Issue a reset ![Issue a reset]({{site.baseurl}}/img/usecases/6-Reset-2.png)  | The system issues a password/PIN reset, which may be a temporary password or a link to a web-based reset form. |
-| 3. Reset the credential ![Reset the credential]({{site.baseurl}}/img/usecases/6-Reset-3.png)  | The employee or contractor resets their password or PIN. |
+| **1. Initiate the request**<br/>![Initiate the request]({{site.baseurl}}/img/usecases/6-Reset-1.png)  | An employee or contractor forgets their password or PIN, and requests a reset.<br/>If the request is valid, the identity management system approves the request. |
+| **2. Issue a reset**<br/>![Issue a reset]({{site.baseurl}}/img/usecases/6-Reset-2.png)  | The system issues a password/PIN reset, which may be a temporary password or a link to a web-based reset form. |
+| **3. Reset the credential**<br/>![Reset the credential]({{site.baseurl}}/img/usecases/6-Reset-3.png)  | The employee or contractor resets their password or PIN. |
 
 ## Renew a Credential
 
