@@ -44,16 +44,46 @@ The FICAM Architecture focuses on enterprise identity processes, practices, poli
 Agencies implement ICAM services and solutions to unify their IT services and improve physical access control and security decisions. 
 Understanding the building blocks of an ICAM program is key to understanding the FICAM Architecture. An ICAM program has three practice areas and two supporting elements. The supporting elements both support and depend upon the practice areas.
 
-**ICAM Practice Areas** 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px; overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px; overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yj5y{background-color:#efefef;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
 
-| ![Identity Management Icon](img/ICAM-Identity-small.png) | **Identity Management** is how an agency uses attributes to establish and maintain enterprise identities for employees and contractors. |
-| ![Credential Management Icon](img/lCAM-Credential-small.png) | **Credential Management** is how an agency issues, manages, and revokes credentials bound to enterprise identities. |
-| ![Access Management Icon](img/ICAM-Access-small.png) | **Access Management** is how an agency authenticates enterprise identities and authorizes appropriate access to protected services.
-
-**ICAM Supporting Elements**
-
-| ![Federation Icon](img/ICAM-Federation-small.png) | **Federation** is the policies, technology, standards, and processes that allow an agency to accept digital identities, attributes, and credentials managed by other agencies. |
-| ![Governance Icon](img/ICAM-Governance-small.png) | **Governance** is the set of practices and systems that guides ICAM functions, activities, and outcomes. |
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yj5y" colspan="2"><span style="font-weight:bold">ICAM Practice Areas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><img src="img/ICAM-Identity.png" alt="Identity Management Logo" width="125"><br></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Identity Management</span> is how an agency uses attributes to establish and maintain enterprise identities for employees and contractors.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><img src="img/lCAM-Credential.png" alt="Credential Management Logo" width="125"><br></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Credential Management</span> is how an agency issues, manages, and revokes credentials bound to enterprise identities.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><img src="img/ICAM-Access.png" alt="Access Management Logo" width="125"><br></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Access Management</span> is how an agency authenticates enterprise identities and authorizes appropriate access to protected services.</td>
+  </tr>
+  <tr>
+    <td class="tg-yj5y" colspan="2"><span style="font-weight:bold">ICAM Supporting Elements</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><img src="img/ICAM-Federation.png" alt="Federation Logo" width="125"><br></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Federation</span> is the policies, technology, standards, and processes that allow an agency to accept digital identities, attributes, and credentials managed by other agencies.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><img src="img/ICAM-Governance.png" alt="Governance Logo" width="125"><br></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Governance</span> is the set of practices and systems that guides ICAM functions, activities, and outcomes.</td>
+  </tr>
+</tbody>
+</table>
 
 ## Who is the FICAM Architecture for?
 The FICAM Architecture is for agency personnel looking for federal information technology resources:
