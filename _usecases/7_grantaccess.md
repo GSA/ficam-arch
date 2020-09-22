@@ -26,8 +26,8 @@ In this use case, an ACS Administrator needs to grant access to an employee or c
 
 ## Example
 
-An employee on the financial review team attempts to access an government financial application that is secured by a single sign on (SSO) solution. The employee clicks a link to the financial application and is redirected to the SSO portal. The employee authenticates using his/her provided credential, which the SSO determines to be valid.  The SSO solution or the financial application system performs a lookup for the employee’s enterprise identity account and compares the roles assigned to those allowed by the financial application. The resulting determination is that the employee has authenticated to the required assurance level and has the appropriate entitlements to access the system and is subsequently logged on.
+An employee on the financial review team attempts to access an government financial application that is secured by a single sign-on (SSO) solution. The employee clicks a link to the financial application and is redirected to the SSO portal. The employee authenticates using his/her provided credential, which the SSO determines to be valid. The SSO solution or the financial application system finds the employee’s enterprise identity account and compares the roles assigned to those allowed by the financial application. The resulting determination is that the employee has authenticated to the required assurance level and has the appropriate entitlements to access the system and is subsequently logged on.
 
 ## Next Steps
 
-Maintain the employee or contractor’s access entitlements as needed.
+[Maintain the employee or contractor’s access entitlements](../3_manageentitlements) as needed.
