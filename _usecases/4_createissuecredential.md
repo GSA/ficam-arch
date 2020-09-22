@@ -27,4 +27,4 @@ I want to issue an enterprise credential, unique to an employee or contractor, s
 
 ## Next Steps
 
-[Assign access entitlements](../3_manageentitlements) and [maintain the credential](../6_managecredentiallifecycle) as needed.
+[Assign access entitlements](../3_manageentitlements) and [maintain the credential](../6_managecredentiallifecycle).
