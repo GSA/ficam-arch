@@ -34,4 +34,4 @@ In this use case, an administrator needs to collect or manage identity data for 
 
 ## Next Steps
 
-Create and issue a credential and assign access entitlements.
+[Create and issue a credential](../4_createissuecredential) and [manage access entitlements](../3_manageentitlements).
