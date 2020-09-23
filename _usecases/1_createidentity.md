@@ -27,11 +27,11 @@ td {
 
 <table>
   <tr>
-    <td style="width:250px;border:0px;"><strong>1. Collect information</strong> <br> <img src="../../img/usecases/1-1.png" width="250"></td>
+    <td style="width:250px;border:0px;"><strong>1. Collect information</strong> <br> <img src="../../img/usecases/1-1.png" width="250" alt="1. Collect information"></td>
     <td style="border:0px;">The administrator collects identity information from the employee or contractor, and adds this information to the authoritative source.<i>This identity information may come from the individual, onboarding documents, or HR systems.</i></td>
   </tr>
   <tr>
-    <td style="width:250px;border:0px;"><strong>2. Create an enterprise identity</strong> <br> <img src="../../img/usecases/1-2.png" width="250"></td>
+    <td style="width:250px;border:0px;"><strong>2. Create an enterprise identity</strong> <br> <img src="../../img/usecases/1-2.png" width="250" alt="2. Create an enterprise identity"></td>
     <td style="border:0px;">The authoritative source sends the information to the system’s data repository. <br><br> Result: An enterprise identity in the authoritative source for the employee or contractor.</td>
   </tr>
   <tr>
@@ -39,15 +39,15 @@ td {
     <td style="border:0px;">The following steps describe identity maintenance your agency should perform on a regular basis.</td>
   </tr>
   <tr>
-    <td style="width:250px;border:0px;"><strong>3a. Identify and aggregate identity data</strong> <br> <img src="../../img/usecases/1-3a.png" width="250"></td>
+    <td style="width:250px;border:0px;"><strong>3a. Identify and aggregate identity data</strong> <br> <img src="../../img/usecases/1-3a.png" width="250" alt="3a. Identify and aggregate identity data"></td>
     <td style="border:0px;">Query your data repositories for any existing identities for an individual. Aggregate these attributes as a single enterprise identity for the individual.</td>
   </tr>
   <tr>
-    <td style="width:250px;border:0px;"><strong>3b. Update the enterprise identity</strong> <br> <img src="../../img/usecases/1-3b.png" width="250"></td>
+    <td style="width:250px;border:0px;"><strong>3b. Update the enterprise identity</strong> <br> <img src="../../img/usecases/1-3b.png" width="250" alt="b. Update the enterprise identity"></td>
     <td style="border:0px;">If an individual has updated personal information, there are two ways to update the enterprise identity: <ol> <li> The administrator updates the individual’s enterprise identity attributes directly in the authoritative sources.</li> <li>The individual uses an agency application to update their personal information, and the application updates the individual’s enterprise identity attributes in the authoritative sources.</li></ol></td>
   </tr>
   <tr>
-    <td style="width:250px;border:0px;"><strong>3c. Delete the enterprise identity</strong> <br> <img src="../../img/usecases/1-3c.png" width="250"></td>
+    <td style="width:250px;border:0px;"><strong>3c. Delete the enterprise identity</strong> <br> <img src="../../img/usecases/1-3c.png" width="250" alt="3c. Delete the enterprise identity"></td>
     <td style="border:0px;">When you need to delete an enterprise identity, delete the identity attributes in the authoritative source.</td>
   </tr>
 </table>
