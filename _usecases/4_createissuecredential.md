@@ -18,9 +18,29 @@ In this use case, an administrator needs to issue a credential to an employee or
 
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/4-IconKey.png)
 
-| **1. Initiate the request**<br/>![Initiate the request]({{site.baseurl}}/img/usecases/4-1.png)  | An individual presents a valid government issued ID.  |
-| **2. Review the request**<br/>![Review the request]({{site.baseurl}}/img/usecases/4-2.png)  | The government ID is verified with the organization that issued it.  |
-| **3. Generate and assign the authenticator(s)**<br/>![Generate and assign the authenticator(s)]({{site.baseurl}}/img/usecases/4-3.png)  | The individual presents a second form of government ID or an account number.  |
+<style>
+
+td {
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
+  vertical-align:top;
+}
+
+</style>
+
+<table>
+  <tr>
+    <td style="width:250px;border:0px;"><strong>1. Initiate the request</strong> <br> <img src="../../img/usecases/4-1.png" width="250" alt="1. Initiate the request"></td>
+    <td style="border:0px;">An individual presents a valid government issued ID.</td>
+  </tr>
+  <tr>
+    <td style="width:250px;border:0px;"><strong>2. Review the request</strong> <br> <img src="../../img/usecases/4-2.png" width="250" alt="2. Review the request"></td>
+    <td style="border:0px;">The government ID is verified with the organization that issued it.</td>
+  </tr>
+    <tr>
+    <td style="width:250px;border:0px;"><strong>3. Generate and assign the authenticator(s)</strong> <br> <img src="../../img/usecases/4-2.png" width="250" alt="3. Generate and assign the authenticator(s)"></td>
+    <td style="border:0px;">The individual presents a second form of government ID or an account number.</td>
+  </tr>
+</table>
 
 ## Example
 
