@@ -38,7 +38,7 @@ Authorization is how you decide whether you should allow someone to access an ag
 
 Usually, authorization occurs immediately after authentication. When you log in to a service, you present your credentials, and the service confirms your credentials are valid (authentication) and grants or denies you access based on your assigned permissions (authorization).
 
-Identity proofing is how you establish an identity. Authentication is how you confirm who you are. Authorization is how you use the identity.
+Identity proofing is how you establish an identity. Authentication is how you confirm the identity. Authorization is how you use the identity.
 
 ## Access Management Services
 
