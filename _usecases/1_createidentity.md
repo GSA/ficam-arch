@@ -8,12 +8,9 @@ collection: usecases
 
 When you onboard an employee or contractor at your agency, you collect identity information from the individual, and store parts of that information as identity attributes. These attributes serve as a digital proxy for the individual’s identity, also known as an enterprise identity.
 
-<br>
-
-
 ---
 
-## Use Case
+<p style="font-size: 3rem; font-weight: 700;">Use Case</p>
 
 In this use case, an administrator needs to collect or manage identity data for an employee or contractor for the purpose of creating an enterprise identity record and maintaining it throughout its lifecycle.
 
