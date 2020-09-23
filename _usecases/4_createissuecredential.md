@@ -8,6 +8,9 @@ collection: usecases
 
 After you identity proof an individual, you’ll issue some proof of that individual’s claimed identity. A credential (like a physical card) is a type of authenticator that serves as a tool for an employee or contractor to gain access to agency services.
 
+<br>
+
+
 ---
 
 ## Use Case
