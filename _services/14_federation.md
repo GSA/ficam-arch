@@ -25,14 +25,17 @@ The Federation services in the Federal ICAM architecture include Policy Alignmen
 ### Policy Alignment
 
 > Develop relationships and a common understanding between parties by establishing authorities, policies, standards, and principles.
-*Keywords*: Trust Relationship
+
+> *Keywords*: Trust Relationship
 
 ### Authentication Broker
 
 > Transform an authentication event into an alternative format, such as an assertion, containing claims about the entity and the authentication transaction, to grant access to a resource. 
-*Keywords*: Assertion Service, Federation Assertion, Security Token Service
+
+> *Keywords*: Assertion Service, Federation Assertion, Security Token Service
 
 ### Attribute Exchange
 
 > Discover and acquire identity or other attributes between different systems to promote access decisions and interoperability.
-*Keywords*: Attribute Definition, ARS
+
+> *Keywords*: Attribute Definition, ARS
