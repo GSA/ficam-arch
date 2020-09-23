@@ -25,8 +25,26 @@ In this use case, an administrator needs to collect or manage identity data for 
 
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/2-IconKey.png)
 
-| **1. Collect identity information**<br/>![Collect identity information]({{site.baseurl}}/img/usecases/2-1.png)  | **IAL2** *(In-person or remote)* - The employee or contractor presents identity information, like first name, last name, and address of record.<br/>**IAL3** *(In-person or supervised remote)* - The employee or contractor presents identity information, like first name, last name, and address of record, and biometric data like fingerprints. |
-| **2. Verify the identity information**<br/>![Verify the identity information]({{site.baseurl}}/img/usecases/2-2.png)  | **IAL2** - The administrator confirms the information provided is valid and current by comparing photo identification to the individual, or confirming contact information, ensuring it matches the provided documentation.<br/>**IAL3** - The administrator verifies all information with the issuing organization.<br/>*Result:* The individual’s identity has been successfully proofed at IAL2, or IAL3. |
+<style>
+
+td {
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
+  vertical-align:top;
+}
+
+</style>
+
+<table>
+  <tr>
+    <td style="width:250px;border:0px;"><strong>1. Collect identity information</strong> <br> <img src="../../img/usecases/2-1.png" width="250"></td>
+    <td style="border:0px;"><strong>IAL2</strong> <i>(In-person or remote)</i> - The employee or contractor presents identity information, like first name, last name, and address of record.<br><br><strong>IAL3</strong> <i>(In-person or supervised remote)</i> - The employee or contractor presents identity information, like first name, last name, and address of record, and biometric data like fingerprints.</td>
+  </tr>
+  <tr>
+    <td style="width:250px;border:0px;"><strong>2. Verify the identity information</strong> <br> <img src="../../img/usecases/2-2.png" width="250"></td>
+    <td style="border:0px;"><strong>IAL2</strong> - The administrator confirms the information provided is valid and current by comparing photo identification to the individual, or confirming contact information, ensuring it matches the provided documentation. <br><br><strong>IAL3</strong> - The administrator verifies all information with the issuing organization. <br> <i>Result:</i> The individual’s identity has been successfully proofed at IAL2, or IAL3.
+</td>
+  </tr>
+</table>
 
 ## Examples
 
