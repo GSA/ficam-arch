@@ -7,7 +7,7 @@ permalink: services/federation/
 
 ![Federation Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/FederationServices.png){:align="right" :margin="50px"}
 
-Federation is the policies, technology, standards, and processes that allow an agency to accept digital identities, attributes, and credentials managed by other agencies.
+Federation is the technology, policies, standards, and processes that allow an agency to accept digital identities, attributes, and credentials managed by other agencies.
 
 Federation has many different applications, including:
 
