@@ -8,11 +8,9 @@ collection: usecases
 
 This use case describes the steps to authenticate individuals and authorize access to agency services. Agency services can be anything from applications and files to physical facilities.
 
-<br><br>
-
 ---
 
-## Use Case
+<p style="font-size: 3rem; font-weight: 700;">Use Case</p>
 
 In this use case, an ACS Administrator needs to grant access to an employee or contractor who has an enterprise identity and active credential and needs to access a logical or physical resource. These steps assume the employee or contractor already has credentials to support authentication as well as the access entitlements to support authorization decisions.
 
