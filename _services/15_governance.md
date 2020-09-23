@@ -5,7 +5,7 @@ collection: services
 permalink: services/governance/
 ---
 
-![Governance Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/GovernanceServices.png){:align="right" style="padding:30px"}
+![Governance Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/GovernanceServices.png){:align="right" style="padding-left:30px"}
 
 Governance is the set of practices and systems that guides ICAM functions, activities, and outcomes.
 
