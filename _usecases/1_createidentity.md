@@ -4,7 +4,7 @@ title: 1. Create and Maintain an Identity
 collection: usecases
 ---
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-Creation.png){:align="right"}
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-Creation.png){:align="right" style="padding:30px"}
 
 When you onboard an employee or contractor at your agency, you collect identity information from the individual, and store parts of that information as identity attributes. These attributes serve as a digital proxy for the individual’s identity, also known as an enterprise identity.
 
