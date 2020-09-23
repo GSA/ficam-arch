@@ -8,12 +8,12 @@ When you onboard an employee or contractor at your agency, you collect identity 
 
 ---
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-Creation.png){:align="right"}
-![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/1-IconKey.png)
-
 ## Procedure
 
 In this use case, an administrator needs to collect or manage identity data for an employee or contractor for the purpose of creating an enterprise identity record and maintaining it throughout its lifecycle.
+
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-Creation.png){:align="right"}
+![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/1-IconKey.png)
 
 | **1. Collect information**<br/>![Collect information]({{site.baseurl}}/img/usecases/1-1.png)  | The administrator collects identity information from the employee or contractor, and adds this information to the authoritative source.<br/>*This identity information may come from the individual, onboarding documents, or HR systems.*  |
 | **2. Create an enterprise identity**<br/>![Create an enterprise identity]({{site.baseurl}}/img/usecases/1-2.png)  | The authoritative source sends the information to the system’s data repository.<br/>*Result:* An enterprise identity in the authoritative source for the employee or contractor.  |
