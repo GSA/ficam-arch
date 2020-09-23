@@ -1,6 +1,5 @@
 ---
 layout: default
-navtitle: Open an Issue
 title: Open an Issue
 collection: contribute
 permalink: contribute/openissue/
