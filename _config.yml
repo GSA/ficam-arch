@@ -99,9 +99,10 @@ navigation:
   internal: true
   coll: false
 - text: Contribute
-  url: contribute
+  url: contribute/
   internal: true
-  coll: false
+  coll: true
+  collname: contribute
 
 #https://github.com/jekyll/jekyll/issues/2346
 collections:
@@ -112,6 +113,10 @@ collections:
   services:
     label: "Services"
     permalink: services/:path/
+    output: true
+  contribute:
+    label: "Contribute"
+    permalink: contribute/:path/
     output: true
 
 #- text: Update the config file
