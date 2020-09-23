@@ -18,9 +18,30 @@ In this use case, an employee or contractor interacts with the agency services t
 
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/5-IconKey.png)
 
-| **1. Initiate the request**<br/>![Initiate the request]({{site.baseurl}}/img/usecases/5-1.png)  | A request for identity data is initiated to the identity manager. <br/><em> This identity manager could be a person or system, depending on the organization.</em>  |
-| **2. Authenticate the existing credential**<br/>![Authenticate the existing credential]({{site.baseurl}}/img/usecases/5-2.png)  | The identity manager identifies relevant sources of data on the individual. <br/><em> Sources could include HR systems, security data, and personal databases.</em>  |
-| **3. Generate the derived credential**<br/>![Generate the derived credential]({{site.baseurl}}/img/usecases/5-3.png)  | Aggregate identity data to create a complete identity profile.  |
+<style>
+
+td {
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
+  vertical-align:top;
+}
+
+</style>
+
+<table>
+  <tr>
+    <td style="width:250px;border:0px;"><strong>1. Initiate the request</strong> <br> <img src="../../img/usecases/5-1.png" width="250" alt="1. Initiate the request"></td>
+    <td style="border:0px;">A request for identity data is initiated to the identity manager. <br><br><i> This identity manager could be a person or system, depending on the organization.</i></td>
+  </tr>
+  <tr>
+    <td style="width:250px;border:0px;"><strong>2. Authenticate the existing credential</strong> <br> <img src="../../img/usecases/5-2.png" width="250" alt="2. Authenticate the existing credential"></td>
+    <td style="border:0px;">The identity manager identifies relevant sources of data on the individual. <br><br><i> Sources could include HR systems, security data, and personal databases.</i></td>
+  </tr>
+    <tr>
+    <td style="width:250px;border:0px;"><strong>3. Generate the derived credential</strong> <br> <img src="../../img/usecases/5-2.png" width="250" alt="3. Generate the derived credential"></td>
+    <td style="border:0px;">Aggregate identity data to create a complete identity profile.</td>
+  </tr>
+</table>
+
 
 ## Examples
 
