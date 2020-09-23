@@ -76,7 +76,7 @@ Understanding the building blocks of an ICAM program is key to understanding the
   </tr>
   <tr>
     <td class="tg-0pky"><img src="img/ICAM-Federation.png" alt="Federation Logo" width="125"><br></td>
-    <td class="tg-0pky"><span style="font-weight:bold">Federation</span> is the policies, technology, standards, and processes that allow an agency to accept digital identities, attributes, and credentials managed by other agencies.</td>
+    <td class="tg-0pky"><span style="font-weight:bold">Federation</span> is the technology, policies, standards, and processes that allow an agency to accept digital identities, attributes, and credentials managed by other agencies.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><img src="img/ICAM-Governance.png" alt="Governance Logo" width="125"><br></td>
