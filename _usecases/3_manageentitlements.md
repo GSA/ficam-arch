@@ -8,12 +8,9 @@ collection: usecases
 
 You can assign access entitlements to individuals, roles, and groups. These entitlements define an employee or contractor’s access to agency services, so you’ll need to assign entitlements before an employee or contractor can access an agency service.
 
-<br>
-
-
 ---
 
-## Use Case
+<p style="font-size: 3rem; font-weight: 700;">Use Case</p>
 
 In this use case, an administrator needs to assign entitlements to an employee or contractor.
 
