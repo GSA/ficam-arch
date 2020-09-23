@@ -40,7 +40,7 @@ td {
     <td style="border:0px;">The government ID is verified with the organization that issued it.</td>
   </tr>
     <tr>
-    <td style="width:250px;border:0px;"><strong>3. Generate and assign the authenticator(s)</strong> <br> <img src="../../img/usecases/4-2.png" width="250" alt="3. Generate and assign the authenticator(s)"></td>
+    <td style="width:250px;border:0px;"><strong>3. Generate and assign the authenticator(s)</strong> <br> <img src="../../img/usecases/4-3.png" width="250" alt="3. Generate and assign the authenticator(s)"></td>
     <td style="border:0px;">The individual presents a second form of government ID or an account number.</td>
   </tr>
 </table>
