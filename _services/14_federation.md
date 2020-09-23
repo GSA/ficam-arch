@@ -5,7 +5,7 @@ collection: services
 permalink: services/federation/
 ---
 
-![Federation Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/FederationServices.png){:align="right" style="padding:50px"}
+![Federation Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/FederationServices.png){:align="right" style="padding:30px"}
 
 Federation is the technology, policies, standards, and processes that allow an agency to accept digital identities, attributes, and credentials managed by other agencies.
 
