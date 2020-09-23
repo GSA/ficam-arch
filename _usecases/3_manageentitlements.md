@@ -8,6 +8,8 @@ You can assign access entitlements to individuals, roles, and groups. These enti
 
 ---
 
+## Use Case
+
 In this use case, an administrator needs to assign entitlements to an employee or contractor.
 
 ![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-Provisioning.png){:align="right"}
