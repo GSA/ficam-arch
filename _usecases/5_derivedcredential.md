@@ -10,6 +10,8 @@ When an employee or contractor requires authentication, but cannot leverage an e
 
 ---
 
+## Use Case
+
 In this use case, an employee or contractor interacts with the agency services to register or request a derived credential. 
 
 ![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-Maintenance.png){:align="right"}
