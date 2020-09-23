@@ -4,6 +4,8 @@ title: 7. Grant Access
 collection: usecases
 ---
 
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Access-AuthnAuthz.png){:align="right"}
+
 This use case describes the steps to authenticate individuals and authorize access to agency services. Agency services can be anything from applications and files to physical facilities.
 
 ---
@@ -15,7 +17,6 @@ In this use case, an ACS Administrator needs to grant access to an employee or c
 - *Authentication* - I want to verify the claimed unique identity of a given employee or contractor  so that the system can verify the right individual is attempting to access an agency service. 
 - *Authorization* - I want to allow access for only employees and contractors that meet established requirements, so that only the people who should have access do have access.
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Access-AuthnAuthz.png){:align="right"}
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/7-IconKey.png)
 
 | **1. Access Attempt**<br/>![Access Attempt]({{site.baseurl}}/img/usecases/7-1.png)  | An employee or contractor attempts to access an agency service. |
