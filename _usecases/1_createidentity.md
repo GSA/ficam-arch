@@ -4,6 +4,8 @@ title: 1. Create and Maintain an Identity
 collection: usecases
 ---
 
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-Creation.png){:align="right"}
+
 When you onboard an employee or contractor at your agency, you collect identity information from the individual, and store parts of that information as identity attributes. These attributes serve as a digital proxy for the individual’s identity, also known as an enterprise identity.
 
 ---
@@ -12,7 +14,6 @@ When you onboard an employee or contractor at your agency, you collect identity 
 
 In this use case, an administrator needs to collect or manage identity data for an employee or contractor for the purpose of creating an enterprise identity record and maintaining it throughout its lifecycle.
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-Creation.png){:align="right"}
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/1-IconKey.png)
 
 | **1. Collect information**<br/>![Collect information]({{site.baseurl}}/img/usecases/1-1.png)  | The administrator collects identity information from the employee or contractor, and adds this information to the authoritative source.<br/>*This identity information may come from the individual, onboarding documents, or HR systems.*  |
