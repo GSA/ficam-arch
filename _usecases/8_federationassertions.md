@@ -10,14 +10,14 @@ Agencies can pass assertions to share attributes about employees and contractors
 
 ---
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Federation-AttributeExchange.png){:align="right"}
-![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/8-IconKey.png)
-
-## Procedure
+## Use Case
 
 In this use case, an employee or contractor from Agency A attempts to access a federated service at Agency B. This use case assumes the employee or contractor already has an account or entitlements to access resources at Agency B, or that they will be provisioned.
 
-For more information about granting access to protected resources, see Grant Access.
+For more information about granting access to protected resources, see [Grant Access](../7_grantaccess).
+
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Federation-AttributeExchange.png){:align="right"}
+![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/8-IconKey.png)
 
 | **1. Request access to federated service**<br/>![Request access to federated service]({{site.baseurl}}/img/usecases/8-1.png)  | An Agency A employee or contractor requests access to a federated service at Agency B.<br/>The employee or contractor selects the Agency A authentication service. |
 | **2. Redirect to Agency A for authentication**<br/>![Redirect to Agency A for authentication]({{site.baseurl}}/img/usecases/8-2.png)  | The Agency B system redirects the employee or contractor to the Agency A authentication service.<br/>Agency A authenticates the employee or contractor. |
