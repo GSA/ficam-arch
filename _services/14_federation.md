@@ -11,11 +11,13 @@ Federation is the policies, technology, standards, and processes that allow an a
 
 Federation has many different applications, including:
 
-> Accepting specific characteristics (attributes such as unique identifiers) describing an individual from another organization:
-An individual can use their agency-issued credential containing an internal unique identifier to directly log in to a different agency’s online service. The online service registers the unique identifier in their system for future use.
+*Accepting specific characteristics (attributes such as unique identifiers) describing an individual from another organization:*
 
-> Accepting an Authentication transaction from another organization:
-Agency A authenticates one of its users and passes identity attributes and transaction details to Agency B who can grant accesses to that identity for a given application.
+> An individual can use their agency-issued credential containing an internal unique identifier to directly log in to a different agency’s online service. The online service registers the unique identifier in their system for future use.
+
+*Accepting an Authentication transaction from another organization:*
+
+> Agency A authenticates one of its users and passes identity attributes and transaction details to Agency B who can grant accesses to that identity for a given application.
 
 ## Federation Services
 The Federation services in the Federal ICAM architecture include Policy Alignment, Authentication Broker, and Attribute Exchange.
