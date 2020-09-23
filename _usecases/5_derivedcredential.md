@@ -10,12 +10,10 @@ When an employee or contractor requires authentication, but cannot leverage an e
 
 ---
 
+In this use case, an employee or contractor interacts with the agency services to register or request a derived credential. 
+
 ![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-Maintenance.png){:align="right"}
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/5-IconKey.png)
-
-## Procedure
-
-In this use case, an employee or contractor interacts with the agency services to register or request a derived credential. 
 
 | **1. Initiate the request**<br/>![Initiate the request]({{site.baseurl}}/img/usecases/5-1.png)  | A request for identity data is initiated to the identity manager. <br/><em> This identity manager could be a person or system, depending on the organization.</em>  |
 | **2. Authenticate the existing credential**<br/>![Authenticate the existing credential]({{site.baseurl}}/img/usecases/5-2.png)  | The identity manager identifies relevant sources of data on the individual. <br/><em> Sources could include HR systems, security data, and personal databases.</em>  |
