@@ -4,7 +4,7 @@ title: 7. Grant Access
 collection: usecases
 ---
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Access-AuthnAuthz.png){:align="right"}
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Access-AuthnAuthz.png){:align="right" style="padding-left:15px"}
 
 This use case describes the steps to authenticate individuals and authorize access to agency services. Agency services can be anything from applications and files to physical facilities.
 
