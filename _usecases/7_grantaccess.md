@@ -1,3 +1,26 @@
+---
+layout: default
+title: 7. Grant Access
+collection: usecases
+---
+
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Access-AuthnAuthz.png){:align="right" style="padding-left:15px"}
+
+This use case describes the steps to authenticate individuals and authorize access to agency services. Agency services can be anything from applications and files to physical facilities.
+
+<br><br>
+
+---
+
+## Use Case
+
+In this use case, an ACS Administrator needs to grant access to an employee or contractor who has an enterprise identity and active credential and needs to access a logical or physical resource. These steps assume the employee or contractor already has credentials to support authentication as well as the access entitlements to support authorization decisions.
+
+- *Authentication* - I want to verify the claimed unique identity of a given employee or contractor  so that the system can verify the right individual is attempting to access an agency service. 
+- *Authorization* - I want to allow access for only employees and contractors that meet established requirements, so that only the people who should have access do have access.
+
+![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/7-IconKey.png)
+
 <style>
 
 td {
@@ -29,3 +52,11 @@ td {
     <td style="border:0px;"> If the employee or contractor meets the protected resource’s access requirements, the ACS grants access to the protected resource.<br><br>The ACS logs the access attempt and decision for auditing purposes.</td>
   </tr>
 </table>
+
+## Example
+
+An employee on the financial review team attempts to access an government financial application that is secured by a single sign-on (SSO) solution. The employee clicks a link to the financial application and is redirected to the SSO portal. The employee authenticates using his/her provided credential, which the SSO determines to be valid. The SSO solution or the financial application system finds the employee’s enterprise identity account and compares the roles assigned to those allowed by the financial application. The resulting determination is that the employee has authenticated to the required assurance level and has the appropriate entitlements to access the system and is subsequently logged on.
+
+## Next Steps
+
+[Maintain the employee or contractor’s access entitlements](../3_manageentitlements) as needed.
