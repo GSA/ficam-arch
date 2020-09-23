@@ -13,7 +13,9 @@ To perform effective governance, agencies must collect data about ICAM functions
 
 If your agency identifies problems during data collection and analysis, you should remediate these issues as quickly as possible. Real-time monitoring and risk mitigation is crucial to ensure employees and contractors have only the appropriate access, following the principle of least privilege.
 
-## Governance Services
+<br>
+
+<p style="font-size: 3rem; font-weight: 700;">Governance Services</p>
 
 The Governance services in the Federal ICAM architecture include Identity Governance, Analytics, and Mitigation.
 
