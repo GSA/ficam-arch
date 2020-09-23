@@ -15,7 +15,7 @@ Policy administration is a combination of laws, regulations, rules, and agency p
 - “Grant access to any agency employee or contractor with an authenticated PIV card.”
 - “Grant access to anyone who is a federal employee, GS-12 or higher, cleared Top Secret, trained in first aid, and certified as a project manager.”
 
-## Authentication
+### Authentication
 
 Authentication is how you verify the claimed identity of someone trying to access an agency resource. Typically, you’ll verify an identity using an authenticator.
 
