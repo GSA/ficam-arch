@@ -38,7 +38,7 @@ td {
     <td style="border:0px;"> The administrator compares the employee or contractor’s requested entitlements with the relevant access requirements.<br><br>If the employee or contractor qualifies for the requested entitlements and has a mission need for access, the administrator approves the request.</td>
   </tr>
     <tr>
-    <td style="width:250px;border:0px;"><strong>3. Assign the entitlements</strong> <br> <img src="../../img/usecases/3-2.png" width="250" alt="Assign the entitlements"></td>
+    <td style="width:250px;border:0px;"><strong>3. Assign the entitlements</strong> <br> <img src="../../img/usecases/3-3.png" width="250" alt="Assign the entitlements"></td>
     <td style="border:0px;"> The administrator assigns the entitlements to the employee or contractor.<br><br>Any time the employee or contractor’s role or relationship changes, the administrator updates the entitlements accordingly, including removing entitlements as needed.</td>
   </tr>
 </table>
