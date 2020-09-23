@@ -16,30 +16,39 @@ In this use case, an administrator needs to collect or manage identity data for 
 
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/1-IconKey.png)
 
+<style>
+
+td {
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
+  vertical-align:top;
+}
+
+</style>
+
 <table>
   <tr>
-    <td style="width:250px;border:0px;vertical-align:top"><strong>1. Collect information</strong> <br> <img src="../../img/usecases/1-1.png" width="250"></td>
-    <td style="border:0px;vertical-align:top">The administrator collects identity information from the employee or contractor, and adds this information to the authoritative source.<i>This identity information may come from the individual, onboarding documents, or HR systems.</i></td>
+    <td style="width:250px;border:0px;"><strong>1. Collect information</strong> <br> <img src="../../img/usecases/1-1.png" width="250"></td>
+    <td style="border:0px;">The administrator collects identity information from the employee or contractor, and adds this information to the authoritative source.<i>This identity information may come from the individual, onboarding documents, or HR systems.</i></td>
   </tr>
   <tr>
-    <td style="width:250px;border:0px;vertical-align:top"><strong>2. Create an enterprise identity</strong> <br> <img src="../../img/usecases/1-2.png" width="250"></td>
-    <td style="border:0px;vertical-align:top">The authoritative source sends the information to the system’s data repository. <br><br> Result: An enterprise identity in the authoritative source for the employee or contractor.</td>
+    <td style="width:250px;border:0px;"><strong>2. Create an enterprise identity</strong> <br> <img src="../../img/usecases/1-2.png" width="250"></td>
+    <td style="border:0px;">The authoritative source sends the information to the system’s data repository. <br><br> Result: An enterprise identity in the authoritative source for the employee or contractor.</td>
   </tr>
   <tr>
-    <td style="width:250px;border:0px;vertical-align:top"><strong>3. Maintain the enterprise identity</strong></td>
-    <td style="border:0px;vertical-align:top">The following steps describe identity maintenance your agency should perform on a regular basis.</td>
+    <td style="width:250px;border:0px;"><strong>3. Maintain the enterprise identity</strong></td>
+    <td style="border:0px;">The following steps describe identity maintenance your agency should perform on a regular basis.</td>
   </tr>
   <tr>
-    <td style="width:250px;border:0px;vertical-align:top"><strong>3a. Identify and aggregate identity data</strong> <br> <img src="../../img/usecases/1-3a.png" width="250"></td>
-    <td style="border:0px;vertical-align:top">Query your data repositories for any existing identities for an individual. Aggregate these attributes as a single enterprise identity for the individual.</td>
+    <td style="width:250px;border:0px;"><strong>3a. Identify and aggregate identity data</strong> <br> <img src="../../img/usecases/1-3a.png" width="250"></td>
+    <td style="border:0px;">Query your data repositories for any existing identities for an individual. Aggregate these attributes as a single enterprise identity for the individual.</td>
   </tr>
   <tr>
-    <td style="width:250px;border:0px;vertical-align:top"><strong>3b. Update the enterprise identity</strong> <br> <img src="../../img/usecases/1-3b.png" width="250"></td>
-    <td style="border:0px;vertical-align:top">If an individual has updated personal information, there are two ways to update the enterprise identity: <ol> <li> The administrator updates the individual’s enterprise identity attributes directly in the authoritative sources.</li> <li>The individual uses an agency application to update their personal information, and the application updates the individual’s enterprise identity attributes in the authoritative sources.</li></ol></td>
+    <td style="width:250px;border:0px;"><strong>3b. Update the enterprise identity</strong> <br> <img src="../../img/usecases/1-3b.png" width="250"></td>
+    <td style="border:0px;">If an individual has updated personal information, there are two ways to update the enterprise identity: <ol> <li> The administrator updates the individual’s enterprise identity attributes directly in the authoritative sources.</li> <li>The individual uses an agency application to update their personal information, and the application updates the individual’s enterprise identity attributes in the authoritative sources.</li></ol></td>
   </tr>
   <tr>
-    <td style="width:250px;border:0px;vertical-align:top"><strong>3c. Delete the enterprise identity</strong> <br> <img src="../../img/usecases/1-3c.png" width="250"></td>
-    <td style="border:0px;vertical-align:top">When you need to delete an enterprise identity, delete the identity attributes in the authoritative source.</td>
+    <td style="width:250px;border:0px;"><strong>3c. Delete the enterprise identity</strong> <br> <img src="../../img/usecases/1-3c.png" width="250"></td>
+    <td style="border:0px;">When you need to delete an enterprise identity, delete the identity attributes in the authoritative source.</td>
   </tr>
 </table>
 
