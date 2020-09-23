@@ -4,6 +4,8 @@ title: 6. Manage the Credential Lifecycle
 collection: usecases
 ---
 
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-MaintenanceRevocation.png){:align="right"}
+
 Active credentials require regular maintenance. This use case describes the most common credential maintenance activities:
 
 - **[Reset a credential](#reset-a-credential)** - An employee or contractor forgets the password or PIN associated with a credential, and requests a reset.a
@@ -16,7 +18,6 @@ You should periodically review your employee or contractors’ eligibility for c
 
 ## Use Cases
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-MaintenanceRevocation.png){:align="right"}
 ![Icon Key for Use Case Images Images]({{site.baseurl}}/img/usecases/6-IconKey.png)
 
 ### Reset a Credential
