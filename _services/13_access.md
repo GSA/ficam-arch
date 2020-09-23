@@ -5,7 +5,7 @@ collection: services
 permalink: services/access/
 ---
 
-![Access Management Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/AccessManagementServices.png){:align="right"}
+![Access Management Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/AccessManagementServices.png){:align="right" style="padding:30px"}
 
 Access Management is how an agency authenticates enterprise identities and authorizes appropriate access to protected services.
 
