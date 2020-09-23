@@ -16,9 +16,29 @@ In this use case, an administrator needs to assign entitlements to an employee o
 
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/3-IconKey.png)
 
-| **1. Initiate the request**<br/>![Initiate the request]({{site.baseurl}}/img/usecases/3-1.png) | An individual requests entitlements, or joins a team with specific access requirements.<br/>This individual may be the employee or contractor, their supervisor, HR, or a security team member. |
-| **2. Review the request**<br/>![Review the request]({{site.baseurl}}/img/usecases/3-2.png) | The administrator compares the employee or contractor’s requested entitlements with the relevant access requirements.<br/>If the employee or contractor qualifies for the requested entitlements and has a mission need for access, the administrator approves the request. |
-| **3. Assign the entitlements**<br/>![Assign the entitlements]({{site.baseurl}}/img/usecases/3-3.png) | The administrator assigns the entitlements to the employee or contractor.<br/>Any time the employee or contractor’s role or relationship changes, the administrator updates the entitlements accordingly, including removing entitlements as needed. |
+<style>
+
+td {
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
+  vertical-align:top;
+}
+
+</style>
+
+<table>
+  <tr>
+    <td style="width:250px;border:0px;"><strong>1. Initiate the request</strong> <br> <img src="../../img/usecases/3-1.png" width="250" alt="Initiate the request"></td>
+    <td style="border:0px;">An individual requests entitlements, or joins a team with specific access requirements.<br><br>This individual may be the employee or contractor, their supervisor, HR, or a security team member.</td>
+  </tr>
+  <tr>
+    <td style="width:250px;border:0px;"><strong>2. Review the request</strong> <br> <img src="../../img/usecases/3-2.png" width="250" alt="Review the request"></td>
+    <td style="border:0px;"> The administrator compares the employee or contractor’s requested entitlements with the relevant access requirements.<br><br>If the employee or contractor qualifies for the requested entitlements and has a mission need for access, the administrator approves the request.</td>
+  </tr>
+    <tr>
+    <td style="width:250px;border:0px;"><strong>3. Assign the entitlements</strong> <br> <img src="../../img/usecases/3-2.png" width="250" alt="Assign the entitlements"></td>
+    <td style="border:0px;"> The administrator assigns the entitlements to the employee or contractor.<br><br>Any time the employee or contractor’s role or relationship changes, the administrator updates the entitlements accordingly, including removing entitlements as needed.</td>
+  </tr>
+</table>
 
 ## Examples
 
