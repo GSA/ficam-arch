@@ -4,7 +4,7 @@ title: 5. Issue a Derived Credential
 collection: usecases
 ---
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-Maintenance.png){:align="right"}
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-Maintenance.png){:align="right" style="padding-left:15px"}
 
 A derived credential is a credential derived from an existing credential, with a different form factor (like on a mobile device). Derived credentials have the same IAL as the existing credential, and the same or lower AAL.
 
