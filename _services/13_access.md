@@ -49,19 +49,23 @@ The Access Management services in the Federal ICAM architecture include Policy A
 ### Policy Administration
 
 > Create and maintain the technical access requirements that govern access to protected agency services.
-*Keywords*: Policy Decision, Policy Enforcement
+
+> *Keywords*: Policy Decision, Policy Enforcement
 
 ### Authentication
 
 > Verify that a claimed identity is genuine based on valid credentials.
-*Keywords*: Validation, Two-Factor, Multi-Factor
+
+> *Keywords*: Validation, Two-Factor, Multi-Factor
 
 ### Authorization
 
 > Grant or deny access requests to protected agency services based on access requirements, identity attributes, and entitlements.
-*Keywords*: Policy Decision, Policy Enforcement
+
+> *Keywords*: Policy Decision, Policy Enforcement
 
 ### Privileged Access Management
 
 > Protect access to accounts that have access permissions that can affect IT system configurations and data security (e.g., superusers, domain administrators, or global administrators). 
-*Keywords*: Privileged Identity Management, Privileged Account Management, Administration, Superuser
+
+> *Keywords*: Privileged Identity Management, Privileged Account Management, Administration, Superuser
