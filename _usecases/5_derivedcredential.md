@@ -37,7 +37,7 @@ td {
     <td style="border:0px;">The identity manager identifies relevant sources of data on the individual. <br><br><i> Sources could include HR systems, security data, and personal databases.</i></td>
   </tr>
     <tr>
-    <td style="width:250px;border:0px;"><strong>3. Generate the derived credential</strong> <br> <img src="../../img/usecases/5-2.png" width="250" alt="3. Generate the derived credential"></td>
+    <td style="width:250px;border:0px;"><strong>3. Generate the derived credential</strong> <br> <img src="../../img/usecases/5-3.png" width="250" alt="3. Generate the derived credential"></td>
     <td style="border:0px;">Aggregate identity data to create a complete identity profile.</td>
   </tr>
 </table>
