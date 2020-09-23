@@ -4,6 +4,8 @@ title: 3. Manage the Entitlements Lifecycle
 collection: usecases
 ---
 
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-Provisioning.png){:align="right"}
+
 You can assign access entitlements to individuals, roles, and groups. These entitlements define an employee or contractor’s access to agency services, so you’ll need to assign entitlements before an employee or contractor can access an agency service.
 
 ---
@@ -12,7 +14,6 @@ You can assign access entitlements to individuals, roles, and groups. These enti
 
 In this use case, an administrator needs to assign entitlements to an employee or contractor.
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-Provisioning.png){:align="right"}
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/3-IconKey.png)
 
 | **1. Initiate the request**<br/>![Initiate the request]({{site.baseurl}}/img/usecases/3-1.png) | An individual requests entitlements, or joins a team with specific access requirements.<br/>This individual may be the employee or contractor, their supervisor, HR, or a security team member. |
