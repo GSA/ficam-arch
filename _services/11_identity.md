@@ -4,7 +4,7 @@ title: Identity Management
 collection: services
 permalink: services/identity/
 ---
-![Identity Management Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/IdentityManagementServices.png){:align="right"}
+![Identity Management Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/IdentityManagementServices.png){:align="right" style="padding:30px"}
 
 Identity Management is how an agency uses attributes to establish and maintain enterprise identities for employees and contractors.
 
