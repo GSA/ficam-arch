@@ -53,15 +53,6 @@ td {
 
 In this use case, an administrator needs to issue a new credential to replace one that will expire soon or has outdated identity information.
 
-<style>
-
-td {
-  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
-  vertical-align:top;
-}
-
-</style>
-
 <table>
   <tr>
     <td style="width:250px;border:0px;"><strong>1. Initiate the request</strong> <br> <img src="../../img/usecases/6-Renew-1.png" width="250" alt="1. Initiate the request"></td>
@@ -82,14 +73,6 @@ td {
 
 In this use case, you are an administrator who needs to revoke an active credential.
 
-<style>
-
-td {
-  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
-  vertical-align:top;
-}
-
-</style>
 
 <table>
   <tr>
