@@ -4,7 +4,7 @@ title: Credential Management
 collection: services
 permalink: services/credentials/
 ---
-![Credential Management Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/CredentialManagementServices.png){:align="right"}
+![Credential Management Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/CredentialManagementServices.png){:align="right" style="padding:30px"}
 
 Credential Management is how an agency issues, manages, and revokes credentials bound to enterprise identities.
 
