@@ -8,6 +8,8 @@ After you identity proof an individual, you’ll issue some proof of that indivi
 
 ---
 
+## Use Case
+
 In this use case, an administrator needs to issue a credential to an employee or contractor.
 
 **Note:** The preferred credential for employees and contractors is a PIV card. For cases where you cannot issue a PIV card, you must use a combination of factors to reach at least an AAL2 credential.
