@@ -28,8 +28,6 @@ Authentication is generally a two-step process:
 
 > *Step 2.* Use an authenticator mentioned in Credential Management to validate the credential holder.
 
-Authentication is how you confirm who you are. Identity proofing is how you establish an identity. Authentication is how you use the identity.
-
 ### Authorization
 
 Authorization is how you decide whether you should allow someone to access an agency resource. Access requirements usually dictate whether you’ll allow someone to:
@@ -39,6 +37,8 @@ Authorization is how you decide whether you should allow someone to access an ag
 - Enter an agency facility or location.
 
 Usually, authorization occurs immediately after authentication. When you log in to a service, you present your credentials, and the service confirms your credentials are valid (authentication) and grants or denies you access based on your assigned permissions (authorization).
+
+Identity proofing is how you establish an identity. Authentication is how you confirm who you are. Authorization is how you use the identity.
 
 ## Access Management Services
 
