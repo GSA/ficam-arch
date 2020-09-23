@@ -36,24 +36,29 @@ The Credential Management services in the Federal ICAM architecture include Spon
 ### Sponsorship
 
 > Formally establish that a person or entity requires a credential.
-*Keywords*: Sponsor, Authorizing Official, Affiliation, Request
+
+> *Keywords*: Sponsor, Authorizing Official, Affiliation, Request
 
 ### Registration
 
 > Collect the information needed from a person or entity to issue them a credential.
-*Keywords*: Enrollment
+
+> *Keyword*: Enrollment
 
 ### Issuance
 
 > Assign a credential to a person or entity.
-*Keywords*: Activation, Token
+
+> *Keywords*: Activation, Token
 
 ### Maintenance
 
 > Maintain a credential throughout its lifecycle. 
-*Keywords*: Renewal, Reset, Suspension, Reissuance
+
+> *Keywords*: Renewal, Reset, Suspension, Reissuance
 
 ### Revocation
 
 > Withdraw a credential from a person or entity, or deactivate an authenticator.
-*Keywords*: Termination
+
+> *Keywords*: Termination
