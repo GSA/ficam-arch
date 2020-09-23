@@ -4,7 +4,7 @@ title: 2. Proof an Identity
 collection: usecases
 ---
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-IdentityProofing.png){:align="right" style="padding:30px"}
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-IdentityProofing.png){:align="right" style="padding-left:15px"}
 
 Before you can create a credential and assign it to an individual, that person must provide proof of their claimed identity. Identity proofing is the process by which a federal agency collects and verifies information about a person to establish an enterprise identity.
 
