@@ -4,7 +4,7 @@ title: 6. Manage the Credential Lifecycle
 collection: usecases
 ---
 
-![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-MaintenanceRevocation.png){:align="right"}
+![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-MaintenanceRevocation.png){:align="right" style="padding-left:15px"}
 
 Active credentials require regular maintenance. This use case describes the most common credential maintenance activities:
 
