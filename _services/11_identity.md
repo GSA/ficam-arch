@@ -36,30 +36,30 @@ The Identity Management services in the Federal ICAM architecture include Creati
 
 ### Creation
 
-> Establish an identity made of attributes that define a person or entity.
+> Establish an identity made of attributes that define a person or entity.  
 *Keywords*: Identity Record, Authoritative Source
 
 ### Identity Proofing
 
-> Verify an identity’s attributes in order to issue a credential.
+> Verify an identity’s attributes in order to issue a credential. 
 *Keywords*: Source Document Validation, Remote Proofing, In-Person Proofing
 
 ### Provisioning
 
-> Create, manage, and delete accounts and entitlements.
+> Create, manage, and delete accounts and entitlements. 
 *Keywords*: Identity Lifecycle Management, Workflow, Deprovisioning, Account Management, Account Creation, Entitlements Management
 
 ### Maintenance
 
-> Maintain accurate and current attributes in an identity record over its lifecycle.
+> Maintain accurate and current attributes in an identity record over its lifecycle.  
 *Keywords*: Identity Lifecycle Management, Updating, Attribute Management
 
 ### Identity Aggregation
 
-> Find and connect disparate identity records for the same person or entity.
+> Find and connect disparate identity records for the same person or entity.  
 *Keywords*: Identity Reconciliation, Identity Resolution, Account Linking
 
 ### Deactivation
 
-> Deactivate or remove identity records.
+> Deactivate or remove identity records.  
 *Keywords*: Identity Lifecycle Management, Suspension, Archiving, Deletion
