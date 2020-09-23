@@ -8,12 +8,10 @@ You can assign access entitlements to individuals, roles, and groups. These enti
 
 ---
 
+In this use case, an administrator needs to assign entitlements to an employee or contractor.
+
 ![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-Provisioning.png){:align="right"}
 ![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/3-IconKey.png)
-
-## Procedure
-
-In this use case, an administrator needs to assign entitlements to an employee or contractor.
 
 | **1. Initiate the request**<br/>![Initiate the request]({{site.baseurl}}/img/usecases/3-1.png) | An individual requests entitlements, or joins a team with specific access requirements.<br/>This individual may be the employee or contractor, their supervisor, HR, or a security team member. |
 | **2. Review the request**<br/>![Review the request]({{site.baseurl}}/img/usecases/3-2.png) | The administrator compares the employee or contractor’s requested entitlements with the relevant access requirements.<br/>If the employee or contractor qualifies for the requested entitlements and has a mission need for access, the administrator approves the request. |
