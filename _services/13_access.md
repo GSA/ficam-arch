@@ -30,7 +30,7 @@ Authentication is generally a two-step process:
 
 Authentication is how you confirm who you are. Identity proofing is how you establish an identity. Authentication is how you use the identity.
 
-## Authorization
+### Authorization
 
 Authorization is how you decide whether you should allow someone to access an agency resource. Access requirements usually dictate whether you’ll allow someone to:
 
