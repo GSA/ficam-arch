@@ -27,7 +27,7 @@ To modify a page and open a pull request, you must first [create a GitHub accoun
 
 	The **Comparing changes** page appears.
 	
-	![Comparing changes]({{site.baseurl}}/img/ComparingChanges.PNG)
+	![Comparing changes]({{site.baseurl}}/img/ComparingChanges.png)
 	
 7. Click the **Create pull request** button.
 
