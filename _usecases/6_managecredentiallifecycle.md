@@ -14,10 +14,12 @@ You should periodically review your employee or contractors’ eligibility for c
 
 ---
 
+## Use Cases
+
 ![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-MaintenanceRevocation.png){:align="right"}
 ![Icon Key for Use Case Images Images]({{site.baseurl}}/img/usecases/6-IconKey.png)
 
-## Reset a Credential
+### Reset a Credential
 
 In this use case, an employee or contractor interacts with the agency services to register or request a derived credential.
 
@@ -25,7 +27,7 @@ In this use case, an employee or contractor interacts with the agency services t
 | **2. Issue a reset**<br/>![Issue a reset]({{site.baseurl}}/img/usecases/6-Reset-2.png)  | The system issues a password/PIN reset, which may be a temporary password or a link to a web-based reset form. |
 | **3. Reset the credential**<br/>![Reset the credential]({{site.baseurl}}/img/usecases/6-Reset-3.png)  | The employee or contractor resets their password or PIN. |
 
-## Renew a Credential
+### Renew a Credential
 
 In this use case, an administrator needs to issue a new credential to replace one that will expire soon or has outdated identity information.
 
@@ -33,7 +35,7 @@ In this use case, an administrator needs to issue a new credential to replace on
 | **2. Review the request** ![Issue a reset]({{site.baseurl}}/img/usecases/6-Renew-2.png)  | The identity management system reviews the request and verifies that the employee or contractor qualifies for a renewed credential. If so, approve the request. |
 | **3. Replace the credential** ![Reset the credential]({{site.baseurl}}/img/usecases/6-Renew-3.png)  | The system issues a new credential to the employee or contractor. |
 
-## Revoke a Credential
+### Revoke a Credential
 
 In this use case, you are an administrator who needs to revoke an active credential.
 
