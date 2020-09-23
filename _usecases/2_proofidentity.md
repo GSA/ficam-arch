@@ -17,6 +17,8 @@ For more information about identity proofing and IALs, see <a href="https://page
 
 ---
 
+## Use Case
+
 In this use case, an administrator needs to collect or manage identity data for an employee or contractor for the purpose of creating an enterprise identity record and maintaining it throughout its lifecycle.
 
 ![ICAM Practice Area]({{site.baseurl}}/img/usecases/Identity-IdentityProofing.png){:align="right"}
