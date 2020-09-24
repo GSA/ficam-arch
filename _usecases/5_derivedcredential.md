@@ -12,7 +12,7 @@ When an employee or contractor requires authentication, but cannot leverage an e
 
 ---
 
-## Use Case
+<p style="font-size: 3rem; font-weight: 700;">Use Case</p>
 
 In this use case, an employee or contractor interacts with the agency services to register or request a derived credential. 
 
