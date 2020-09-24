@@ -50,4 +50,4 @@ td {
 
 ## Next Steps
 
-[Assign access entitlements](../3_manageentitlements) and [maintain the credential](../6_managecredentiallifecycle).
+[Assign access entitlements](../3_manageentitlements) and [manage the credential](../6_managecredentiallifecycle).
