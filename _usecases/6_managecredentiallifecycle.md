@@ -16,7 +16,7 @@ You should periodically review your employee or contractors’ eligibility for c
 
 ---
 
-## Use Cases
+<p style="font-size: 3rem; font-weight: 700;">Use Cases</p>
 
 ![Icon Key for Use Case Images Images]({{site.baseurl}}/img/usecases/6-IconKey.png)
 
