@@ -120,6 +120,18 @@ Each section of this page lists documents in reverse chronological order, with t
 <a href="https://www.cisa.gov/cdm" target="_blank">**Continuous Diagnostics and Mitigation**</a><br/>
 > The Continuous Diagnostics and Mitigation (CDM) Program is an approach to fortifying the cybersecurity of government networks and systems. The CDM Program provides cybersecurity tools, integration services, and dashboards to participating agencies to support them in improving their respective security posture.  The CDM approach focuses on five areas for the federal enterprise: Data Protection Management, Network Security Management, Identity and Access Management, Asset Management, and Monitoring and Dashboards. 
 
+<a href="https://community.max.gov/display/Egov/ICAMSC+Guidance+Documents?attachmentId=2169077555" target="_blank">**Digital Identity Risk Assessment (DIRA) Playbook (PDF, September 2020)**</a><br/>
+> (Requires MAX.gov login.) A work product of the DIRA Working Group under the ICAMSC, this playbook serves as a common government program office and mission-oriented companion guide for consistently performing and managing DIRAs within the Federal Government (USG). The playbook is intended to accompany existing and planned NIST guides and offers plain language explanations aligning technical and programmatic terminology.
+
+<a href="https://pm.idmanagement.gov/" target="_blank">**Federal Identity, Credential, and Access Management Program (FICAM) Management Guide**</a><br/>
+This guide explains how to plan and implement an ICAM Program, as outlined in the FICAM Architecture. In this guide, you’ll find content for ICAM program managers who need agency-level planning guides to drive adoption of ICAM services within their organizations, as well as how to govern the program, identify and communicate with stakeholders, manage risk, and other related topics.
+
+<a href="https://pacs.idmanagement.gov/" target="_blank">**Physical Access Control System (PACS) Guide**</a><br/>
+This guide explains concepts related to FICAM-compliant PACSs. At a high level, a PACS is a collection of technologies that control physical access at one or more federal agency sites by electronically authenticating employees, contractors, and visitors.
+
+<a href="https://piv.idmanagement.gov/" target="_blank">**Personal Identity Verification (PIV) Guides**</a><br/>
+These guides are intended to help you implement common PIV configurations at your organization, including using PIV credentials for logical access and digital signatures and encryption.
+
 <a href="https://www.nist.gov/privacy-framework/new-framework" target="_blank">**NIST: Privacy Framework**</a> **(PDF, January 2020)**<br/>
 > The Privacy Framework is a voluntary tool intended to help organizations identify and manage privacy risk to build innovative products and services while protecting individuals’ privacy. The Privacy Framework approach to privacy risk is to consider privacy events as potential problems individuals could experience arising from system, product, or service operations with data, whether in digital or non-digital form, through a complete life cycle from data collection through disposal.
 
