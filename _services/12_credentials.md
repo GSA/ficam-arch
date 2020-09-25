@@ -75,7 +75,7 @@ _Keywords_: Activation, Token
 
 **Maintenance**  
 
-> Maintaining a credential over its life cycle.
+> Maintaining a credential over its life cycle.  
 _Keywords_: Renewal, Reset, Suspension, Blocking, Reissuance  
 
 **Revocation**  
