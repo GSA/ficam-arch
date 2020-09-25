@@ -17,7 +17,7 @@ Policy administration is a combination of laws, regulations, rules, and agency p
 
 <p style="font-size: 2rem; font-weight: 700;">Authentication</p>
  
-Authentication is how you verify the claimed identity of someone trying to access an agency resource. Typically, you’ll verify an identity using an authenticator.
+Authentication is how you verify the claimed identity of someone trying to access an agency resource. Typically, you’ll verify an identity using an authenticator associated with a credential.
 
 Authentication is generally a two-step process:
 
