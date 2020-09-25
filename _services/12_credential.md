@@ -10,13 +10,13 @@ Credential Management is how an agency issues, manages, and revokes credentials 
 
 A credential is a data structure that authoritatively binds an authenticator to an existing identity using one or more identifiers. An employee or contractor uses an authenticator with a password or cryptographic module to assert their identity.
 
-Credentials can include the following types of authenticators:
+The following are types of authenticators:
 
 - Something you know, like a password or PIN.
 - Something you have, like a private key or One-Time Password (OTP) generator.
 - Something you are, like a fingerprint or iris. 
 
-The Authenticator Assurance Level (AAL) determines the authenticators included with a credential. Federal government-wide policy requires a minimum Authenticator Assurance 
+The Authenticator Assurance Level (AAL) determines the authenticators associated with a credential. Federal government-wide policy requires a minimum Authenticator Assurance 
 Level 2 for employees and contractors.
 
 The following are some examples of credentials:
