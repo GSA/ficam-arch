@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Component Examples
-permalink: /applications/
+permalink: /components/
 ---
 Component examples include sample enterprise ICAM tools (e.g. solutions, applications, and software) aligned with ICAM service areas that illustrate ICAM functionality at an agency. The component examples are designed for enterprise architects, security engineers, and solution architects to facilitate discussions regarding the technology solutions to integrate with enterprise applications, and the business requirements.
 
