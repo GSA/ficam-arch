@@ -7,7 +7,7 @@ Component examples include sample enterprise ICAM tools (e.g. solutions, applica
 
 The components are representative examples only. Some solutions chosen by your agency may span across more than one service area. 
 
-The following figure is an examples for a small selection of components only.  You should modify the diagram and incorporate as-is and target state components for enterprise roadmap planning.
+The following figure is an examples for a small selection of components only.  You should modify the graphic and incorporate as-is and target state components for enterprise roadmap planning.
 
 ![Image of example components such as solutions, software or applications.]({{site.baseurl}}/img/examplecomponents.png)
 
