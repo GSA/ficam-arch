@@ -81,7 +81,7 @@ navigation:
   coll: true
   collname: usecases
 - text: Component Examples
-  url: applications
+  url: components
   internal: true
   coll: false
 #- text: Demos
