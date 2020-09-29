@@ -66,7 +66,7 @@ navigation:
   url: ''
   internal: true
   coll: false
-- text: Goals and Objectives
+- text: Goals & Objectives
   url: goals
   internal: true
   coll: false
@@ -80,7 +80,7 @@ navigation:
   internal: true
   coll: true
   collname: usecases
-- text: Applications View
+- text: Component Examples
   url: applications
   internal: true
   coll: false

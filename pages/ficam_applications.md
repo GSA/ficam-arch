@@ -1,39 +1,85 @@
 ---
 layout: default
-title: Applications Diagrams
+title: Component Examples
 permalink: /applications/
 ---
-| **Description** | A view of general enterprise ICAM applications and systems. |
-| **Audience** | ICAM Enterprise Architects and Implementation specialists. |
+Component examples include sample enterprise ICAM tools (e.g. solutions, applications, and software) aligned with ICAM service areas that illustrate ICAM functionality at an agency. The component examples are designed for enterprise architects, security engineers, and solution architects to facilitate discussions regarding the technology solutions to integrate with enterprise applications, and the business requirements.
+
+The components are representative examples only. Some solutions chosen by your agency may span across more than one service area. 
+
+The following figure is an examples for a small selection of components only.  You should modify the diagram and incorporate as-is and target state components for enterprise roadmap planning.
+
+![Image of example components such as solutions, software or applications.]({{site.baseurl}}/img/examplecomponents.png)
+
+## Authoritative Sources
+An authoritative source is a repository of identity attribute data.  It’s possible to have multiple authoritative sources for attributes.
+
+Authoritative source components may include:
+
+- Human Resource systems such as payroll, time and attendance, and benefits administration
+- Agency or government-wide Learning Management Systems
+- Agency or government-wide Personnel Security systems for security and suitability
+- Directory services including on-premise or cloud-based directory services
+- Other external or internal sources
+
+## Identity Management Systems
+Identity Management Systems are how an agency manages the identity lifecycle. 
+
+Identity management systems components may include:
+
+- Identity lifecycle management services including provisioning and workflow 
+- Role management or role manager applications
+- Identity correlation or aggregation
+- Directory management
+
+## Access Control Systems
+Access Control Systems are how an agency leverages credentials to authenticate individuals and authorize access to protected resources.
+
+Access Control Systems components may include:
+
+- Enterprise single sign-on (eSSO) applications
+- Web access management applications
+- Physical or facility access control systems 
+- Privileged access management applications
+- Access policy and access rules repositories
+- Policy enforcement points 
+- Policy decision points
+- Virtual private networks
+- Cloud access security brokers
+- Network access management tools
 
 
-![Image of applications interface diagram.]({{site.baseurl}}/img/ApplicationsInterfaceDiagram.png)
-![Image of applications interface diagram descriptions.]({{site.baseurl}}/img/ApplicationsDescriptions.png)
+## Credential Management Systems
+Credential Management Systems are how an agency manages an authentication token bound to an identity.
 
-The diagram above provides a bird’s eye view of the different ICAM solutions, applications, and software components that work together to run a functional, secure ICAM program. Within each section of the diagram, there is an accompanying description that explains the general purpose of each application or system as well as which business services they support.
+Credential Management System components may include:
 
-#### Authoritative Sources
-Authoritative sources are any trusted sources of data. This data primarily consists of identity attributes.
+- PIV credential service provider solutions
+- Other, non-PKI, credential service provider solutions 
+- Federated certification authorities
+- Private certification authorities
+- Key management services 
+- Enterprise certificate manager
+- Multi-factor authentication managers for software and hardware tokens
+- Password managers
 
-#### Identity Management System
-The identity management system (IDMS) retains identity data that is retrieved from authoritative source(s) within its identity store and allows for the creation, maintenance, resolution, and deactivation of identities. It may also be accessed to complete an individual’s identity proofing. The role manager within the IDMS leverages the policy database and the provisioning and workflow tool to execute entitlement management activities and provision access privileges to identity accounts.
+## Governance Systems
+Governance is the set of components to centralize management, develop insights, and assist in managing ICAM areas and services. Applications across all service areas include auditing such as standard audit logs or configuration of auditable events.   Governance includes the aggregation of individual auditing and reporting into centralized tools to perform real-time or near real-time analysis, identify anomalies, and trigger mitigations for anomalous authentication or authorization events.  Tools are increasingly incorporating machine learning or adaptive algorithms. 
 
-#### Access Control System
-The access control system manages and executes parts of both the design time and run time access processes. Policy administration decisions are stored within a policy database and managed through policy management software. These policies are referenced during dynamic access authorization attempts. It also stores access entitlements within a database. The access management tool helps to execute run time authentication and authorization decisions, leveraging the workflow tool to gather pertinent information from the other ICAM systems. The visitor management system and federated access manager are both important components to grant access to external system users.
+Governance components may include:
 
-#### Credential Management System
-The credential management system contains management software that processes sponsored requests for credential registration, creates, issues, and maintains credentials, and stores this information within the credential database.
+- Identity governance solutions to perform access re-certifications 
+- IT Service Management (ITSM)
+- Security information and event monitoring (SIEM)
 
-#### Certificate Authority
-The certificate authority contains a certificate repository, which stores data on valid certificates that is leveraged during authentication. The certificate revocation list (CRL) and online certificate status protocol (OCSP) are two methods for checking if a certificate has been revoked.
+## Agency Endpoints
+Agency endpoints are any resource that an agency needs to protect, whether a physical resource or a digital resource. 
 
-#### Governance Tools
-Governance software aids in the back end processes that support ICAM functionalities. The reporting and analytics software completes auditing, logging, and data transformation for the agency’s ICAM ecosystem. Access certification software audits user permissions to assure that they are still accurate, while remediation software implements the required changes to mitigate identified variances.
+Agency endpoints may include:
 
-#### Agency Endpoints
-Agency endpoints are any resource that an agency wants to protect, whether physical or a logical system.
+- On-premise applications
+- Cloud-based applications and platforms
+- Agency private networks
+- Government cloud email services
+- Government facilities
 
-### Background & Key Revisions
-Several of the existing target state diagrams were combined to create a single, enterprise-wide view of ICAM systems. Descriptions have also been included for each system and the business service that they assist in delivering.
-
-The system names within this diagram have been simplified to remain product and vendor neutral. In practice, vendor solutions may offer applications that delivers solutions across several of these areas. For example, a vendor might offer an application that provides both policy management and access management functionality.
