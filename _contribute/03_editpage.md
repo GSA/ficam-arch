@@ -13,7 +13,7 @@ To modify a page and open a pull request, you must first [create a GitHub accoun
 	
 2. In the upper right corner of the page, click the **Edit this file** button.
 
-	![Edit this file]({{site.baseurl}}/img/contribute/EditThisFile.png)
+	![A screenshot of the editing options for Github markdown files.]({{site.baseurl}}/img/contribute/EditThisFile.png)
 	
 3. GitHub creates a fork of the project in your GitHub account.
 
@@ -27,7 +27,7 @@ To modify a page and open a pull request, you must first [create a GitHub accoun
 
 	The **Comparing changes** page appears.
 	
-	![Comparing changes]({{site.baseurl}}/img/contribute/ComparingChanges.png)
+	![A screenshot of the Comparing Changes page, where you can view the differences between original files and the pull request.]({{site.baseurl}}/img/contribute/ComparingChanges.png)
 	
 7. Click the **Create pull request** button.
 
@@ -35,4 +35,4 @@ To modify a page and open a pull request, you must first [create a GitHub accoun
 	
 You can track your pull request and comments from your colleagues on the **Pull requests** tab.
 
-![Pull requests]({{site.baseurl}}/img/contribute/PullRequests.png)
+![A screenshot of the Pull requests tab of the FICAM-Arch Github repository.]({{site.baseurl}}/img/contribute/PullRequests.png)

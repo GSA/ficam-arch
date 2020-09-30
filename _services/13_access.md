@@ -5,7 +5,7 @@ collection: services
 permalink: services/access/
 ---
 
-![Access Management Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/AccessManagementServices.png){:align="right" style="padding-left:30px"}
+![A blue box with the list of Access Management services defined later in the body text of this page.]({{site.baseurl}}/img/services/AccessManagementServices.png){:align="right" style="padding-left:30px"}
 
 Access Management is how an agency authenticates enterprise identities and authorizes appropriate access to protected services.
 
@@ -44,7 +44,7 @@ Identity proofing is how you establish an identity. Authentication is how you co
 
 The Access Management services in the Federal ICAM architecture include Policy Administration, Entitlements Management, Authentication, Authorization, and Privileged Access Management.
 
-![Access Management Services - Definitions follow in text below.]({{site.baseurl}}/img/services/AccessManagementServiceDefinitions.png){:align="center"}
+![A blue box with the Access Management service definitions, which are listed in the following body text.]({{site.baseurl}}/img/services/AccessManagementServiceDefinitions.png){:align="center"}
 
 ### Policy Administration
 
