@@ -62,4 +62,4 @@ I want to create a new enterprise identity, so that an individual may be establi
 
 ## Next Steps
 
-[Proof the identity](../2_proofidentity) and [assign appropriate access entitlements](../3_manageentitlements).
+[Proof the identity](../proofidentity) and [assign appropriate access entitlements](../manageaccess).

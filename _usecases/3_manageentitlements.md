@@ -48,4 +48,4 @@ td {
 
 ## Next Steps
 
-[Create and issue a credential](../4_createissuecredential), and [grant access to agency services](../7_grantaccess).
+[Create and issue a credential](../credential), and [grant access to agency services](../grantaccess).

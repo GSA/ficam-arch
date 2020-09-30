@@ -101,4 +101,4 @@ In this use case, you are an administrator who needs to revoke an active credent
 
 ## Next Steps
 
-[Manage the entitlements lifecycle](../3_manageentitlements) of the credential.
+[Manage the entitlements lifecycle](../manageaccess) of the person and credential.

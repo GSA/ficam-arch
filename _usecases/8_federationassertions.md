@@ -57,4 +57,4 @@ td {
 
 ## Next Steps
 
-[Authorize access to the protected resource](../7_grantaccess).
+[Authorize access to the protected resource](../grantaccess).

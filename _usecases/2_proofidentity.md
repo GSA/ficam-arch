@@ -54,4 +54,4 @@ td {
 
 ## Next Steps
 
-[Create and issue a credential](../4_createissuecredential) and [manage access entitlements](../3_manageentitlements).
+[Create and issue a credential](../credential) and [manage access entitlements](../manageaccess).

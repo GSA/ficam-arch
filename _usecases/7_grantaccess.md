@@ -58,4 +58,4 @@ An employee on the financial review team attempts to access a government financi
 
 ## Next Steps
 
-[Maintain the employee or contractor’s access entitlements](../3_manageentitlements) as needed.
+[Maintain the employee or contractor’s access entitlements](../manageaccess) as needed.
