@@ -12,7 +12,7 @@ Active credentials require regular maintenance. This use case describes the most
 - **[Renew a credential](#renew-a-credential)** - An employee or contractor’s credential is expiring or their personal information changes, so they request a replacement credential. You must renew a credential prior to the expiration date, otherwise the employee or contractor must go through the issuance process again.
 - **[Revoke a credential](#revoke-a-credential)** - An employee or contractor is no longer eligible for their credential (like separating from the issuing agency). The sponsor, supervisor, or administrator requests a revocation of all associated credentials and enterprise accounts.
 
-You should periodically review your employee or contractors’ eligibility for credentials to identify potential orphans.
+You should periodically review your employee or contractors’ eligibility for credentials to identify potential orphaned data.
 
 ---
 
