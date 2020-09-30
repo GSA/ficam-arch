@@ -24,7 +24,7 @@ These are the views you’ll find in this playbook:
 - [**Goals and Objectives**](goals) - The aims and outcomes of enterprise Federal ICAM.
 - [**Services Framework**](services) - Descriptions of the services within each ICAM practice area that support enterprise ICAM.
 - [**Use Cases**](usecases) - High-level summaries and examples of the common procedures in ICAM.
-- [**Component Examples**](components) -  Sample enterprise ICAM tools (e.g. solutions, applications, and software) aligned with ICAM service areas that illustrate ICAM functionality at an agency. The components are representative examples only.
+- [**Component Examples**](components) - A list of example enterprise ICAM tools, aligned to each ICAM service area. These tools, such as solutions, applications, and software, are representative examples that illustrate ICAM functionality within an agency.
 - [**Standards and Policies**](standards) - The federal policies and standards that shape the implementation of enterprise ICAM.
 
 Copy the graphics and text throughout this playbook to use at your agency to drive ICAM awareness, strategy developments, and communications.
