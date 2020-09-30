@@ -13,7 +13,7 @@ To modify a page and open a pull request, you must first [create a GitHub accoun
 	
 2. In the upper right corner of the page, click the **Edit this file** button.
 
-	![Edit this file]({{site.baseurl}}/img/EditThisFile.png)
+	![Edit this file]({{site.baseurl}}/img/contribute/EditThisFile.png)
 	
 3. GitHub creates a fork of the project in your GitHub account.
 
@@ -27,7 +27,7 @@ To modify a page and open a pull request, you must first [create a GitHub accoun
 
 	The **Comparing changes** page appears.
 	
-	![Comparing changes]({{site.baseurl}}/img/ComparingChanges.png)
+	![Comparing changes]({{site.baseurl}}/img/contribute/ComparingChanges.png)
 	
 7. Click the **Create pull request** button.
 
@@ -35,4 +35,4 @@ To modify a page and open a pull request, you must first [create a GitHub accoun
 	
 You can track your pull request and comments from your colleagues on the **Pull requests** tab.
 
-![Pull requests]({{site.baseurl}}/img/PullRequests.png)
+![Pull requests]({{site.baseurl}}/img/contribute/PullRequests.png)
