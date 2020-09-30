@@ -2,6 +2,7 @@
 layout: default
 title: 8. Accept Federation Assertions
 collection: usecases
+permalink: usecases/federate/
 ---
 
 ![ICAM Practice Area]({{site.baseurl}}/img/usecases/Federation-AttributeExchange.png){:align="right" style="padding-left:15px"}

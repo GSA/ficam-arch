@@ -2,6 +2,7 @@
 layout: default
 title: 6. Manage the Credential Lifecycle
 collection: usecases
+permalink: usecases/managecredential/
 ---
 
 ![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-MaintenanceRevocation.png){:align="right" style="padding-left:15px"}

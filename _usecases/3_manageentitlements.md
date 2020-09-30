@@ -2,6 +2,7 @@
 layout: default
 title: 3. Manage the Entitlements Lifecycle
 collection: usecases
+permalink: usecases/manageaccess/
 ---
 
 ![Three hexagons with the letters I, C, and A. The I is highlighted in red for Identity Management, with a red banner for the Provisioning service. ]({{site.baseurl}}/img/usecases/Identity-Provisioning.png){:align="right" style="padding-left:15px"}

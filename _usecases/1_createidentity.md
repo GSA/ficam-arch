@@ -2,6 +2,7 @@
 layout: default
 title: 1. Create and Maintain an Identity
 collection: usecases
+permalink: usecases/createidentity/
 ---
 
 ![Three hexagons with the letters I, C, and A. The I is highlighted in red for Identity Management, with a red banner for the Creation service.]({{site.baseurl}}/img/usecases/Identity-Creation.png){:align="right" style="padding-left:15px"}

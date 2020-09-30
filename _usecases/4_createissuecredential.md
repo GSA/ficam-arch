@@ -2,6 +2,7 @@
 layout: default
 title: 4. Create and Issue a Credential
 collection: usecases
+permalink: usecases/credential/
 ---
 
 ![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-Issuance.png){:align="right" style="padding-left:15px"}

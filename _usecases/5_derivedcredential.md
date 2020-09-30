@@ -2,6 +2,7 @@
 layout: default
 title: 5. Issue a Derived Credential
 collection: usecases
+permalink: usecases/derivecredential/
 ---
 
 ![ICAM Practice Area]({{site.baseurl}}/img/usecases/Credential-Maintenance.png){:align="right" style="padding-left:15px"}

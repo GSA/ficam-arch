@@ -5,7 +5,7 @@ This repository is for the collaborative development of the Federal Identity, Cr
 
 The FICAM Architecture focuses on the federal **enterprise** identity and access processes, practices, policies and information security disciplines.
 
-_A federal enterprise identity is the unique representation of an employee, contractor, or enterprise user, which could be a mission or business partner, or even a device or technology managed by a Federal agency to achieve its mission and business goals._ [(See OMB Memo 19-17)](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
+_A federal enterprise identity is the unique representation of an employee, contractor, or enterprise user, which could be a mission or business partner, or even a device or technology managed by a Federal agency to achieve its mission and business goals._ [See OMB Memo 19-17](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf).
 
 ## General Practices
 This content is Vendor neutral. Marketing materials for Commercial Products should not be submitted.   

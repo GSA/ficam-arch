@@ -2,6 +2,7 @@
 layout: default
 title: 2. Proof an Identity
 collection: usecases
+permalink: usecases/proofidentity/
 ---
 
 ![Three hexagons with the letters I, C, and A. The I is highlighted in red for Identity Management, with a red banner for the Identity Proofing service. ]({{site.baseurl}}/img/usecases/Identity-IdentityProofing.png){:align="right" style="padding-left:15px"}

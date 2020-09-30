@@ -2,6 +2,7 @@
 layout: default
 title: 7. Grant Access
 collection: usecases
+permalink: usecases/grantaccess/
 ---
 
 ![ICAM Practice Area]({{site.baseurl}}/img/usecases/Access-AuthnAuthz.png){:align="right" style="padding-left:15px"}
