@@ -19,7 +19,7 @@ Using GitHub as a first-time user can be overwhelming. An introduction video is 
 
 In the GitHub repository, on the Code tab, you can view the folder structure of this website:
 
-![Code tab]({{site.baseurl}}/img/contribute/CodeTab.png)
+![A screenshot of the Code tab of the FICAM-Arch Github repository.]({{site.baseurl}}/img/contribute/CodeTab.png)
 
 The following folders contain content and diagrams:
 
