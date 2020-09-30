@@ -4,54 +4,92 @@ title: Introduction
 permalink: /
 ---
 
-Welcome to the _in-progress_ site for the Federal ICAM Enterprise Architecture! This page is your first stop for learning about FICAM, understanding the FICAM Enterprise Architecture, and contributing to its development.
+This playbook describes the **Federal Identity, Credential, and Access Management (FICAM) Architecture**. FICAM is the Federal Government’s implementation of **Identity, Credential, and Access Management (ICAM)**.
 
-#### What is ICAM?
+> **ICAM** enables the **_right individual_** to access the **_right resource_**, at the **_right time_**, for the **_right reason_** in support of **_federal business objectives_**.
 
-ICAM - **Identity**, **Credential**, and **Access Management** - is the set of security disciplines that allows an
-organization to:
+This page describes the basics of ICAM, the FICAM Architecture, and how you can use this playbook to facilitate ICAM practices at your agency.
+- [What is the FICAM Architecture?](#what-is-the-ficam-architecture)
+- [What is ICAM?](#what-is-icam)
+- [Who is the FICAM Architecture for?](#who-is-the-ficam-architecture-for)
+- [FICAM Architecture Background](#ficam-architecture-background)
 
-> **_enable the right individual to access the right resource at the right time for the right reason_**
+The following diagram is a high-level view of the ICAM practice areas and supporting elements. 
 
-It is the tools, policies, and systems that allow an organization to manage, monitor, and secure access to protected resources.
-These resources may be electronic files, computer systems, or physical resources such as server rooms and buildings. The image below depicts a conceptual view of ICAM:
+![A color-coded diagram that has three large connected boxes and two small auxillary boxes. The three large boxes include definitions and diagrams for Identity, Credential, and Access Management, and the two small boxes include definitions for Federation and Governance.]({{site.baseurl}}/img/ConceptualDiagram.png)
 
-![Conceptual Diagram]({{site.baseurl}}/img/ConceptualDiagram.png)
+The FICAM Architecture includes government-wide enterprise architecture views with the flexibility to support each agency’s unique business or mission needs. Use the FICAM Architecture as a tool to continuously improve upon your agency’s approach and align with federal security and privacy initiatives.
 
-#### What is FICAM?
+These are the views you’ll find in this playbook:
+- [**Goals and Objectives**](goals) - The aims and outcomes of enterprise Federal ICAM.
+- [**Services Framework**](services) - Descriptions of the services within each ICAM practice area that support enterprise ICAM.
+- [**Use Cases**](usecases) - High-level summaries and examples of the common procedures in ICAM.
+- [**Component Examples**](components) - A list of example enterprise ICAM tools, aligned to each ICAM service area. These tools, such as solutions, applications, and software, are representative examples that illustrate ICAM functionality within an agency.
+- [**Standards and Policies**](standards) - The federal policies and standards that shape the implementation of enterprise ICAM.
 
-FICAM is the Federal Government’s implementation of Identity, Credential, and Access Management. It is meant to provide a common set of ICAM standards, best practices, and implementation guidance for Federal agencies.  
+Copy the graphics and text throughout this playbook to use at your agency to drive ICAM awareness, strategy developments, and communications.
 
-See [Goals & Objectives]({{site.baseurl}}/goals/) for more information on the goals of FICAM.
+## What is the FICAM Architecture?
+> **FICAM** is the Federal Government’s enterprise approach to design, plan, and execute common ICAM processes.
 
-#### What is the FICAM Architecture?
+The FICAM Architecture is a framework for an agency to use in ICAM program and solution roadmap planning. The FICAM Architecture focuses on enterprise identity processes, practices, policies and information security disciplines. 
 
-An enterprise architecture is a conceptual blueprint that defines what an organization is and does. This “blueprint” uses principles and practices to define an approach for an organization to design, plan, and execute a strategy.
+>  A federal enterprise identity is the unique representation of an employee, contractor, or enterprise user, which could be a mission or business partner, or even a device or technology managed by a Federal agency to achieve its mission and business goals. [(OMB Memorandum 19-17)](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
 
-The FICAM Architecture is the Federal Government’s approach for designing, planning for, and implementing ICAM. It depicts principles and practices in the form of diagrams and stories to describe what ICAM is, what it should do, and what is used to provide capabilities to an agency. While the FICAM Architecture provides a common, government-wide view of ICAM, flexibility in the design exists to allow agencies to use it no matter how unique their implementation environment is.
+## What is ICAM?
+> **ICAM** is the set of tools, policies, and systems that agencies use to secure access to protected agency services.
 
-The FICAM Architecture provides several different views of ICAM, including high level concepts and goals, definition of the business environment, including services and processes, and a view of technology that enables the business. Each element of the FICAM Architecture aligns with one of the six sub-architecture domains described in the [Common Approach to Federal Enterprise Architecture](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/fea_v2.pdf){:target="blank"} (FEA):
+Agencies implement ICAM services and solutions to unify their IT services, improve physical access control, and improve information security and decisions. Understanding the building blocks of ICAM is key to understanding the FICAM Architecture. ICAM has three practice areas and two supporting elements. The supporting elements enhance the capabilities of the practice areas.
 
-![Architecture Summary]({{site.baseurl}}/img/ArchSummary.png)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px; overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px; overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yj5y{background-color:#efefef;border-color:inherit;text-align:center;vertical-align:middle;font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top;font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;}
+</style>
 
-#### Who is the FICAM Architecture for, and how should Federal agencies use it?
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yj5y" colspan="2"><span style="font-weight:bold">ICAM Practice Areas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><img src="img/ICAM-Identity.png" alt="Three hexagons with the letters I, C, and A. The I is highlighted in red for Identity Management." width="125"><br></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Identity Management</span> is how an agency uses attributes to establish and maintain enterprise identities for employees and contractors.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><img src="img/ICAM-Credential.png" alt="Three hexagons with the letters I, C, and A. The C is highlighted in green for Credential Management." width="125"><br></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Credential Management</span> is how an agency issues, manages, and revokes credentials bound to enterprise identities.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><img src="img/ICAM-Access.png" alt="Three hexagons with the letters I, C, and A. The A is highlighted in blue, for Access Management." width="125"><br></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Access Management</span> is how an agency authenticates enterprise identities and authorizes appropriate access to protected services.</td>
+  </tr>
+  <tr>
+    <td class="tg-yj5y" colspan="2"><span style="font-weight:bold">ICAM Supporting Elements</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><img src="img/ICAM-Federation.png" alt="Three hexagons with the letters I in red, C in green, and A in blue, with a gray banner for Federation." width="125"><br></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Federation</span> is the technology, policies, standards, and processes that allow an agency to accept digital identities, attributes, and credentials managed by other agencies.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><img src="img/ICAM-Governance.png" alt="Three hexagons with the letters I in red, C in green, and A in blue, with a navy banner for Governance." width="125"><br></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Governance</span> is the set of practices and systems that guides ICAM functions, activities, and outcomes.</td>
+  </tr>
+</tbody>
+</table>
 
-The Architecture is meant as a robust, scalable framework, equally useful to enterprise architects developing their agency’s ICAM program and to those new to ICAM who are learning its core concepts.  
+## Who is the FICAM Architecture for?
+The FICAM Architecture is for agency personnel looking for federal information technology resources. 
+- **Senior Federal IT and agency stakeholders** can find a reference architecture that leverages Federal IT and industry standard definitions to integrate IT applications and services across multiple agencies and business areas.
+- **Program Managers** can find common definitions and frameworks for use in planning.
+- **Enterprise and Application Architects** can find a common framework, including views and use cases, for use in IT systems, applications, and network implementations.
+- **Everyone in Federal IT** can benefit from applying consistent, interoperable, and unified IT identity, credentials, and access management implementations to their business- and mission-level initiatives.
 
-Those who are learning about ICAM should start by reviewing the Architecture from top to bottom – it has been developed to allow those with little ICAM experience to quickly come away with a baseline understanding of what ICAM is and how it impacts their organization.
+## FICAM Architecture Background
+The FICAM Roadmap was created in 2009 to provide a comprehensive view for a common Identity and Access Management (IAM) segment architecture for Federal agencies. Part A of the _FICAM Roadmap and Implementation Guidance_, v2.0, was replaced in 2015 with an updated Architecture. This site contains the current 2020 update for the FICAM Architecture.
 
-Enterprise architects seasoned in ICAM will want to compare their agency’s ICAM program to the principles and elements laid out within the Architecture.  This comparison may help them identify areas where their agency’s ICAM program is underdeveloped and help them plan for future expansion and improvement.
-
-In general, Federal agencies and departments should look to the FICAM Architecture as a guide to help them establish a baseline understanding of the Federal approach to ICAM and as a tool to help them improve their ICAM implementations.  
-
-#### What is this site, and where do I go from here?
-
-This site has two purposes:
-
-*  To provide an authoritative location where anyone can access the most up-to-date version of the FICAM Architecture, and 
-*  To serve as a collaborative space where subject matter experts and members of the ICAM Community can work to revise and refine the Architecture over time. 
-
-If you are new to the FICAM Architecture, it is a good idea to start at the top of the menu on the left with the Conceptual Diagram and work downwards through the various elements of the Architecture.
-
-If you’re looking to contribute a new idea or suggest a revision to the existing Architecture documents, click the “Contribute” tab at the bottom left to learn how.  	
 

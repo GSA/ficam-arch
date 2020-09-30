@@ -5,17 +5,15 @@ collection: usecases
 permalink: /usecases/
 ---
 
-| **Description** |User stories that provide a high level view of ICAM business processes.
-| **Audience** |ICAM Enterprise Architects; Business line and/or unit managers</|
+These use cases are designed for ICAM Enterprise Architects and business owners, and describe some of the most common ICAM business processes.
 
+Each use case includes a high-level summary of the scenario, individuals and systems involved in the use case, illustrations that show the required steps to achieve the end goal, and an icon that indicates the practice area and the service with which the use case most closely aligns.
 
-The diagram below is intended to provide an overview of ICAM business processes and help you navigate the use cases found on subsequent pages. The diagram splits into two main processes - those for users whose information is stored by the agency, such as for its employees and contractors, and those whose information is managed externally and is leveraged through a federated process. At the bottom of the page is a list of common business processes, or use cases, encountered in the ICAM environment. Although the diagram shows the processes in a left-to-right, linear way, the important aspect is that the processes performed in one area are leveraged and built upon in the others. Each node of the diagram ties to one of the use cases listed below. 
+For details about ICAM services, see the [Services Framework](../services).
 
-![Business process diagram]({{site.baseurl}}/img/BusinessProcessDiagram.png)
+While each use case describes a particular ICAM business process, the use cases are all interrelated. The use cases generalize the activities and technologies to make sure they apply across many agencies. The use cases don’t include agency-specific functions and process details because your agency should analyze your systems and processes to align with these broad use cases.
 
-Each use case includes a high level summary of the scenario, illustrations that depict the required steps to achieve the end goal, conditions that should be met before and as a result of the use case, individuals and systems involved in the use case, and an indication of the high-level area (Identity, Credential, or Access Management) and specific service with which the use case most closely aligns.
-
-While each use case describes a particular ICAM business process, the use cases are highly interrelated. The activities and technologies represented in the use cases have been generalized to maximize applicability across agencies. Many lower level functions and process details that may be more agency-specific are not addressed in this architecture, as agencies are expected to perform a separate analysis on their systems and processes to achieve the appropriate alignment with the broader use cases. The ICAM use cases can be interwoven or built upon to support specific agency use case scenarios.
+You can combine or build upon the ICAM use cases to support your agency’s scenarios and needs.
 
 #### List of FICAM Use Cases
 <div id="home">
@@ -29,7 +27,3 @@ While each use case describes a particular ICAM business process, the use cases 
     {% endfor %}
   </ul>
 </div>
-
-#### Background & Key Revisions
-To simplify the Version 2.0 Roadmap use cases, an emphasis has been placed on graphics, rather than long, descriptive text. Focus has also been shifted from current state processes to the target-state environment. The scope of the use cases has been limited by removing those that were out of scope, combining similar concepts, and adding or expanding cases to cover gaps, such as federation, common access models, and process differences related to LOA.
-

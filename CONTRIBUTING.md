@@ -10,11 +10,13 @@ We encourage you to read our [LICENSE](LICENSE.md) and our [README](README.md), 
 
 ###  General Practices
 
-This content is Vendor neutral. Marketing materials for Commercial Products should not be submitted. If you would like to contribute a page or content which includes Commercial Products and specific references for development and engineering, please review the Commercial Product trademark or copyright guides from the Product Vendor and reference those guides in your Pull Request.
+This content is Vendor neutral. Marketing materials for Commercial Products should not be submitted. 
+
+If you attempt to contribute a page or content which includes Commercial Products and specific references, please review the Commercial Product trademark or copyright guides from the Product Vendor and reference those in your Pull Request. 
 
 ### Plain Language
 
-Contributors should consider the audience when submitting content. Plain language benefits a broad audience. Review your proposed content for use of acronyms and specialized jargon before submitting.
+Contributors should consider the audience when submitting content. Plain language benefits a broad government audience. Review your proposed content for use of acronyms and specialized jargon, and for IT Accessibility, before submitting.
 
 ### How to Contribute
 

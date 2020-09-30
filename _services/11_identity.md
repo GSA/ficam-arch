@@ -4,78 +4,68 @@ title: Identity Management
 collection: services
 permalink: services/identity/
 ---
-![Identity Service Diagram - Overview of diagram follows in text below.]({{site.baseurl}}/img/Identity.png){:align="right"}
+![A red box with the list of Identity Management services defined later in the body text of this page.]({{site.baseurl}}/img/services/IdentityManagementServices.png){:align="right" style="padding-left:30px"}
 
-Identity Management is the set of practices that allow an
-organization to establish, maintain, and terminate identities.
+Identity Management is how an agency uses attributes to establish and maintain enterprise identities for employees and contractors.
 
-An **IDENTITY** is the set of characteristics (also called
-“attributes”) that describe an individual within a given
-context:
+An enterprise identity record is the set of attributes, or characteristics, that describe a person within a given context:
 
-* Your identity within the context of the Department of
-Motor Vehicles (DMV) is different from your identity
-within the context of your bank.
-* Similarly, a person who is both a government
-contractor and an Army Reservist will have two
-identities, one in each context. These identities are
-often called “personas”.
+- Your identity within your agency’s Human Resources (HR) system is different from your personal identity at your personal bank.
+- A person’s identity as a government contractor is different from their identity as an Army Reservist.
 
-Identities change and evolve over time (you may get a
-promotion, change your hair color, or receive additional
-training) and may be terminated (you may turn in your
-driver’s license when you move to another state), but
-identities do not expire.
+Identities change and evolve over time, but they do not expire. You may get a promotion, change your name, receive additional training, or even retire, but your identity remains the same.
 
-**IDENTITY PROOFING** is the process by which an identity is
-first established. This process can be simple or complicated,
-depending on the Level of Assurance (strength) that is
-required of the identity:
+Agencies should manage identity attributes as centrally as possible and distribute them as needed. The following are some examples of identity attributes:
 
-* The process for a frequent shopper program at the
-local grocery store is weak.
+- *Core identity attributes* - First name, last name, and address of record.
+- *Contact attributes* - Physical location, government phone number, and government email address.
+- *Authorization attributes* - Clearance, training, and job codes.
 
-* The processes required by the DMV is stronger,
-typically requiring multiple forms of evidence, such as
-leases, mortgages, and utility bills.
+Identity proofing is how an agency verifies an enterprise identity. The complexity of this process depends on the Identity Assurance Level (IAL) you require for an identity. Federal agencies require a minimum IAL3 for employees and contractors. For example, a federal employee or contractor must provide core identity attributes via a driver’s license or utility bill, and the agency must verify these identity documents and the individual’s biometrics.
 
-* The process required by the Federal Government is
-stronger still.
+An identifier is a unique attribute used to locate an identity in a system:
 
-An **IDENTIFIER** is a unique attribute that can be used to
-locate a specific identity within its context:
+- While your agency may issue Personal Identification Verification (PIV) cards to multiple people named John Smith, each has a different PIV card number.
+- While your agency may have more than one employee named Jane Smith, each employee has a unique email address tied only to their identity.
 
-* While the DMV may issue many driver’s licenses bearing
-the same name (there is more than one John Smith in
-the state), each will have a different driver’s license
-number.
+## Identity Management Services
 
-### Identity Management Services
-The Identity Management services in the Federal ICAM architecture include Proofing, Creation, Maintenance, Resolution and Deactivation.
+The Identity Management services in the Federal ICAM architecture include Creation, Identity Proofing, Provisioning, Maintenance, Identity Aggregation, and Deactivation. These services are sometimes collectively known as Identity Lifecycle Management.
 
-![Identity Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/identity_services_detailed.png){:align="center"}
+![A red box with the Identity Management service definitions, which are listed in the following body text.]({{site.baseurl}}/img/services/IdentityManagementServiceDefinitions.png){:align="center"}
 
-**Identity Proofing**  
+### Creation
 
-> Verifying information to establish the identity of a person or entity.  
-_Keywords_: Source Document Validation, Remote Proofing, In-Person Proofing
+> Establish an identity made of attributes that define a person or entity.  
 
-**Creation**  
+> *Keywords*: Identity Record, Authoritative Source
 
-> Establishing a digital identity composed of attributes that define a person or entity.  
-_Keywords_: Identity Lifecycle Management, Identity Record, Authoritative Source  
+### Identity Proofing
 
-**Maintenance**  
+> Verify an identity’s attributes in order to issue a credential. 
 
-> Maintaining accurate and current attributes within an identity record over its life cycle.  
-_Keywords_: Identity Lifecycle Management, Updating, Attribute Management  
+> *Keywords*: Source Document Validation, Remote Proofing, In-Person Proofing
 
-**Identity Resolution**  
+### Provisioning
 
-> Finding and connecting disparate identity records for the same person or entity.  
-_Keywords_: Identity Reconciliation, Account Linking  
+> Create, manage, and delete accounts and entitlements. 
 
-**Deactivation**  
+> *Keywords*: Identity Lifecycle Management, Workflow, Deprovisioning, Account Management, Account Creation, Entitlements Management
 
-> Deactivating or removing an identity record.  
-_Keywords_: Identity Lifecycle Management, Suspension, Archiving, Deletion
+### Maintenance
+
+> Maintain accurate and current attributes in an identity record over its lifecycle.  
+
+> *Keywords*: Identity Lifecycle Management, Updating, Attribute Management
+
+### Identity Aggregation
+
+> Find and connect disparate identity records for the same person or entity.  
+
+> *Keywords*: Identity Reconciliation, Identity Resolution, Account Linking
+
+### Deactivation
+
+> Deactivate or remove identity records.  
+
+> *Keywords*: Identity Lifecycle Management, Suspension, Archiving, Deletion
