@@ -43,7 +43,7 @@ td {
   </tr>
   <tr>
     <td style="width:250px;border:0px;"><strong>4. Process the access information</strong> <br> <img src="../../img/usecases/7-4.png" width="250" alt="4. Process the access information"></td>
-    <td style="border:0px;">The ACS compares the employee or contractor’s access entitlements to the protected resource’s access requirements to determine Authorization.</td>
+    <td style="border:0px;">The ACS compares the employee or contractor’s access entitlements to the protected resource’s access requirements to decide whether to authorize access.</td>
   </tr>
   <tr>
     <td style="width:250px;border:0px;"><strong>5. Grant access</strong> <br> <img src="../../img/usecases/7-5.png" width="250" alt="5. Grant access"></td>
