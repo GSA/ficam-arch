@@ -3,37 +3,28 @@ layout: default
 title: Goals and Objectives
 permalink: /goals/
 ---
-| **Description** | Establishes and bounds the strategy driving ICAM implementation. |
-| **Audience** | Senior government leaders, agency executives, ICAM program leadership responsible for setting program strategy. |
+These Goals and Objectives identify the aims and outcomes of a Federal agency enterprise ICAM program.  The goals and objectives are for ICAM functions and map to government-wide policies, cross-agency priorities, and strategic government initiatives.  
 
-The FICAM Goals & Objectives identify the aims and outcomes that all Federal agency ICAM programs should contribute toward.  
+The goals are aspirational statements designed for senior government leaders, agency executives, and agency ICAM program leadership responsible for setting program strategy.  The objectives are action areas where agency execution strategies, action plans and performance metrics can be developed based on alignment with the mission needs.    
 
-The visual includes four Goals, each with its own Objectives. The Goals are broad, aspirational statements, whereas the Objectives are the more concrete actions that should be taken to meet those Goals.  
+The visual includes three goals, each with its own objectives. 
 
-![Goals and Objectives]({{site.baseurl}}/img/GoalsObjectives.png)
+![Three boxes that define the goals and their corresponding objectives.]({{site.baseurl}}/img/GoalsAndObjectives.png)
 
 
-#### Goal 1: Strengthen the Federal Government’s information and physical security.
-* 1.1 - Ensure that only authorized users can access protected resources
-* 1.2 - Enable agencies to establish and manage proven, trusted identities for all system users
-* 1.3 - Support the adoption and use of credentials that provide an efficient, secure means of accessing resources
-* 1.4 - Monitor user behavior and system security though diagnostics, analytics, and reporting
+**Goal 1: Modernize security policies and solutions to make risk-based decisions, automate identity and access management processes, and move access protections closer to government data.**
+- 1.1 - Review, update, and maintain comprehensive ICAM policies and technology solution roadmaps to inform and enforce enterprise strategic planning, risk management, and modernization.
+- 1.2 - Adopt and use cloud-ready systems that provide an efficient and secure way to access resources.
+- 1.3 - Monitor and respond to user behavior and events by using data as a strategic asset to make adaptive and risk-based decisions.
 
-#### Goal 2: Enable information sharing and safeguarding within the Federal government and with external partners.
-* 2.1 - Automate information discovery and access across the Federal Government in all security domains
-* 2.2 - Facilitate external partnerships by aligning ICAM business processes and technical interfaces with partner's best practices
-* 2.3 - Enable interoperability by standardizing information sharing agreements and establishing a common ICAM data architecture across government
+**Goal 2:  Enable missions to efficiently  deliver services to federal and contractor employees and resources.**
+- 2.1 - Establish and manage identities for all enterprise users and resources.
+- 2.2 - Design enterprise solutions to manage access to information and resources.
+- 2.3 - Utilize enterprise identity information discovery and enterprise centralized access management.
+- 2.4 - Leverage federated solutions to accept identity and authentication assertions made by other agency and mission partners when efficient.
 
-#### Goal 3: Enable agencies to securely deliver mission services to customers.
-* 3.1 - Design systems to allow customers frictionless access to information and resources
-* 3.2 - Foster trust by building protections for privacy and civil liberties into business processes and technical solutions
-
-#### Goal 4: Support Federal Government efficiency in information technology.
-* 4.1 - Streamline ICAM governance and program management within each agency or department
-* 4.2 - Standardize and automate ICAM business processes across the Federal Government
-* 4.3 - Establish shared service platforms and reuse or repurpose existing hardware and infrastructure when possible
-
-### Background & Key Revisions
-
-The updated Goals & Objectives are to convey not just general cybersecurity goals but how ICAM contributes to that goal’s success. The language was also revised to reflect that ICAM Goals accomplish high level aspirations of the Federal Government, whereas Objectives discuss actionable ways to achieve those goals. Lastly, the ‘compliance’-focused goal has been removed in favor of showing throughout the document how ICAM inherently contributes to Federal compliance.  
+**Goal 3:  Provide enterprise-level solutions within agencies to improve operations and promote cost-effective and efficient use of resources.**
+- 3.1 - Streamline ICAM governance and program management within each agency to optimize execution, ensure consistency, and align intent across the enterprise.
+- 3.2 - Evaluate, rationalize, and migrate to modern, cloud-smart solutions for ICAM services. 
+- 3.3 - Promote interoperability and efficiency across the federal government by buying and building ICAM solutions that use open, commercially-adopted standards.  
 
