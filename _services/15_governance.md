@@ -5,7 +5,7 @@ collection: services
 permalink: services/governance/
 ---
 
-![Governance Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/GovernanceServices.png){:align="right" style="padding-left:30px"}
+![A navy box with the list of Governance services defined later in the body text of this page.]({{site.baseurl}}/img/services/GovernanceServices.png){:align="right" style="padding-left:30px"}
 
 Governance is the set of practices and systems that guides ICAM functions, activities, and outcomes.
 
@@ -19,7 +19,7 @@ If your agency identifies problems during data collection and analysis, you shou
 
 The Governance services in the Federal ICAM architecture include Identity Governance, Analytics, and Mitigation.
 
-![Governance Services - Definitions follow in text below.]({{site.baseurl}}/img/services/GovernanceServiceDefinitions.png){:align="center"}
+![A navy box with the Governance service definitions, which are listed in the following body text.]({{site.baseurl}}/img/services/GovernanceServiceDefinitions.png){:align="center"}
 
 ### Identity Governance
 
