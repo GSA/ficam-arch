@@ -23,7 +23,7 @@ For more information about identity proofing and IALs, see <a href="https://page
 
 In this use case, an administrator needs to collect or manage identity data for an employee or contractor for the purpose of creating an enterprise identity record and maintaining it throughout its lifecycle.
 
-![Icon Key for Use Case Images]({{site.baseurl}}/img/usecases/2-IconKey.png)
+![Icon Key for the diagrams that follow.]({{site.baseurl}}/img/usecases/2-IconKey.png)
 
 <style>
 
