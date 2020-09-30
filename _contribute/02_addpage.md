@@ -21,13 +21,13 @@ To add a page and open a pull request, you must first [create a GitHub account](
 
 4. Navigate to the ficam-arch/pages folder, and in the upper right corner, click the **Create new file** button.
 
-	![Create new file]({{site.baseurl}}/img/CreateNewFile.png)
+	![Create new file]({{site.baseurl}}/img/contribute/CreateNewFile.png)
 	
 5. At the top of the screen, enter a name for your new page with the extension **.md**.
 
 	The **.md** extension identifies a markdown file.
 	
-	![Name new file]({{site.baseurl}}/img/NameNewFile.png)
+	![Name new file]({{site.baseurl}}/img/contribute/NameNewFile.png)
 	
 6. In the body of the file, paste the content that you copied in step 3.
 
@@ -37,7 +37,7 @@ To add a page and open a pull request, you must first [create a GitHub account](
 
 1. Scroll to the **Commit new file** box.
 
-	![Commit new file]({{site.baseurl}}/img/CommitNewFile.png)
+	![Commit new file]({{site.baseurl}}/img/contribute/CommitNewFile.png)
 
 2. Enter a name and description for your new page.
 
@@ -49,7 +49,7 @@ To add a page and open a pull request, you must first [create a GitHub account](
 
 	The **Open a pull request** page appears.
 	
-	![Open pull request]({{site.baseurl}}/img/OpenPullRequest.png)
+	![Open pull request]({{site.baseurl}}/img/contribute/OpenPullRequest.png)
 	
 5. If there is a corresponding issue that identifies a need for this page, include the issue number in the description.
 
