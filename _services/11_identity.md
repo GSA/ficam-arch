@@ -4,7 +4,7 @@ title: Identity Management
 collection: services
 permalink: services/identity/
 ---
-![Identity Management Services - Overview of diagram follows in text below.]({{site.baseurl}}/img/services/IdentityManagementServices.png){:align="right" style="padding-left:30px"}
+![A red box with the list of Identity Management services defined later in the body text of this page.]({{site.baseurl}}/img/services/IdentityManagementServices.png){:align="right" style="padding-left:30px"}
 
 Identity Management is how an agency uses attributes to establish and maintain enterprise identities for employees and contractors.
 
@@ -32,7 +32,7 @@ An identifier is a unique attribute used to locate an identity in a system:
 
 The Identity Management services in the Federal ICAM architecture include Creation, Identity Proofing, Provisioning, Maintenance, Identity Aggregation, and Deactivation. These services are sometimes collectively known as Identity Lifecycle Management.
 
-![Identity Management Services - Definitions follow in text below.]({{site.baseurl}}/img/services/IdentityManagementServiceDefinitions.png){:align="center"}
+![A red box with the Identity Management service definitions, which are listed in the following body text.]({{site.baseurl}}/img/services/IdentityManagementServiceDefinitions.png){:align="center"}
 
 ### Creation
 
