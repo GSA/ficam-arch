@@ -1490,9 +1490,25 @@ ul, ol {
 h1 + ul, h1 + ol, h2 + ul, h2 + ol, h3 + ul, h3 + ol, h4 + ul, h4 + ol, h5 + ul, h5 + ol, h6 + ul, h6 + ol, p + ul, p + ol {
   margin-top: 0; }
 
+h2:before {
+content: "";
+display: block;
+padding-top: 125px;
+margin-top: -100px;
+
+}
+
+h3:before {
+content: "";
+display: block;
+padding-top: 125px;
+margin-top: -100px;
+
+}
+  
 ul, ol {
   list-style: none;
-  /* padding-left: 0; JP/LL 2-17-2017 */
+  /* padding-left: 0; JP 2-6-2017 */
   margin: 0;
   margin-bottom: 1em;
   display: table; }
@@ -1507,6 +1523,9 @@ ul li {
     content: "\2022";
     display: table-cell;
     padding-right: 0.4em; }
+
+  ul.checkmark {
+    content: "\2660"; }
 
 ol li {
   counter-increment: table-ol;
@@ -1606,7 +1625,8 @@ h1 {
 h2 {
   font-size: 3rem;
   font-weight: 700;
-  margin: 0; }
+  margin: 0;
+}
 
 h3 {
   font-size: 2rem;
@@ -1812,21 +1832,33 @@ p a,
 
 .usa-alert-success {
   background-color: #e7f4e4;
+  padding-bottom: .5em;
+  padding-top: .5em;
+  background-position-y: .35em;
   background-image: url("../img/alerts/success.png");
   background-image: url("../img/alerts/success.svg"); }
 
 .usa-alert-warning {
   background-color: #fff1d2;
+  padding-bottom: .5em;
+  padding-top: .5em;
+  background-position-y: .35em;
   background-image: url("../img/alerts/warning.png");
   background-image: url("../img/alerts/warning.svg"); }
 
 .usa-alert-error {
   background-color: #f9dede;
+  padding-bottom: .5em;
+  padding-top: .5em;
+  background-position-y: .35em;
   background-image: url("../img/alerts/error.png");
   background-image: url("../img/alerts/error.svg"); }
 
 .usa-alert-info {
   background-color: #e1f3f8;
+  padding-bottom: .5em;
+  padding-top: .5em;
+  background-position-y: .35em;
   background-image: url("../img/alerts/info.png");
   background-image: url("../img/alerts/info.svg"); }
 
@@ -2794,7 +2826,7 @@ fieldset {
 
 .sidenav {
   position: fixed; 
-  top: 11rem;
+  top: 7rem;
   bottom: 0;
   left: 0;
   width: 250px;
