@@ -52,32 +52,32 @@ Agencies implement ICAM services and solutions to unify their IT services, impro
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-yj5y" colspan="2" scope="colgroup"><span style="font-weight:bold">ICAM Practice Areas</span></th>
+    <th class="tg-yj5y" colspan="2" scope="col"><span style="font-weight:bold">ICAM Practice Areas</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" scope="row"><img src="img/ICAM-Identity.png" alt="Three hexagons with the letters I, C, and A. The I is highlighted in red for Identity Management." width="125"><br></td>
+    <td class="tg-0pky"><th scope="row"><img src="img/ICAM-Identity.png" alt="Three hexagons with the letters I, C, and A. The I is highlighted in red for Identity Management." width="125"><br></td>
     <td class="tg-0pky" scope="row"><span style="font-weight:bold">Identity Management</span> is how an agency uses attributes to establish and maintain enterprise identities for employees and contractors.</td>
   </tr>
   <tr>
-    <td class="tg-0pky" scope="row"><img src="img/ICAM-Credential.png" alt="Three hexagons with the letters I, C, and A. The C is highlighted in green for Credential Management." width="125"><br></td>
-    <td class="tg-0pky" scope="row"><span style="font-weight:bold">Credential Management</span> is how an agency issues, manages, and revokes credentials bound to enterprise identities.</td>
+    <td class="tg-0pky"><th scope="row"><img src="img/ICAM-Credential.png" alt="Three hexagons with the letters I, C, and A. The C is highlighted in green for Credential Management." width="125"><br></td>
+    <td class="tg-0pky"><th scope="row"><span style="font-weight:bold">Credential Management</span> is how an agency issues, manages, and revokes credentials bound to enterprise identities.</td>
   </tr>
   <tr>
-    <td class="tg-0pky" scope="row"><img src="img/ICAM-Access.png" alt="Three hexagons with the letters I, C, and A. The A is highlighted in blue, for Access Management." width="125"><br></td>
-    <td class="tg-0pky" scope="row"><span style="font-weight:bold">Access Management</span> is how an agency authenticates enterprise identities and authorizes appropriate access to protected services.</td>
+    <td class="tg-0pky"><th scope="row"><img src="img/ICAM-Access.png" alt="Three hexagons with the letters I, C, and A. The A is highlighted in blue, for Access Management." width="125"><br></td>
+    <td class="tg-0pky"><th scope="row"><span style="font-weight:bold">Access Management</span> is how an agency authenticates enterprise identities and authorizes appropriate access to protected services.</td>
   </tr>
   <tr>
-    <td class="tg-yj5y" colspan="2" scope="colgroup"><span style="font-weight:bold">ICAM Supporting Elements</span></td>
+    <td class="tg-yj5y" colspan="2" scope="col"><span style="font-weight:bold">ICAM Supporting Elements</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky" scope="row"><img src="img/ICAM-Federation.png" alt="Three hexagons with the letters I in red, C in green, and A in blue, with a gray banner for Federation." width="125"><br></td>
-    <td class="tg-0pky" scope="row"><span style="font-weight:bold">Federation</span> is the technology, policies, standards, and processes that allow an agency to accept digital identities, attributes, and credentials managed by other agencies.</td>
+    <td class="tg-0pky"><th scope="row"><img src="img/ICAM-Federation.png" alt="Three hexagons with the letters I in red, C in green, and A in blue, with a gray banner for Federation." width="125"><br></td>
+    <td class="tg-0pky"><th scope="row"><span style="font-weight:bold">Federation</span> is the technology, policies, standards, and processes that allow an agency to accept digital identities, attributes, and credentials managed by other agencies.</td>
   </tr>
   <tr>
-    <td class="tg-0pky" scope="row"><img src="img/ICAM-Governance.png" alt="Three hexagons with the letters I in red, C in green, and A in blue, with a navy banner for Governance." width="125"><br></td>
-    <td class="tg-0pky" scope="row"><span style="font-weight:bold">Governance</span> is the set of practices and systems that guides ICAM functions, activities, and outcomes.</td>
+    <td class="tg-0pky"><th scope="row"><img src="img/ICAM-Governance.png" alt="Three hexagons with the letters I in red, C in green, and A in blue, with a navy banner for Governance." width="125"><br></td>
+    <td class="tg-0pky"><th scope="row"><span style="font-weight:bold">Governance</span> is the set of practices and systems that guides ICAM functions, activities, and outcomes.</td>
   </tr>
 </tbody>
 </table>
