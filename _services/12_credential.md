@@ -49,7 +49,7 @@ The Credential Management services in the Federal ICAM architecture include Spon
 
 > Assign a credential to a person or entity.
 
-> *Keywords*: Activation, Token
+> *Keywords*: Activation, Token, Authenticator
 
 ### Maintenance
 
