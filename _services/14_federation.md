@@ -40,4 +40,4 @@ The Federation services in the Federal ICAM architecture include Policy Alignmen
 
 > Discover and acquire identity or other attributes between different systems to promote access decisions and interoperability.
 
-> *Keywords*: Attribute Definition, ARS
+> *Keywords*: Attribute Definition
