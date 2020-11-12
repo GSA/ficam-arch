@@ -61,4 +61,4 @@ The Credential Management services in the Federal ICAM architecture include Spon
 
 > Withdraw a credential from a person or entity, or deactivate an authenticator.
 
-> *Keywords*: Termination
+> *Keyword*: Termination
