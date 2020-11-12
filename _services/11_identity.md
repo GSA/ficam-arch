@@ -42,7 +42,7 @@ The Identity Management services in the Federal ICAM architecture include Creati
 
 ### Identity Proofing
 
-> Verify an identity’s attributes in order to issue a credential. 
+> Use identity attributes to connect a digital identity to a real-world entity.
 
 > *Keywords*: Source Document Validation, Remote Proofing, In-Person Proofing
 
