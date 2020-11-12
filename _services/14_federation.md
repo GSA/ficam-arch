@@ -28,7 +28,7 @@ The Federation services in the Federal ICAM architecture include Policy Alignmen
 
 > Develop relationships and a common understanding between parties by establishing authorities, policies, standards, and principles.
 
-> *Keywords*: Trust Relationship
+> *Keyword*: Trust Relationship
 
 ### Authentication Broker
 
@@ -40,4 +40,4 @@ The Federation services in the Federal ICAM architecture include Policy Alignmen
 
 > Discover and acquire identity or other attributes between different systems to promote access decisions and interoperability.
 
-> *Keywords*: Attribute Definition
+> *Keyword*: Attribute Definition
