@@ -46,7 +46,7 @@ The Access Management services in the Federal ICAM architecture include Policy A
 
 ![A blue box with the Access Management service definitions, which are listed in the following body text.]({{site.baseurl}}/img/services/AccessManagementServiceDefinitions.png){:align="center"}
 
-### Policy Administration
+### Digital Policy Administration
 
 > Create and maintain the technical access requirements that govern access to protected agency services.
 
