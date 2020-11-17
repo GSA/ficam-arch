@@ -80,7 +80,7 @@ navigation:
   internal: true
   coll: true
   collname: usecases
-- text: Component Examples
+- text: System Component Examples
   url: components
   internal: true
   coll: false
