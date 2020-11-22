@@ -26,7 +26,10 @@ Authentication is generally a two-step process:
 - Has the credential expired?
 - Has the credential been revoked, voided, or tampered?
 
-> *Step 2.* Use an authenticator mentioned in Credential Management to validate the credential holder.
+> *Step 2.* Ensure the individual that the credential was issued to is the same individual that is presenting it:
+- Do the photo and attributes on the credential match the person who presented it?
+- Does the person know the PIN for the credential?
+- Does the person have the private key on the smart card for the certificate presented to a website?
 
 ### Authorization
 
@@ -37,6 +40,15 @@ Authorization is how you decide whether you should allow someone to access an ag
 - Enter an agency facility or location.
 
 Usually, authorization occurs immediately after authentication. When you log in to a service, you present your credentials, and the service confirms your credentials are valid (authentication) and grants or denies you access based on your assigned permissions (authorization).
+
+Authorizations are based on four models:
+
+- Access Control Lists (ACLs)
+- Role-Based Access Control (RBAC)
+- Policy-Based Access Control (PBAC)
+- Attribute-Based Access Control (ABAC)
+
+Each of these authorization models has benefits and limitations. The policies and access requirements defined by agency business owners help inform the model used to best suit their needs. More robust access control models, such as ABAC, can help agencies with improved automation and are increasingly adopted by cloud-native and cloud-friendly services.
 
 Identity proofing is how you establish an identity. Authentication is how you confirm the identity. Authorization is how you use the identity.
 
