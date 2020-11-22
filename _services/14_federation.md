@@ -9,15 +9,13 @@ permalink: services/federation/
 
 Federation is the technology, policies, standards, and processes that allow an agency to accept digital identities, attributes, and credentials managed by other agencies.
 
-Federation has many different applications, including:
+Federation has many different uses, including:
 
-*Accepting an authentication transaction from another organization:*
+- Accepting an authentication transaction from another organization:
+  - Agency A authenticates one of its users and passes identity attributes and transaction details to Agency B. Agency B grants access to an application        for that identity.
 
-> Agency A authenticates one of its users and passes identity attributes and transaction details to Agency B. Agency B grants access to an application for that identity.
-
-*Accepting specific characteristics (i.e., attributes such as identifiers) describing an individual from another organization:*
-
-> An individual can use their agency-issued credential containing an internal identifier(s) to directly log in to a different agency’s online service. The online service registers the identifier(s) in their system for future use.
+- Accepting specific characteristics (i.e., attributes such as identifiers) describing an individual from another organization:
+  - An individual can use their agency-issued credential containing an internal identifier(s) to directly log in to a different agency’s online service. The    online service registers the identifier(s) in their system for future use.
 
 ## Federation Services
 The Federation services in the Federal ICAM architecture include Policy Alignment, Authentication Broker, and Attribute Exchange.
