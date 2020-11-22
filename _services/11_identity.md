@@ -6,7 +6,7 @@ permalink: services/identity/
 ---
 ![A red box with the list of Identity Management services defined later in the body text of this page.]({{site.baseurl}}/img/services/IdentityManagementServices.png){:align="right" style="padding-left:30px"}
 
-Identity Management is how an agency collects, verifies, and manages attributes to establish and maintain enterprise identities for employees and contractors.
+Identity Management is how an agency collects, verifies, and manages attributes to establish and maintain enterprise identities for federal government employees, contractors, and authorized mission partners. This service does not apply to public or consumer identity management.
 
 An enterprise identity record is the set of attributes, or characteristics, that describe a person within a given context:
 
@@ -66,6 +66,6 @@ The Identity Management services in the Federal ICAM architecture include Creati
 
 ### Deactivation
 
-> Deactivate or remove identity records.  
+> Deactivate or remove enterprise identity records, and sync that data with credential service providers. 
 
 > *Keywords*: Identity Lifecycle Management, Suspension, Archiving, Deletion
