@@ -25,7 +25,7 @@ The Governance services in the Federal ICAM architecture include Identity Govern
 
 > The systems, solutions, and rules that link enterprise personnel, applications, and data to help agencies manage access and risk.
 
-> *Keywords*: Management Framework, Rules and Procedures
+> *Keywords*: Management Framework, Rules and Procedures, Access Recertification
 
 ### Analytics
 
