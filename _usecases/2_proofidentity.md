@@ -16,7 +16,7 @@ This use case describes the high-level steps to proof an identity at IAL2 or IAL
 - **IAL2** - first and last name, email address, and address of record, supported by appropriate identity documentation and verified as strong.
 - **IAL3** - first and last name, email address, address of record, and fingerprints, supported by appropriate identity documentation and verified as superior.
 
-For more information about identity proofing and IALs, see <a href="https://pages.nist.gov/800-63-3/" target="_blank">NIST SP 800-63-A</a> (Table 4-1).
+For more information about identity proofing and IALs, see <a href="https://pages.nist.gov/800-63-3/" target="_blank">NIST SP 800-63-A</a> (Section 2.2).
 
 ---
 
