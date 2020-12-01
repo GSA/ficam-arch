@@ -72,6 +72,8 @@ Each section of this page lists documents in reverse chronological order, with t
 > HSPD-12 calls for a mandatory, government-wide standard for secure and reliable forms of identification issued by the Federal Government to its employees and employees of federal contractors for access to federally-controlled facilities and networks.
 
 ## Standards
+<a href="https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final" target="_blank">**NIST SP 800-53 Rev. 5: Security and Privacy Controls for Federal Information Systems and Organizations**</a> (PDF, September 2020)<br/>
+> This guideline provides a catalog of security and privacy controls for federal information systems and organizations and a process for selecting controls to protect organizational operations, assets, individuals, other organizations, and the Nation from a diverse set of threats.
 
 <a href="https://csrc.nist.gov/publications/detail/sp/800-63/3/final" target="_blank">**NIST SP 800-63-3: Digital Identity Guidelines**</a> (June 2017)<br/>
 > Agencies use these guidelines as part of the risk assessment and implementation of their digital service(s). These guidelines provide mitigations for an authentication error’s negative impacts by separating the individual elements of identity assurance into its component parts. 
@@ -99,12 +101,6 @@ Each section of this page lists documents in reverse chronological order, with t
 
 <a href="https://csrc.nist.gov/publications/detail/sp/800-79/2/final" target="_blank">**NIST SP 800-79-2: Guidelines for the Authorization of PIV Card Issuers (PCI) and Derived PIV Credential Issuers (DPCI)**</a> (PDF, July 2015)<br/>
 > The guideline specifies the assessment for the reliability of issuers of PIV credentials and Derived PIV credentials. The reliability of an issuer is of utmost importance when a federal agency is required to trust the identity credentials of individuals that were created and issued by another federal agency.
-
-<a href="https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final" target="_blank">**NIST SP 800-53 Rev. 5: Security and Privacy Controls for Federal Information Systems and Organizations**</a> (PDF, September 2020)<br/>
-> This guideline provides a catalog of security and privacy controls for federal information systems and organizations and a process for selecting controls to protect organizational operations, assets, individuals, other organizations, and the Nation from a diverse set of threats.
-
-<a href="https://csrc.nist.gov/publications/detail/sp/800-53a/rev-4/final" target="_blank">**NIST SP 800-53A Rev. 4: Assessing Security and Privacy Controls in Federal Information Systems and Organizations - Building Effective Security Assessment Plans**</a> (PDF, December 2014)<br/>
-> This guideline provides a set of procedures for conducting assessments of security controls and privacy controls employed within federal information systems and organizations. The assessment procedures, executed at various phases of the system development life cycle, are consistent with the security and privacy controls in NIST SP 800-53, Revision 4.
 
 <a href="https://csrc.nist.gov/publications/detail/sp/800-157/final" target="_blank">**NIST SP 800-157: Guidelines for Derived PIV Credentials**</a> (PDF, December 2014)<br/>
 > This guideline provides technical instructions for the implementation of standards-based, secure, reliable, interoperable public key infrastructure (PKI) based identity credentials that are issued by federal departments and agencies to individuals who possess and prove control over a valid PIV credential.
@@ -152,3 +148,6 @@ Each section of this page lists documents in reverse chronological order, with t
 
 <a href="https://csrc.nist.gov/publications/detail/white-paper/2016/04/21/best-practices-for-privileged-user-piv-authentication/final" target="_blank">**NIST White Paper: Best Practices for Privileged User PIV Authentication**</a> (PDF, April 2016)<br/>
 > This white paper was developed in response to the Cybersecurity Strategy and Implementation Plan to explain the need for multi-factor PIV-based user authentication for privileged users. It provides best practices for agencies implementing PIV authentication for privileged users.
+
+<a href="" target="_blank">**Identity and Access Management Maturity Model**</a> (PDF, March 2015)<br/>
+> This sample maturity model was developed by the Program Office for Information Sharing Environments (PM-ISE) in 2015.  This maturity model is a sample only and updates are encouraged.  Maturity models like this can be used to help inform activities and priorities for ICAM initiatives, develop metrics for programs, and communicate current state and target state optimizations for enterprise policies, governance and operations.  
