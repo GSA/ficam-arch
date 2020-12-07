@@ -45,7 +45,7 @@ td {
   </tr>
   <tr>
     <td style="width:250px;border:0px;"><strong>3b. Update the enterprise identity</strong> <br> <img src="../../img/usecases/1-3b.png" width="250" alt="A diagram showing two paths to update an identity. Path 1 is the administrator updating the enterprise identity directly in the authoritative source. Path 2 is the employee or contractor updating their personal information in an agency application, and the application updating the enterprise identity in the authoritative source."></td>
-    <td style="border:0px;">If an individual has updated personal information, there are two ways to update the enterprise identity: <br> <br> <ol> <li> The administrator updates the individual’s enterprise identity attributes directly in the authoritative sources.</li> <li>The individual uses an agency application to update their personal information, and the application updates the individual’s enterprise identity attributes in the authoritative sources.</li></ol></td>
+    <td style="border:0px;">If an individual has updated personal information, there are two ways to update the enterprise identity: <br> <br> <ul> <li> The administrator updates the individual’s enterprise identity attributes directly in the authoritative sources.</li> <li>The individual uses an agency application to update their personal information, and the application updates the individual’s enterprise identity attributes in the authoritative sources.</li></ul></td>
   </tr>
   <tr>
     <td style="width:250px;border:0px;"><strong>3c. Delete the enterprise identity</strong> <br> <img src="../../img/usecases/1-3c.png" width="250" alt="A diagram showing an administrator deleting an enterprise identity."></td>
@@ -53,12 +53,9 @@ td {
   </tr>
 </table>
 
-
-
-
 ## Example
 
-I want to create a new enterprise identity, so that an individual may be established as a federal employee or contractor that will need to be identity proofed, credentialed, and granted access to agency services.
+I want to create a new enterprise identity, so that an individual may be established as a federal employee or contractor who will need to be identity proofed, credentialed, and granted access to agency services.
 
 ## Next Steps
 
