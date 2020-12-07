@@ -12,7 +12,7 @@ The following figure is an examples for a small selection of components only.  Y
 ![A diagram that shows example components for each service area, and relationships between practice areas.]({{site.baseurl}}/img/ComponentExamples.png)
 
 ## Authoritative Sources
-An authoritative source is a repository of identity attribute data.  It’s possible to have multiple authoritative sources for attributes.
+An authoritative source is a trusted repository of identity attribute data.  It’s possible to have multiple authoritative sources for attributes.
 
 Authoritative source components may include:
 
