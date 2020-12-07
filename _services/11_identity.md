@@ -10,7 +10,7 @@ Identity Management is how an agency collects, verifies, and manages attributes 
 
 An enterprise identity record is the set of attributes, or characteristics, that describe a person within a given context:
 
-- Your identity within your agency’s Human Resources (HR) system is different from your personal identity at your personal bank.
+- Your identity within your agency’s Human Resources (HR) system is different from your personal identity at your bank.
 - A person’s identity as a government contractor is different from their identity as an Army Reservist.
 
 Identities change and evolve over time, but they do not expire. You may get a promotion, change your name, receive additional training, or even retire, but your identity remains the same.
