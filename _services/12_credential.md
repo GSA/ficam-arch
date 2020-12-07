@@ -45,7 +45,7 @@ The Credential Management services in the Federal ICAM architecture include Spon
 
 > *Keyword*: Enrollment
 
-### Issuance
+### Generation & Issuance
 
 > Assign a credential to a person or entity.
 
