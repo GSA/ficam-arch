@@ -13,7 +13,7 @@ An enterprise identity record is the set of attributes, or characteristics, that
 - Your identity within your agency’s Human Resources (HR) system is different from your personal identity at your bank.
 - A person’s identity as a government contractor is different from their identity as an Army Reservist.
 
-Identities change and evolve over time, but they do not expire. You may get a promotion, change your name, receive additional training, or even retire, but your identity remains the same.
+Your identity remains the same over time, though it evolves as your attributes change, such as when you get a promotion, change your name receive additional trainting, or retire.
 
 Agencies should manage identity attributes as centrally as possible and distribute them as needed. The following are some examples of identity attributes:
 
@@ -66,6 +66,6 @@ The Identity Management services in the Federal ICAM architecture include Creati
 
 ### Deactivation
 
-> Deactivate or remove enterprise identity records, and sync that data with credential service providers. 
+> Deactivate or remove enterprise identity records. 
 
 > *Keywords*: Identity Lifecycle Management, Suspension, Archiving, Deletion
