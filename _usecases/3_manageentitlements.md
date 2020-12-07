@@ -29,7 +29,7 @@ td {
 <table>
   <tr>
     <td style="width:250px;border:0px;"><strong>1. Initiate the request</strong> <br> <img src="../../img/usecases/3-1.png" width="250" alt="A diagram showing an employee or contractor requesting entitlements from an administrator."></td>
-    <td style="border:0px;">An individual requests entitlements, or joins a team with specific access requirements.<br><br>This individual may be the employee or contractor, their supervisor, HR, or a security team member.</td>
+    <td style="border:0px;">An individual requests entitlements, or joins a team with specific access requirements.<br><br>The requestor may be the employee or contractor, their supervisor, HR, or a security team member.</td>
   </tr>
   <tr>
     <td style="width:250px;border:0px;"><strong>2. Review the request</strong> <br> <img src="../../img/usecases/3-2.png" width="250" alt="A diagram showing an administrator comparing an entitlement request with access requirements."></td>
