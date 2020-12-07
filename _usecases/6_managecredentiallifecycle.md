@@ -23,7 +23,7 @@ You should periodically review your employee or contractors’ eligibility for c
 
 ### Reset a Credential
 
-In this use case, an employee or contractor interacts with the agency services to register or request a derived credential.
+In this use case, an administrator needs to reset a password or PIN for an employee or contractor credential.
 
 <style>
 
@@ -72,7 +72,7 @@ In this use case, an administrator needs to issue a new credential to replace on
 
 ### Revoke a Credential
 
-In this use case, you are an administrator who needs to revoke an active credential.
+In this use case, an administrator needs to revoke an active credential.
 
 <table>
   <tr>
