@@ -15,7 +15,7 @@ This version of the FICAM Architecture encompasses the **enterprise** ICAM polic
 - [What is ICAM?](#what-is-icam)
 - [What is the FICAM Architecture?](#what-is-the-ficam-architecture)
 - [Who is the FICAM Architecture for?](#who-is-the-ficam-architecture-for)
-- [What is the history of the FICAM Architecture?](#what-is-the-histor-of-the-ficam-architecture)
+- [What is the history of the FICAM Architecture?](#what-is-the-history-of-the-ficam-architecture)
 
 The following diagram is a high-level view of the ICAM practice areas and supporting elements. 
 
