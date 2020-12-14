@@ -56,7 +56,3 @@ td {
 ## Example
 
 I want to create a new enterprise identity, so that an individual may be established as a federal employee or contractor who will need to be identity proofed, credentialed, and granted access to agency services.
-
-## Next Steps
-
-[Proof the identity](../proofidentity) and [assign appropriate access entitlements](../manageaccess).
