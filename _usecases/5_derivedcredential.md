@@ -48,7 +48,3 @@ td {
 
 - I want to provide an employee or contractor, who has already been issued an enterprise credential, a derived credential so that they can authenticate to enterprise applications.
 - An employee or contractor travels quite a bit as part of their job.  Accordingly, they are frequently limited to using a small tablet or their phone to stay connected while on the go. In this case, a derived credential is needed for purposes such as accessing secure agency websites or an agency VPN from their mobile device.
-
-## Next Steps
-
-[Assign access entitlements](../manageaccess) and [manage the credential](../managecredential).
