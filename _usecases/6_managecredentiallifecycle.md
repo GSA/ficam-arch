@@ -98,6 +98,3 @@ In this use case, an administrator needs to revoke an active credential.
 - *Renew* - I want to verify the identity and eligibility of an employee or contractor, with a previously issued credential that is near expiration, so that they may be issued a new enterprise credential to keep their ability to access enterprise resources.
 - *Revoke* - I want to remove access to enterprise resources for an employee or contractor, so that they can no longer use the protected resource. 
 
-## Next Steps
-
-[Manage the entitlements lifecycle](../manageaccess) of the person and credential.
