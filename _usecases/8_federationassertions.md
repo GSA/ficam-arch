@@ -54,7 +54,3 @@ td {
 
 - I want to allow other federal agencies' employees and contractors (who meet specific requirements) to access some of my agency’s resources, which facilitates cross-government collaboration and information sharing.
 - An employee or contractor from Agency A visits a shared service operated by Agency B to service all Federal government users. At the homepage, the employee/contractor selects their Agency A icon and is redirected to their Agency A SSO portal. They log in using their Agency A managed credentials and are redirected back to the Agency B shared service.
-
-## Next Steps
-
-[Authorize access to the protected resource](../grantaccess).
