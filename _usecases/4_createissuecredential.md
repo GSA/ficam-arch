@@ -48,7 +48,3 @@ td {
 ## Example
 
 I want to issue an enterprise credential, unique to an employee or contractor, so that they are able to access federal buildings and protected resources to which they require access.
-
-## Next Steps
-
-[Assign access entitlements](../manageaccess) and [maintain the credential](../managecredential).
