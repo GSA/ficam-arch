@@ -17,7 +17,7 @@ The visual includes three goals, each with its own objectives.
 - 1.2 - Adopt and use cloud-ready systems that provide an efficient and secure way to access resources.
 - 1.3 - Monitor and respond to user behavior and events by using data as a strategic asset to make adaptive and risk-based decisions.
 
-**Goal 2:  Enable missions to efficiently  deliver services to federal and contractor employees and resources.**
+**Goal 2:  Enable missions to efficiently deliver services.**
 - 2.1 - Establish and manage identities for all enterprise users and resources.
 - 2.2 - Design enterprise solutions to manage access to information and resources.
 - 2.3 - Utilize enterprise identity information discovery and enterprise centralized access management.
