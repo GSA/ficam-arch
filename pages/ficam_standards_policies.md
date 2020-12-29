@@ -137,6 +137,9 @@ Each section of this page lists documents in reverse chronological order, with t
 <a href="https://www.nist.gov/privacy-framework/new-framework" target="_blank">**NIST: Privacy Framework**</a> (PDF, January 2020)<br/>
 > The Privacy Framework is a voluntary tool intended to help organizations identify and manage privacy risk to build innovative products and services while protecting individuals’ privacy. The Privacy Framework approach to privacy risk is to consider privacy events as potential problems individuals could experience arising from system, product, or service operations with data, whether in digital or non-digital form, through a complete life cycle from data collection through disposal.
 
+<a href="https://doi.org/10.6028/NIST.IR.8112" target="_blank">**NIST IR 8112 Attribute Metadata: A Proposed Schema for Evaluating Federated Attibutes**</a> (PDF, January 2018)<br/>
+> This NIST Internal Report contains a metadata schema for attributes that may be asserted about an individual during an online transaction.
+
 <a href="https://www.nist.gov/system/files/documents/2020/07/02/SP-800-63-3-Implementation-Resources_07012020.pdf" target="_blank">**NIST SP 800-63-3 Implementation Resources**</a> (PDF, July 2020)<br/>
 > These resources are intended as informative implementation guidance for NIST SP 800-63-3. These implementation resources provide guidance for SP 800-63-3 in three parts: Part A addresses SP 800-63A, Part B addresses SP 800-63B, and Part C addresses SP 800-63C.
 
