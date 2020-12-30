@@ -4,13 +4,13 @@ title: Introduction
 permalink: /
 ---
 
-This site is the home of the Federal Identity, Credential, and Access Management (FICAM) Architecture.  These pages describes the basics of ICAM, the FICAM Architecture, and how you can use this information to facilitate enterprise ICAM practices at your agency. 
+This site is the home of the Federal Identity, Credential, and Access Management (FICAM) Architecture.  These pages describe the basics of ICAM, the FICAM Architecture, and how you can use this information to facilitate enterprise ICAM practices at your agency. 
 
 FICAM is the Federal Government’s implementation of Identity, Credential, and Access Management (ICAM).
 
 > **_ICAM_** is the set of tools, policies, and systems that an agency uses to enable the **_right individual_** to access the **_right resource_**, at the **_right time_**, for the **_right reason_** in support of **_federal business objectives_**.
 
-This version of the FICAM Architecture encompasses the **enterprise** ICAM policies, technologies and systems approaches for government employees, contractors, and authorized partners.   Citizens interactions with the federal government - or consumer ICAM -  are not covered under this version of the FICAM Architecture.
+This version of the FICAM Architecture encompasses the **enterprise** ICAM policies, technologies and system approaches for government employees, contractors, and authorized partners.   Citizen interactions with the federal government - or consumer ICAM -  are not covered under this version of the FICAM Architecture.
 
 - [What is ICAM?](#what-is-icam)
 - [What is the FICAM Architecture?](#what-is-the-ficam-architecture)
@@ -81,9 +81,9 @@ Agencies implement ICAM services and solutions to unify their IT services, impro
 ## What is the FICAM Architecture?
 FICAM is the Federal Government’s enterprise approach to design, plan, and execute common ICAM processes.
 
-The FICAM Architecture is a framework for an agency to use in ICAM program and solution roadmap planning. The FICAM Architecture focuses on enterprise identity processes, practices, policies and information security disciplines. 
+The FICAM Architecture is a framework for an agency to use in ICAM program and solution roadmap planning. The FICAM Architecture focuses on enterprise identity processes, practices, policies, and information security disciplines. 
 
->  A federal enterprise identity is the unique representation of an employee, contractor, or enterprise user, which could be a mission or business partner, or even a device or technology managed by a Federal agency to achieve its mission and business goals. [(OMB Memorandum 19-17)](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
+>  A federal enterprise identity is the unique representation of an employee, contractor, or enterprise user, which could be a mission or business partner, or even a device or technology managed by a Federal agency to achieve its mission and business goals [(OMB Memorandum 19-17)](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
 
 
 ## Who is the FICAM Architecture for?
