@@ -3,11 +3,11 @@ layout: default
 title: System Component Examples
 permalink: /components/
 ---
-Component examples include sample enterprise ICAM tools (e.g. solutions, applications, and software) aligned with ICAM service areas that illustrate ICAM functionality at an agency. The component examples are designed for enterprise architects, security engineers, and solution architects to facilitate discussions regarding the technology solutions to integrate with enterprise applications, and the business requirements.
+Component examples include sample enterprise ICAM tools (e.g., solutions, applications, and software) aligned with ICAM service areas that illustrate ICAM functionality at an agency. The component examples are designed for enterprise architects, security engineers, and solution architects to facilitate discussions regarding the technology solutions to integrate with enterprise applications, and the business requirements.
 
 The systems components are representative examples only. Some solutions chosen by your agency may span across more than one service area. 
 
-The following figure is an examples for a small selection of systems components only.  You can modify the graphic and incorporate as-is and target state system components for enterprise roadmap planning.
+The following figure is an example for a small selection of system components only.  You can modify the graphic and incorporate as-is and target state system components for enterprise roadmap planning.
 
 ![A diagram that shows example components for each service area, and relationships between practice areas.]({{site.baseurl}}/img/ComponentExamples.png)
 
