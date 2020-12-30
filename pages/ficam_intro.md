@@ -10,7 +10,7 @@ FICAM is the Federal Government’s implementation of Identity, Credential, and 
 
 > **_ICAM_** is the set of tools, policies, and systems that an agency uses to enable the **_right individual_** to access the **_right resource_**, at the **_right time_**, for the **_right reason_** in support of **_federal business objectives_**.
 
-This version of the FICAM Architecture encompasses the **enterprise** ICAM policies, technologies and systems approaches for government employees, contractors, and authorized partners.   Citizens interactions with the federal government - or consumer ICAM -  are not covered under this version of the FICAM Architecture.
+This version of the FICAM Architecture encompasses the **enterprise** ICAM policies, technologies and system approaches for government employees, contractors, and authorized partners.   Citizen interactions with the federal government - or consumer ICAM -  are not covered under this version of the FICAM Architecture.
 
 - [What is ICAM?](#what-is-icam)
 - [What is the FICAM Architecture?](#what-is-the-ficam-architecture)
