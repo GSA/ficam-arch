@@ -4,7 +4,7 @@ title: Introduction
 permalink: /
 ---
 
-This site is the home of the Federal Identity, Credential, and Access Management (FICAM) Architecture.  These pages describes the basics of ICAM, the FICAM Architecture, and how you can use this information to facilitate enterprise ICAM practices at your agency. 
+This site is the home of the Federal Identity, Credential, and Access Management (FICAM) Architecture.  These pages describe the basics of ICAM, the FICAM Architecture, and how you can use this information to facilitate enterprise ICAM practices at your agency. 
 
 FICAM is the Federal Government’s implementation of Identity, Credential, and Access Management (ICAM).
 
