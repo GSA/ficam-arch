@@ -46,7 +46,7 @@ td {
   </tr>
   <tr>
     <td style="width:250px;border:0px;"><strong>4. Agency B grants access</strong> <br> <img src="../../img/usecases/8-4.png" width="250" alt="A diagram showing Agency B access control system granting access to an employee or contractor from Agency A."></td>
-    <td style="border:0px;"> Agency B consumes the assertion data, correlating it with an established account or local identity and makes an access control decision.<br><br>The Agency B system redirects the employee or contractor to the federated service.</td>
+    <td style="border:0px;"> Agency B consumes the assertion data, optionally correlating it with an established account or local identity and makes an access control decision.<br><br>The Agency B system redirects the employee or contractor to the federated service.</td>
   </tr>
 </table>
 
@@ -54,7 +54,3 @@ td {
 
 - I want to allow other federal agencies' employees and contractors (who meet specific requirements) to access some of my agency’s resources, which facilitates cross-government collaboration and information sharing.
 - An employee or contractor from Agency A visits a shared service operated by Agency B to service all Federal government users. At the homepage, the employee/contractor selects their Agency A icon and is redirected to their Agency A SSO portal. They log in using their Agency A managed credentials and are redirected back to the Agency B shared service.
-
-## Next Steps
-
-[Authorize access to the protected resource](../grantaccess).

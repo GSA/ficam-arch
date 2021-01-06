@@ -3,9 +3,9 @@ layout: default
 title: Goals and Objectives
 permalink: /goals/
 ---
-These Goals and Objectives identify the aims and outcomes of a Federal agency enterprise ICAM program.  The goals and objectives are for ICAM functions and map to government-wide policies, cross-agency priorities, and strategic government initiatives.  
+These goals and objectives identify the aims and outcomes of a Federal agency enterprise ICAM program, specifically to map ICAM functions to government-wide policies, cross-agency priorities, and strategic government initiatives.
 
-The goals are aspirational statements designed for senior government leaders, agency executives, and agency ICAM program leadership responsible for setting program strategy.  The objectives are action areas where agency execution strategies, action plans and performance metrics can be developed based on alignment with the mission needs.    
+The goals are aspirational statements designed for senior government leaders, agency executives, and agency ICAM program leadership responsible for setting program strategy.  The objectives are action areas where agency execution strategies, action plans, and performance metrics can be developed based on alignment with the mission needs.    
 
 The visual includes three goals, each with its own objectives. 
 
@@ -17,7 +17,7 @@ The visual includes three goals, each with its own objectives.
 - 1.2 - Adopt and use cloud-ready systems that provide an efficient and secure way to access resources.
 - 1.3 - Monitor and respond to user behavior and events by using data as a strategic asset to make adaptive and risk-based decisions.
 
-**Goal 2:  Enable missions to efficiently  deliver services to federal and contractor employees and resources.**
+**Goal 2:  Enable missions to efficiently deliver services.**
 - 2.1 - Establish and manage identities for all enterprise users and resources.
 - 2.2 - Design enterprise solutions to manage access to information and resources.
 - 2.3 - Utilize enterprise identity information discovery and enterprise centralized access management.

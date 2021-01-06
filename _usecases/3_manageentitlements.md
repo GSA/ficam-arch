@@ -29,7 +29,7 @@ td {
 <table>
   <tr>
     <td style="width:250px;border:0px;"><strong>1. Initiate the request</strong> <br> <img src="../../img/usecases/3-1.png" width="250" alt="A diagram showing an employee or contractor requesting entitlements from an administrator."></td>
-    <td style="border:0px;">An individual requests entitlements, or joins a team with specific access requirements.<br><br>This individual may be the employee or contractor, their supervisor, HR, or a security team member.</td>
+    <td style="border:0px;">An individual requests entitlements, or joins a team with specific access requirements.<br><br>The requestor may be the employee or contractor, their supervisor, HR, or a security team member.</td>
   </tr>
   <tr>
     <td style="width:250px;border:0px;"><strong>2. Review the request</strong> <br> <img src="../../img/usecases/3-2.png" width="250" alt="A diagram showing an administrator comparing an entitlement request with access requirements."></td>
@@ -44,8 +44,4 @@ td {
 ## Examples
 
 - I want to indicate that an employee or contractor requires and is allowed access to an agency service, so that they can access the service when needed.
-- An employee is hired to be part of the financial review team and requires access to financial applications. The employee may have a specific role assigned to their enterprise identity record. 
-
-## Next Steps
-
-[Create and issue a credential](../credential), and [grant access to agency services](../grantaccess).
+- An employee is hired to be part of the financial review team and requires access to financial applications. The employee has a role assigned to their enterprise identity record, and associated with their identity attributes. 
