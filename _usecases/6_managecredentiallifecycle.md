@@ -97,4 +97,3 @@ In this use case, an administrator needs to revoke an active credential.
 - *Reset* - I want to verify the identity of an employee or contractor that has already been issued a credential, and reset their PIN or password so that they can continue to access enterprise resources.
 - *Renew* - I want to verify the identity and eligibility of an employee or contractor, with a previously issued credential that is near expiration, so that they may be issued a new enterprise credential to keep their ability to access enterprise resources.
 - *Revoke* - I want to remove access to enterprise resources for an employee or contractor, so that they can no longer use the protected resource. 
-
