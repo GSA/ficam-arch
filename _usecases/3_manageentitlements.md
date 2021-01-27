@@ -5,7 +5,7 @@ collection: usecases
 permalink: usecases/manageaccess/
 ---
 
-![Three hexagons with the letters I, C, and A. The I is highlighted in red for Identity Management, with a red banner for the Provisioning service. ]({{site.baseurl}}/img/usecases/Identity-Provisioning.png){:align="right" style="padding-left:15px"}
+![Three hexagons with the letters I, C, and A. The I is highlighted in orange for Identity Management, with an orange banner for the Provisioning service. ]({{site.baseurl}}/img/usecases/Identity-Provisioning.png){:align="right" style="padding-left:15px"}
 
 You can assign access entitlements to individuals, roles, and groups. These entitlements define an employee or contractor’s access to agency services, so you’ll need to assign entitlements before an employee or contractor can access an agency service.
 
