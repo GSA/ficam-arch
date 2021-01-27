@@ -11,7 +11,7 @@ You can assign access entitlements to individuals, roles, and groups. These enti
 
 ---
 
-<p style="font-size: 3rem; font-weight: 700;">Use Case</p>
+## Use Case
 
 In this use case, an administrator needs to assign entitlements to an employee or contractor.
 
