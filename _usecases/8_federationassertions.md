@@ -5,7 +5,7 @@ collection: usecases
 permalink: usecases/federate/
 ---
 
-![Three hexagons with the letters I in red, C in green, and A in blue, with a gray banner for the Attribute Exchange service in Federation.]({{site.baseurl}}/img/usecases/Federation-AttributeExchange.png){:align="right" style="padding-left:15px"}
+![Three hexagons with the letters I in orange, C in green, and A in blue, with a gray banner for the Attribute Exchange service in Federation.]({{site.baseurl}}/img/usecases/Federation-AttributeExchange.png){:align="right" style="padding-left:15px"}
 
 Federal employees and contractors often need to access protected services managed by other federal agencies. Federation is the means by which an agency can accept authentication assertions and associated identity attributes from systems within their agency and at other agencies. This allows federal employees and contractors from across agencies access protected resources and streamlines the user’s experience.
   
