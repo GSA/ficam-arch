@@ -9,7 +9,7 @@ The Services Framework identifies the services that provide functionality within
 
 The Services Framework is designed for ICAM program managers and information technology enterprise architects.
 
-This page describes the services that support each ICAM practice area and supporting element, with descriptions and simple graphics for you to use:
+These pages describe the services that support each ICAM practice area and supporting element, with descriptions and simple graphics for you to use:
 
 * [Identity Management]({{site.baseurl}}{{page.url}}identity)
 * [Credential Management]({{site.baseurl}}{{page.url}}credentials)
