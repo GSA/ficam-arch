@@ -5,7 +5,7 @@ collection: usecases
 permalink: usecases/proofidentity/
 ---
 
-![Three hexagons with the letters I, C, and A. The I is highlighted in red for Identity Management, with a red banner for the Identity Proofing service. ]({{site.baseurl}}/img/usecases/Identity-IdentityProofing.png){:align="right" style="padding-left:15px"}
+![Three hexagons with the letters I, C, and A. The I is highlighted in orange for Identity Management, with an orange banner for the Identity Proofing service. ]({{site.baseurl}}/img/usecases/Identity-IdentityProofing.png){:align="right" style="padding-left:15px"}
 
 Before you can create a credential and assign it to an individual, that person must provide proof of their claimed identity. Identity proofing is the process by which a federal agency collects and verifies information about a person to establish an enterprise identity.
 
@@ -20,7 +20,7 @@ For more information about identity proofing and IALs, see <a href="https://page
 
 ---
 
-<p style="font-size: 3rem; font-weight: 700;">Use Case</p>
+## Use Case
 
 In this use case, an administrator needs to collect or manage identity data for an employee or contractor for the purpose of creating an enterprise identity record and maintaining it throughout its lifecycle.
 
@@ -42,8 +42,7 @@ td {
   </tr>
   <tr>
     <td style="width:250px;border:0px;"><strong>2. Verify the identity information</strong> <br> <img src="../../img/usecases/2-2.png" width="250" alt="A diagram showing an administrator verifying information presented by an employee or contractor."></td>
-    <td style="border:0px;"><strong>IAL2</strong> - The administrator confirms the information provided is valid and current by comparing photo identification to the individual, or confirming contact information, ensuring it matches the provided documentation. <br><br><strong>IAL3</strong> - The administrator verifies all information with the issuing organization. <br> <i>Result:</i> The individual’s identity has been successfully proofed at IAL2, or IAL3.
-</td>
+    <td style="border:0px;"><strong>IAL2</strong> - The administrator confirms the information provided is valid and current by comparing photo identification to the individual, or confirming contact information, ensuring it matches the provided documentation. <br><br><strong>IAL3</strong> - The administrator verifies all information with the issuing organization. <br> <i>Result:</i> The individual’s identity has been successfully proofed at IAL2, or IAL3.</td>
   </tr>
 </table>
 

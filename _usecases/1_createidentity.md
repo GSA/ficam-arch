@@ -5,13 +5,13 @@ collection: usecases
 permalink: usecases/createidentity/
 ---
 
-![Three hexagons with the letters I, C, and A. The I is highlighted in red for Identity Management, with a red banner for the Creation service.]({{site.baseurl}}/img/usecases/Identity-Creation.png){:align="right" style="padding-left:15px"}
+![Three hexagons with the letters I, C, and A. The I is highlighted in orange for Identity Management, with an orange banner for the Creation service.]({{site.baseurl}}/img/usecases/Identity-Creation.png){:align="right" style="padding-left:15px"}
 
 When you onboard an employee or contractor at your agency, you collect identity information from the individual, and store parts of that information as identity attributes. These attributes serve as a digital proxy for the individual’s identity, also known as an enterprise identity.
 
 ---
 
-<p style="font-size: 3rem; font-weight: 700;">Use Case</p>
+### Use Case
 
 In this use case, an administrator needs to collect or manage identity data for an employee or contractor for the purpose of creating an enterprise identity record and maintaining it throughout its lifecycle.
 
