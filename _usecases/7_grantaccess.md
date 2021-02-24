@@ -11,7 +11,7 @@ This use case describes the steps to authenticate individuals and authorize acce
 
 ---
 
-<p style="font-size: 3rem; font-weight: 700;">Use Case</p>
+## Use Case
 
 In this use case, an Access Control System (ACS) Administrator needs to grant access to an employee or contractor who has an enterprise identity and active credential and needs to access a logical or physical resource. These steps assume the employee or contractor already has credentials to support authentication as well as the access entitlements to support authorization decisions.
 

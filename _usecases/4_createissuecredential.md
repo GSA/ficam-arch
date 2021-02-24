@@ -11,7 +11,7 @@ After you identity proof an individual, you’ll issue some proof of that indivi
 
 ---
 
-<p style="font-size: 3rem; font-weight: 700;">Use Case</p>
+## Use Case
 
 In this use case, an administrator needs to issue a credential to an employee or contractor.
 
