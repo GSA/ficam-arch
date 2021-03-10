@@ -3,6 +3,7 @@ layout: default
 title: 6. Manage the Credential Lifecycle
 collection: usecases
 permalink: usecases/managecredential/
+redirect_to: https://playbooks.idmanagement.gov/arch/managecredential
 ---
 
 ![Three hexagons with the letters I, C, and A. The C is highlighted in green for Credential Management, with a green banner for the Maintenance and Revocation services. ]({{site.baseurl}}/img/usecases/Credential-MaintenanceRevocation.png){:align="right" style="padding-left:15px"}

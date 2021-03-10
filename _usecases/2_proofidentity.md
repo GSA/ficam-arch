@@ -3,6 +3,7 @@ layout: default
 title: 2. Proof an Identity
 collection: usecases
 permalink: usecases/proofidentity/
+redirect_to: https://playbooks.idmanagement.gov/arch/proofidentity
 ---
 
 ![Three hexagons with the letters I, C, and A. The I is highlighted in orange for Identity Management, with an orange banner for the Identity Proofing service. ]({{site.baseurl}}/img/usecases/Identity-IdentityProofing.png){:align="right" style="padding-left:15px"}

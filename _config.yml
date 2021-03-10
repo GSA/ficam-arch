@@ -46,6 +46,9 @@ navbar:
 # Put the information about your site's GitHub repository if it is public
 repo_url: https://github.com/GSA/ficam-arch/
 
+plugins:
+  - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
 

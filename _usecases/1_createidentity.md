@@ -3,6 +3,7 @@ layout: default
 title: 1. Create and Maintain an Identity
 collection: usecases
 permalink: usecases/createidentity/
+redirect_to: https://playbooks.idmanagement.gov/arch/createidentity
 ---
 
 ![Three hexagons with the letters I, C, and A. The I is highlighted in orange for Identity Management, with an orange banner for the Creation service.]({{site.baseurl}}/img/usecases/Identity-Creation.png){:align="right" style="padding-left:15px"}

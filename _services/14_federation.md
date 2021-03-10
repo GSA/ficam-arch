@@ -3,6 +3,7 @@ layout: default
 title: Federation
 collection: services
 permalink: services/federation/
+redirect_to: https://playbooks.idmanagement.gov/arch/federation
 ---
 
 ![A gray box with the list of Federation services defined later in the body text of this page.]({{site.baseurl}}/img/services/FederationServices.png){:align="right" style="padding-left:30px"}

@@ -3,6 +3,7 @@ layout: default
 title: 7. Grant Access
 collection: usecases
 permalink: usecases/grantaccess/
+redirect_to: https://playbooks.idmanagement.gov/arch/grantaccess
 ---
 
 ![This use case corresponds to the Authentication and Authorization service areas of Access Management.]({{site.baseurl}}/img/usecases/Access-AuthnAuthz.png){:align="right" style="padding-left:15px"}

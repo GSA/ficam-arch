@@ -2,6 +2,7 @@
 layout: default
 title: Goals and Objectives
 permalink: /goals/
+redirect_to: https://playbooks.idmanagement.gov/arch/goals
 ---
 These goals and objectives identify the aims and outcomes of a Federal agency enterprise ICAM program, specifically to map ICAM functions to government-wide policies, cross-agency priorities, and strategic government initiatives.
 
