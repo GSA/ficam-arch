@@ -3,6 +3,7 @@ layout: default
 title: Identity Management
 collection: services
 permalink: services/identity/
+redirect_to: https://playbooks.idmanagement.gov/arch/identity
 ---
 ![An orange box with the list of Identity Management services defined later in the body text of this page.]({{site.baseurl}}/img/services/IdentityManagementServices.png){:align="right" style="padding-left:30px"}
 
