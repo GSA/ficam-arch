@@ -3,6 +3,7 @@ layout: default
 title: Credential Management
 collection: services
 permalink: services/credentials/
+redirect_to: https://playbooks.idmanagement.gov/arch/credential
 ---
 ![A green box with the list of Credential Management services defined later in the body text of this page.]({{site.baseurl}}/img/services/CredentialManagementServices.png){:align="right" style="padding-left:30px"}
 
