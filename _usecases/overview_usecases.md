@@ -3,6 +3,7 @@ layout: default
 title:  Use Cases
 collection: usecases
 permalink: /usecases/
+redirect_to: https://playbooks.idmanagement.gov/arch/usecase
 ---
 
 These use cases are designed for ICAM Enterprise Architects and business owners, and describe some of the most common ICAM business processes.
