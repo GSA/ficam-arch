@@ -2,6 +2,7 @@
 layout: default
 title: Standards and Policies
 permalink: /standards/
+redirect_to: https://playbooks.idmanagement.gov/arch/standards
 ---
 
 Review the federal policies and standards that impact and shape the implementations of ICAM programs and systems.

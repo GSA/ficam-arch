@@ -3,6 +3,7 @@ layout: default
 title: 5. Issue a Derived Credential
 collection: usecases
 permalink: usecases/derivecredential/
+redirect_to: https://playbooks.idmanagement.gov/arch/derivecredential
 ---
 
 ![Three hexagons with the letters I, C, and A. The C is highlighted in green for Credential Management, with a green banner for the Maintenance service.]({{site.baseurl}}/img/usecases/Credential-Maintenance.png){:align="right" style="padding-left:15px"}

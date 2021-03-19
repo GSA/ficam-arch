@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Introduction
+redirect_to: https://playbooks.idmanagement.gov/arch/intro-arch/
 permalink: /
 ---
 

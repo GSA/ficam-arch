@@ -3,6 +3,7 @@ layout: default
 title: 8. Accept Federation Assertions
 collection: usecases
 permalink: usecases/federate/
+redirect_to: https://playbooks.idmanagement.gov/arch/federate
 ---
 
 ![Three hexagons with the letters I in orange, C in green, and A in blue, with a gray banner for the Attribute Exchange service in Federation.]({{site.baseurl}}/img/usecases/Federation-AttributeExchange.png){:align="right" style="padding-left:15px"}

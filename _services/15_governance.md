@@ -3,6 +3,7 @@ layout: default
 title: Governance
 collection: services
 permalink: services/governance/
+redirect_to: https://playbooks.idmanagement.gov/arch/governance
 ---
 
 ![A navy box with the list of Governance services defined later in the body text of this page.]({{site.baseurl}}/img/services/GovernanceServices.png){:align="right" style="padding-left:30px"}

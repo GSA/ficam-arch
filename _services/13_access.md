@@ -3,6 +3,7 @@ layout: default
 title: Access Management
 collection: services
 permalink: services/access/
+redirect_to: https://playbooks.idmanagement.gov/arch/access
 ---
 
 ![A blue box with the list of Access Management services defined later in the body text of this page.]({{site.baseurl}}/img/services/AccessManagementServices.png){:align="right" style="padding-left:30px"}
